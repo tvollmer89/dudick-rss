@@ -1,0 +1,1881 @@
+xml: <products>
+  <product>
+    <name>Caulk 100XT</name>
+    <id>169D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Epoxy Novolacs</type>
+    </types>
+    <applications></applications>
+    <markets></markets>
+    <features>
+      <feature>Superior Chemical Resistance</feature>
+      <feature>Outstanding elongation properties</feature>
+      <feature>Excellent bond strength assures good adhesion</feature>
+      <feature>Factory proportioned packaging ensures consistent high quality and simplified mixing</feature>
+      <feature>Long Pot Life</feature>
+      <feature>VOC Compliant in all U.S. states</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/169D/PDS%3A%7BPC%3A169D%3BMID%3A1%3BLID%3A1%7D/Caulk_100XT_PDS.pdf" type="PDS">
+        <name>Caulk 100XT PDS</name>
+      </link>
+    </links>
+    <genericType>Fluoro-elastomer joint sealant</genericType>
+    <designation> </designation>
+    <description>Caulk 100XT is a highly flexible, two-component, 100% solids joint sealant with superior chemical resistance. It will withstand repeated expansion and contraction and remain resilient through daily and seasonal cyclic changes in temperature. Caulk 100XT is to be used as a specialty joint sealant designed for environments where resistance to spills of concentrated acids and most solvents is required.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Caulk PSC</name>
+    <id>244D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Specialties</type>
+    </types>
+    <applications>
+      <application>Concrete Repair</application>
+      <application>Industrial</application>
+      <application>Secondary Containment</application>
+    </applications>
+    <markets>
+      <market>Secondary Containment</market>
+      <market>Oil &amp; Gas Midstream</market>
+      <market>Flooring</market>
+    </markets>
+    <features>
+      <feature>State of Florida: Secondary Containment Approval EQ-510</feature>
+      <feature>Long term abrasion and chemical resistance</feature>
+      <feature>Excellent bond strength assures good adhesion</feature>
+      <feature>Factory proportioned packaging ensures consistent high quality and simplified mixing</feature>
+      <feature>VOC Compliant in all U.S. states</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/244D/PDS%3A%7BPC%3A244D%3BMID%3A1%3BLID%3A1%7D/Caulk_PSC_PDS.pdf" type="PDS">
+        <name>Caulk PSC PDS</name>
+      </link>
+    </links>
+    <genericType>Elastomeric polysulfide caulk</genericType>
+    <designation> </designation>
+    <description>Caulk PSC is a two-component, 100% solids, chemically resistant sealant. It will withstand repeated expansion and contraction and remain resilient through daily and seasonal cyclic changes in temperature. Caulk PSC is to be used as a general purpose expansion joint sealant designed for splash and spill and secondary containment of moderate strength acids, alkalis and some solvents typically found in industrial chemical processing.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>EA-1 Aggregate</name>
+    <id>126D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Specialties</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+      <application>Secondary Containment</application>
+    </applications>
+    <markets>
+      <market>Flooring</market>
+    </markets>
+    <features></features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/126D/12633/EA-1+Filler+GHS.pdf" type="OTHER">
+        <name>EA-1 Filler</name>
+      </link>
+    </links>
+    <genericType></genericType>
+    <designation> </designation>
+    <description></description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Polymer Carbide</name>
+    <id>288D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Steel Repair</type>
+    </types>
+    <applications>
+      <application>Industrial</application>
+      <application>High Abrasion / Impact Coatings</application>
+    </applications>
+    <markets>
+      <market>Pulp &amp; Paper</market>
+      <market>Chemical Processing/Refining</market>
+      <market>Metals &amp; Mining</market>
+      <market>Petrochemical</market>
+      <market>OEM</market>
+    </markets>
+    <features>
+      <feature>Good overall chemical resistance</feature>
+      <feature>Simple troweled application</feature>
+      <feature>Zero VOC</feature>
+      <feature>Excellent adhesion</feature>
+      <feature>Superior abrasion resistance</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/288D/PDS%3A%7BPC%3A288D%3BMID%3A1%3BLID%3A1%7D/Polymer_Carbide_PDS.pdf" type="PDS">
+        <name>Polymer Carbide PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/288D/12504/Polymer+Steel+Flyer+042022.pdf" type="OTHER">
+        <name>Polymer Steel Flyer</name>
+      </link>
+    </links>
+    <genericType>100% solids, ceramic carbide filled multifunctional epoxy putty</genericType>
+    <designation> </designation>
+    <description>A ceramic carbide epoxy putty designed to resistance against severe abrasion, impact and cavitation. It resists a wide variety of chemicals and reinforces wear-plates in material handling service.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Polymer Quartz</name>
+    <id>286D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Repair Mortars</type>
+    </types>
+    <applications></applications>
+    <markets></markets>
+    <features></features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/286D/PDS%3A%7BPC%3A286D%3BMID%3A1%3BLID%3A1%7D/Polymer_Quartz_PDS.pdf" type="PDS">
+        <name>Polymer Quartz PDS</name>
+      </link>
+    </links>
+    <genericType>concrete repair grout material</genericType>
+    <designation> </designation>
+    <description>Grout shall be epoxy based material supplied with an appropriate hardener and graded silica aggregate as manufactured by Dudick Inc. Installation shall be in accordance with the manufacturer&apos;s recommended practices.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Polymer Steel EG</name>
+    <id>177D</id>
+    <family>Polymer Steel</family>
+    <types>
+      <type>Steel Repair</type>
+    </types>
+    <applications>
+      <application>Industrial</application>
+      <application>High Abrasion / Impact Coatings</application>
+    </applications>
+    <markets>
+      <market>Pulp &amp; Paper</market>
+      <market>Chemical Processing/Refining</market>
+      <market>Metals &amp; Mining</market>
+      <market>Petrochemical</market>
+      <market>OEM</market>
+    </markets>
+    <features>
+      <feature>Rapid cure for service (dry to touch in 1 hour)</feature>
+      <feature>Convenient half kit packaging to reduce waste</feature>
+      <feature>Good overall chemical resistance</feature>
+      <feature>Simple troweled application</feature>
+      <feature>High build capabilities</feature>
+      <feature>Zero VOC</feature>
+      <feature>Excellent adhesion</feature>
+      <feature>Excellent abrasion resistance</feature>
+      <feature>Sandable</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/177D/PDS%3A%7BPC%3A177D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_EG_PDS.pdf" type="PDS">
+        <name>Polymer Steel EG PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/177D/12502/Polymer+Steel+Flyer+042022.pdf" type="OTHER">
+        <name>Polymer Steel Flyer</name>
+      </link>
+    </links>
+    <genericType>100% solids aluminum oxide filled emergency grade resurfacer</genericType>
+    <designation> </designation>
+    <description>An emergency grade, multi-functional epoxy putty for applications where downtime is minimal. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Polymer Steel MG</name>
+    <id>178D</id>
+    <family>Polymer Steel</family>
+    <types>
+      <type>Steel Repair</type>
+    </types>
+    <applications>
+      <application>Industrial</application>
+      <application>High Abrasion / Impact Coatings</application>
+    </applications>
+    <markets>
+      <market>Pulp &amp; Paper</market>
+      <market>Chemical Processing/Refining</market>
+      <market>Metals &amp; Mining</market>
+      <market>Petrochemical</market>
+      <market>OEM</market>
+    </markets>
+    <features>
+      <feature>Good overall chemical resistance</feature>
+      <feature>Simple troweled application</feature>
+      <feature>Machinable in 2-4 hours</feature>
+      <feature>Zero VOC</feature>
+      <feature>Excellent adhesion</feature>
+      <feature>Excellent abrasion resistance</feature>
+      <feature>Sandable</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/178D/12212/Polymer+Steel+Flyer+042022.pdf" type="OTHER">
+        <name>Polymer Steel Flyer</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/178D/PDS%3A%7BPC%3A178D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_MG_PDS.pdf" type="PDS">
+        <name>Polymer Steel MG PDS</name>
+      </link>
+    </links>
+    <genericType>100% solids aluminum oxide filled machinable resurfacer</genericType>
+    <designation> </designation>
+    <description>A machine grade epoxy putty for repairing damaged shafts, valves, and other mated metal surfaces. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Polymer Steel RG</name>
+    <id>179D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Steel Repair</type>
+    </types>
+    <applications>
+      <application>Industrial</application>
+      <application>High Abrasion / Impact Coatings</application>
+    </applications>
+    <markets>
+      <market>Pulp &amp; Paper</market>
+      <market>Chemical Processing/Refining</market>
+      <market>Metals &amp; Mining</market>
+      <market>Petrochemical</market>
+      <market>OEM</market>
+    </markets>
+    <features>
+      <feature>Good overall chemical resistance</feature>
+      <feature>Simple troweled application</feature>
+      <feature>High build capabilities</feature>
+      <feature>Zero VOC</feature>
+      <feature>Excellent adhesion</feature>
+      <feature>Excellent abrasion resistance</feature>
+      <feature>Sandable</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/179D/12501/Polymer+Steel+Flyer+042022.pdf" type="OTHER">
+        <name>Polymer Steel Flyer</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/179D/PDS%3A%7BPC%3A179D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_RG_PDS.pdf" type="PDS">
+        <name>Polymer Steel RG PDS</name>
+      </link>
+    </links>
+    <genericType>100% solids aluminum oxide filled rebuild grade resurfacer</genericType>
+    <designation> </designation>
+    <description>A rebuild grade, multi-functional epoxy putty for restoring eroded or cavitated areas of metal to its original contour. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Polymer Steel SG</name>
+    <id>180D</id>
+    <family>Polymer Steel</family>
+    <types>
+      <type>Steel Repair</type>
+    </types>
+    <applications>
+      <application>Industrial</application>
+      <application>High Abrasion / Impact Coatings</application>
+    </applications>
+    <markets>
+      <market>Pulp &amp; Paper</market>
+      <market>Chemical Processing/Refining</market>
+      <market>Metals &amp; Mining</market>
+      <market>Petrochemical</market>
+      <market>OEM</market>
+    </markets>
+    <features>
+      <feature>Smooth</feature>
+      <feature> slick finish</feature>
+      <feature>Corrosion and galvanic resistant</feature>
+      <feature>Good overall chemical resistance</feature>
+      <feature>High build capabilities</feature>
+      <feature>Zero VOC</feature>
+      <feature>Exceptional adhesion</feature>
+      <feature>Excellent abrasion resistance</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/180D/12503/Polymer+Steel+Flyer+042022.pdf" type="OTHER">
+        <name>Polymer Steel Flyer</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/180D/PDS%3A%7BPC%3A180D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_SG_PDS.pdf" type="PDS">
+        <name>Polymer Steel SG PDS</name>
+      </link>
+    </links>
+    <genericType>100% solids aluminum oxide filled surface grade resurfacer</genericType>
+    <designation> </designation>
+    <description>A surface grade, fluid applied epoxy coating used to provide both corrosion and erosion protection for degraded steel substrates. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Primer 27</name>
+    <id>101D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Vinyl Esters</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+      <application>Secondary Containment</application>
+    </applications>
+    <markets>
+      <market>Water &amp; Wastewater</market>
+      <market>Secondary Containment</market>
+      <market>Electronics</market>
+      <market>Chemical Processing/Refining</market>
+      <market>Petrochemical</market>
+      <market>Flooring</market>
+    </markets>
+    <features>
+      <feature>Can minimize outgassing on concrete</feature>
+      <feature>Promotes higher adhesion values between the substrate and lining material</feature>
+      <feature>Low viscosity promotes increased wet out of surface</feature>
+      <feature>Long pot life</feature>
+      <feature>Long recoat window (5 days @ 75°F/23°C)</feature>
+      <feature>Primer for polyester and vinyl ester systems</feature>
+    </features>
+    <links></links>
+    <genericType>Vinyl Ester Primer</genericType>
+    <designation> </designation>
+    <description>A primer designed to provide improved adhesion when installing high performance linings over properly prepared concrete and steel. It lowers the chances of outgassing when used over concrete and can be used as a holding primer for abrasive blasted steel.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Primer 67</name>
+    <id>102D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Epoxy Amines</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Electronics</market>
+      <market>Distributor</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Other</market>
+    </markets>
+    <features>
+      <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
+      <feature>Meets most VOC Requirements</feature>
+      <feature>Low Odor</feature>
+      <feature>User Friendly</feature>
+    </features>
+    <links>
+      <link url="https://carboline.box.com/shared/static/vau2kbkuzbqy3w7zosc82jb4azs3tnrk.pdf" type="OTHER">
+        <name>Primer 67 Environmental Product Declaration (EPD)</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/102D/PDS%3A%7BPC%3A102D%3BMID%3A1%3BLID%3A1%7D/Primer_67_PDS.pdf" type="PDS">
+        <name>Primer 67 PDS</name>
+      </link>
+    </links>
+    <genericType>Epoxy primer</genericType>
+    <designation> </designation>
+    <description>A high solids epoxy primer for steel and concrete. It is used to increase adhesion and reduce the potential for outgassing on concrete substrates. It can also be used to prevent abrasive blasted steel from developing rust bloom prior to the application of a coating or lining system.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Primer 67 DPLV</name>
+    <id>091D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Floor Coating - Epoxy</type>
+    </types>
+    <applications>
+      <application>Concrete Coating Systems</application>
+      <application>Damp Surface Coating</application>
+      <application>Bonding Primers</application>
+      <application>Secondary Containment</application>
+      <application>Tank Linings</application>
+    </applications>
+    <markets>
+      <market>Food &amp; Beverage</market>
+      <market>Flooring</market>
+    </markets>
+    <features>
+      <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
+      <feature>Densifies concrete surface</feature>
+      <feature>Low VOC</feature>
+      <feature>Low Odor</feature>
+      <feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+      <feature>VOC Compliant with LEED 4.1</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/091D/12677/Primer-67DP-LV-A-GHS.pdf" type="OTHER">
+        <name>Primer 67 DPLV Part A SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/091D/12678/Primer-67DP-LV-B-GHS.pdf" type="OTHER">
+        <name>Primer 67 DPLV Part B SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/091D/PDS%3A%7BPC%3A091D%3BMID%3A1%3BLID%3A1%7D/Primer_67_DPLV_PDS.pdf" type="PDS">
+        <name>Primer 67 DPLV PDS</name>
+      </link>
+    </links>
+    <genericType>Low VOC, Deep Penetrating, Epoxy Primer</genericType>
+    <designation> </designation>
+    <description>A low VOC, deep penetrating epoxy primer for dense concrete. It is used to increase adhesion and reduce the potential for outgassing on concrete substrates. Can be used to densify the surface of concrete.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Primer 67C</name>
+    <id>250D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Epoxy Amines</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Electronics</market>
+      <market>Distributor</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Other</market>
+    </markets>
+    <features>
+      <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
+      <feature>Meets most VOC Requirements</feature>
+      <feature>Low Odor</feature>
+      <feature>User Friendly</feature>
+    </features>
+    <links>
+      <link url="https://carboline.box.com/shared/static/vau2kbkuzbqy3w7zosc82jb4azs3tnrk.pdf" type="OTHER">
+        <name>Primer 67 Environmental Product Declaration (EPD)</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/250D/PDS%3A%7BPC%3A250D%3BMID%3A1%3BLID%3A1%7D/Primer_67C_PDS.pdf" type="PDS">
+        <name>Primer 67C PDS</name>
+      </link>
+    </links>
+    <genericType>Conductive Epoxy primer</genericType>
+    <designation> </designation>
+    <description>A high solids conductive epoxy primer for concrete, used in place of traditional primers when the coating or lining system must be holiday tested. It is also used as part of conductive flooring systems, intended to dissipate stray electrical current by running excess current to ground. In both uses, it increases adhesion and reduces the potential for outgassing on concrete substrates.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Primer 67DTO</name>
+    <id>209D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Epoxy Polyamides</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Electronics</market>
+      <market>Distributor</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Other</market>
+    </markets>
+    <features>
+      <feature>Meets most VOC Requirements</feature>
+      <feature>Distinct</feature>
+      <feature> Low Odor</feature>
+      <feature>User Friendly</feature>
+      <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/209D/PDS%3A%7BPC%3A209D%3BMID%3A1%3BLID%3A1%7D/Primer_67DTO_PDS.pdf" type="PDS">
+        <name>Primer 67DTO PDS</name>
+      </link>
+    </links>
+    <genericType>Epoxy primer</genericType>
+    <designation> </designation>
+    <description>A high solids epoxy primer for concrete and steel that has previously been exposed to oils, grease, or
+fats. Specially designed to increase adhesion and reduce the potential for outgassing in high
+performance containment and linings systems</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Primer 67LV</name>
+    <id>184D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Floor Coating - Epoxy</type>
+    </types>
+    <applications></applications>
+    <markets></markets>
+    <features>
+      <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
+      <feature>Low VOC</feature>
+      <feature>Low Odor</feature>
+      <feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+      <feature>VOC Compliant with LEED 4.1</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/184D/PDS%3A%7BPC%3A184D%3BMID%3A1%3BLID%3A1%7D/Primer_67LV_PDS.pdf" type="PDS">
+        <name>Primer 67LV PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/184D/12629/VOC+Emissions+Certificate+-+Primer+67LV+CDPH_May+2024.pdf" type="OTHER">
+        <name>Primer 67LV VOC Emissions Certificate</name>
+      </link>
+    </links>
+    <genericType>Low VOC Epoxy Primer</genericType>
+    <designation> </designation>
+    <description>A low VOC epoxy primer for concrete and steel. It is used to increase adhesion and reduce the potential for outgassing on concrete substrates. It can also be used to prevent abrasive blasted steel from developing rust bloom prior to the application of a coating or lining system.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Protecto-Coat 500</name>
+    <id>339D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Polyureas &amp; Hybrids (Elastomeric)</type>
+    </types>
+    <applications>
+      <application>High Abrasion / Impact Coatings</application>
+      <application>Water / Seawater Immersion</application>
+      <application>Secondary Containment</application>
+      <application>Tank Linings</application>
+    </applications>
+    <markets>
+      <market>Water &amp; Wastewater</market>
+      <market>Secondary Containment</market>
+      <market>Food &amp; Beverage</market>
+      <market>Petrochemical</market>
+      <market>Flooring</market>
+    </markets>
+    <features>
+      <feature>Complies with Greenbook</feature>
+      <feature>Passes ASTM G210 - Severe Wastewater Analysis Tests (SWAT)</feature>
+      <feature>Cold temperature cure</feature>
+      <feature>Fast cure and walk on time</feature>
+      <feature>Excellent barrier properties</feature>
+      <feature> low permeability</feature>
+      <feature>Single-coat application 20 to 125 mils</feature>
+      <feature>Bridges normal shrinkage cracks in concrete</feature>
+      <feature>Monolithic</feature>
+      <feature> protective film for protection of steel and concrete</feature>
+      <feature>Outstanding abrasion</feature>
+      <feature> impact and tear resistance</feature>
+      <feature>Commonly used for Waffle Decks</feature>
+      <feature> where it can be cut away when needed.</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/339D/76CEB8E2B322D59385258A7B00782C6B/339DA1NL_2_USANSI.pdf" type="MSDS">
+        <name>Protecto Coat 500  SDS Part A</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/339D/52B4B8483FB5177E85258A7B00783678/339DB1NL_2_USANSI.pdf" type="MSDS">
+        <name>Protecto Coat 500 SDS Part B</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/339D/PDS%3A%7BPC%3A339D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_500_PDS.pdf" type="PDS">
+        <name>Protecto-Coat 500 PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12325/P+COAT+500+A+SDS.pdf" type="OTHER">
+        <name>Protecto-Coat 500 SDS Part A</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12326/P+Coat+500+B+SDS.pdf" type="OTHER">
+        <name>Protecto-Coat 500 SDS Part B</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12478/Protecto-Coat+500+Flyer_021324.pdf" type="OTHER">
+        <name>Waffle Slab Flyer</name>
+      </link>
+    </links>
+    <genericType>Solvent Free Aromatic Polyurethane Hybrid</genericType>
+    <designation> </designation>
+    <description>Plural-component applied coating used as a lining in the technology manufacturing facilities to protect the substrate from traffic and moderate chemical exposure. Provides protection against microbiologically induced corrosion (MIC) and hydrogen sulfide corrosion found in wastewater treatment service.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Sealer 35</name>
+    <id>296D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Zincs (Inorganic)</type>
+      <type>Insulative Products</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Flooring</market>
+    </markets>
+    <features>
+      <feature>High Solids</feature>
+      <feature>Excellent Color Stability</feature>
+      <feature>Good Stain Resistance</feature>
+      <feature>VOC Compliant</feature>
+      <feature>Low Odor</feature>
+      <feature>High Wear Filler may be incorporated for increased abrasion resistance</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/296D/12575/Sealer+35+Part+A+SDS+1-30-2024.pdf" type="OTHER">
+        <name>Sealer 35 Part A SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/296D/12576/Sealer+35+Part+B+SDS+1-31-2024.pdf" type="OTHER">
+        <name>Sealer 35 Part B SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/296D/PDS%3A%7BPC%3A296D%3BMID%3A1%3BLID%3A1%7D/Sealer_35_PDS.pdf" type="PDS">
+        <name>Sealer 35 PDS</name>
+      </link>
+    </links>
+    <genericType>High solids, hard-wearing, aliphatic polyurethane sealer</genericType>
+    <designation> </designation>
+    <description>A multi-component, aliphatic polyurethane coating. Sealer 35 offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of aliphatic urethane chemistry. Toughness, impact resistance, and stain resistance are inherent qualities of this topcoat.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Sealer 985 (fka Carboseal 985)</name>
+    <id>F141</id>
+    <family>Dudick</family>
+    <types>
+      <type>Polyaspartics</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets></markets>
+    <features>
+      <feature>Quick return to service (2-4 hours for foot traffic)</feature>
+      <feature>Self-leveling</feature>
+      <feature>Smooth</feature>
+      <feature> gloss finish</feature>
+      <feature>Flexible with high impact resistance</feature>
+      <feature>Excellent UV protection</feature>
+      <feature>Excellent chemical and abrasion resistance</feature>
+      <feature>Extended pot-life or working time</feature>
+      <feature>95% volume solids</feature>
+      <feature> low VOC</feature>
+      <feature> low odor</feature>
+      <feature>Suitable for use in USDA inspected facilities</feature>
+      <feature>Available in custom colors</feature>
+      <feature>Class A fire rating per ASTM E84</feature>
+    </features>
+    <links>
+      <link url="https://carboline.box.com/shared/static/5x6k9gfq4giaf538dr0e2of0hqx5lxcr.pdf" type="OTHER">
+        <name>Carboseal 985 Environmental Product Declaration (EPD)</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12626/Sealer+985+%28fka+Carboseal+985%29+Part+A+SDS+6-12-2024.pdf" type="OTHER">
+        <name>Sealer 985 (fka Carboseal 985) Part A SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12627/Sealer+985+%28fka+Carboseal+985%29+Part+B+SDS+6-12-2024.pdf" type="OTHER">
+        <name>Sealer 985 (fka Carboseal 985) Part B SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F141/PDS%3A%7BPC%3AF141%3BMID%3A1%3BLID%3A1%7D/Sealer_985_fka_Carboseal_985_PDS.pdf" type="PDS">
+        <name>Sealer 985 (fka Carboseal 985) PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12673/VOC+Emissions+Certificate+-+Sealer+985_July+2024.pdf" type="OTHER">
+        <name>Sealer 985 CDPH VOC Emissions Certificate</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F141/6DE9A0FCC3DC8DCA8525823B00776ED9/F141B1NL_2_USANSI.pdf" type="MSDS">
+        <name>Sealer 985 SDS Part B</name>
+      </link>
+    </links>
+    <genericType>High-solids polyaspartic floor coating</genericType>
+    <designation> </designation>
+    <description>This high-solids, polyaspartic was developed with excellent chemical resistance, adhesion, and resistance to UV degradation for floor coating applications. it is very low VOC and virtually odor free.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete HD</name>
+    <id>207D</id>
+    <family>Shock-Crete</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Water &amp; Wastewater</market>
+      <market>Secondary Containment</market>
+      <market>Pulp &amp; Paper</market>
+      <market>Chemical Processing/Refining</market>
+      <market>Automotive</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Metals &amp; Mining</market>
+      <market>Other</market>
+      <market>Power - Thermal Fuel</market>
+    </markets>
+    <features>
+      <feature>Unaffected by MVT (moisture vapor transmission)</feature>
+      <feature>Excellent chemical resistance</feature>
+      <feature>High abrasion resistance</feature>
+      <feature>Resistant to thermal shock</feature>
+      <feature>Withstands mechanical stress</feature>
+      <feature>Easy to clean and sterilize surface</feature>
+      <feature>Resistant to steam cleaning</feature>
+      <feature>Positive slip resistance</feature>
+      <feature>May be applied to &quot;green&quot; concrete</feature>
+      <feature>Ultra low VOC/odor</feature>
+      <feature>Suitable for use in USDA inspected facilities</feature>
+      <feature>Resistant to liquid nitrogen (Contact Dudick for recommendations when dealing with liquid nitrogen exposure)</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/207D/PDS%3A%7BPC%3A207D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_HD_PDS.pdf" type="PDS">
+        <name>Shock-Crete HD PDS</name>
+      </link>
+    </links>
+    <genericType>Cementitious urethane flooring mortar</genericType>
+    <designation> </designation>
+    <description>Liquid nitrogen resistant, trowel applied cementitious urethane mortar (1/4&quot;-3/8&quot; / 6-10 mm). Contains  antimicrobial additives that protect it from degradation caused by microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete HF</name>
+    <id>F166</id>
+    <family>Shock-Crete</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Unaffected by MVT (moisture vapor transmission)</feature>
+      <feature>Excellent chemical resistance</feature>
+      <feature>High abrasion resistance</feature>
+      <feature>Resistant to thermal shock</feature>
+      <feature>Withstands mechanical stress</feature>
+      <feature>Easy to clean and sterilize surface</feature>
+      <feature>Resistant to steam cleaning</feature>
+      <feature>Positive slip resistance</feature>
+      <feature>May be applied to &quot;green&quot; concrete</feature>
+      <feature>Ultra low VOC/odor</feature>
+      <feature>Suitable for use in USDA inspected facilities</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F166/F6F2E3D8E66D52E08525892F005D7F38/F166C1NL_2_USANSI.pdf" type="MSDS">
+        <name>Shock-Crete HF Filler SDS Part C</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F166/PDS%3A%7BPC%3AF166%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_HF_PDS.pdf" type="PDS">
+        <name>Shock-Crete HF PDS</name>
+      </link>
+    </links>
+    <genericType>Cementitious urethane flooring mortar</genericType>
+    <designation> </designation>
+    <description>Highly functional trowel applied cementitious urethane mortar (1/4&quot;-3/8&quot; / 6-10mm). Contains Polygiene® which has antimicrobial properties that
+protect it from degradation caused by microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete IF</name>
+    <id>F163</id>
+    <family>Shock-Crete</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Iron filled for ultra durability</feature>
+      <feature>Unaffected by MVT (moisture vapor transmission)</feature>
+      <feature>High abrasion resistance</feature>
+      <feature>Resistant to thermal shock</feature>
+      <feature>Withstands high mechanical stress</feature>
+      <feature>Capable of withstanding stress from heavy machinery</feature>
+      <feature>Easy to clean and sterilize surface</feature>
+      <feature>Resistant to steam cleaning</feature>
+      <feature>Positive slip resistance</feature>
+      <feature>May be applied to &quot;green&quot; concrete</feature>
+      <feature>Ultra low VOC/odor</feature>
+      <feature>Suitable for use in USDA facilities</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F163/38196F0BA8F2C6818525892F005D7E2D/F163C1NL_2_USANSI.pdf" type="MSDS">
+        <name>Shcok-Crete IF Filler SDS Part C</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F163/PDS%3A%7BPC%3AF163%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_IF_PDS.pdf" type="PDS">
+        <name>Shock-Crete IF PDS</name>
+      </link>
+    </links>
+    <genericType>Iron filled cementitious urethane mortar</genericType>
+    <designation> </designation>
+    <description>Exceptionally heavy duty, trowel applied cementitious urethane mortar (3/8&quot;-1/2&quot; / 10-13 mm). Contains Polygiene® which has antimicrobial properties that
+protect it from degradation caused by microorganisms. Demonstrates excellent resistance to mechanical damage, heavy machinery, thermal shock, and chemical attack.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete MD</name>
+    <id>115D</id>
+    <family>Shock-Crete</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications></applications>
+    <markets></markets>
+    <features>
+      <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+      <feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance Certificates Available Upon Request</feature>
+      <feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+      <feature>Thermal Shock Resistant</feature>
+      <feature>Excellent Chemical Resistance</feature>
+      <feature>Low Odor</feature>
+      <feature>Fast Setting</feature>
+      <feature>Low Temperature Cure</feature>
+      <feature>FDA and USDA Compliant</feature>
+      <feature>Resistant to Steam Cleaning</feature>
+      <feature>Anti-Microbial Agents are available as an option</feature>
+      <feature>Anti-Skid Version Available</feature>
+      <feature>Coefficient of Thermal Expansion similar to concrete</feature>
+      <feature>VOC Compliant</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/115D/PDS%3A%7BPC%3A115D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_MD_PDS.pdf" type="PDS">
+        <name>Shock-Crete MD PDS</name>
+      </link>
+    </links>
+    <genericType>Cementitious urethane flooring mortar</genericType>
+    <designation> </designation>
+    <description>An aggregate filled system that develops a cure strength approximately 2 times that of the concrete base to which it is applied. The monolithic
+topping exhibits excellent physical and mechanical
+strength and chemical resistance.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete SL2</name>
+    <id>F165</id>
+    <family>Shock-Crete</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Resistant up to 12 lbs of moisture vapor transmission per 1000 sq ft/ 24hrs</feature>
+      <feature>Excellent chemical resistance</feature>
+      <feature>High abrasion resistance</feature>
+      <feature>Resistant to thermal shock</feature>
+      <feature>Withstands mechanical stress</feature>
+      <feature>Easy to clean and sterilize surface</feature>
+      <feature>Resistant to steam cleaning</feature>
+      <feature>Positive slip resistance</feature>
+      <feature>May be applied to &quot;green&quot; concrete</feature>
+      <feature>Ultra low VOC/odor</feature>
+      <feature>Suitable for use in USDA inspected facilities</feature>
+      <feature>Can be use in decorative flake or quartz systems</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F165/616360E47925F2CA8525892F005D7EA5/F165C1NL_2_USANSI.pdf" type="MSDS">
+        <name>Shock-Crete SL2 Filler SDS Part C</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F165/PDS%3A%7BPC%3AF165%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_SL2_PDS.pdf" type="PDS">
+        <name>Shock-Crete SL2 PDS</name>
+      </link>
+    </links>
+    <genericType>Self-leveling cementitious urethane floor coating</genericType>
+    <designation> </designation>
+    <description>Self-leveling base layer for use in cementitious urethane flooring systems. Flake, colored quartz, or sand can be broadcast in to creat a more decorative flooring system. Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by
+microorganisms.  Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete SR</name>
+    <id>F167</id>
+    <family>Dudick</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Unaffected by MVT (moisture vapor transmisson)</feature>
+      <feature>Excellent chemical resistance</feature>
+      <feature>High abrasion resistance</feature>
+      <feature>Resistant to thermal shock</feature>
+      <feature>Withstands higher mechanical stress</feature>
+      <feature>Easy to clean and sterilize surface</feature>
+      <feature>Resistant to steam cleaning</feature>
+      <feature>Positive slip resistance</feature>
+      <feature>May be applied to &quot;green&quot; concrete</feature>
+      <feature>Ultra low VOC/odor</feature>
+      <feature>Suitable for use in USDA inspected facilities</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F167/12672/VOC+Emissions+Certificate+-+Shock-Crete+SR_July+2024.pdf" type="OTHER">
+        <name>Shock-Crete SR CDPH VOC Emissions Certificate</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F167/79828E80551B55E38525892F005D7FBD/F167C1NL_2_USANSI.pdf" type="MSDS">
+        <name>Shock-Crete SR Filler SDS Part C</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F167/PDS%3A%7BPC%3AF167%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_SR_PDS.pdf" type="PDS">
+        <name>Shock-Crete SR PDS</name>
+      </link>
+    </links>
+    <genericType>Semi self-leveling cementitious urethane floor coating</genericType>
+    <designation> </designation>
+    <description>Easy to apply highly functional slurry-broadcast base layer for use in cementitious urethane flooring systems (3/16-1/4” / 5-6 mm). Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by
+microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete TCUV</name>
+    <id>F162</id>
+    <family>Shock-Crete</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>UV stable</feature>
+      <feature>Excellent chemical resistance</feature>
+      <feature>High abrasion resistance</feature>
+      <feature>Resistant to thermal shock</feature>
+      <feature>Excellent resistance to MVT (moisture vapor transmission)</feature>
+      <feature>Withstands mechanical stress</feature>
+      <feature>Ultra low VOC</feature>
+      <feature>Suitable for use in USDA inspected facilities.</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F162/E17E570CF1239FA78525892F005D7DB9/F162C1NL_2_USANSI.pdf" type="MSDS">
+        <name>Shock-Crete TCUV Filler  SDS Part C</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F162/PDS%3A%7BPC%3AF162%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_TCUV_PDS.pdf" type="PDS">
+        <name>Shock-Crete TCUV PDS</name>
+      </link>
+    </links>
+    <genericType>High performance cementitious urethane floor sealer</genericType>
+    <designation> </designation>
+    <description>Shock-Crete TCUV is a high performance, UV stable, semi-gloss topcoat for cementitious urethane floor systems. Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by microorganisms.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete Topcoat</name>
+    <id>F161</id>
+    <family>Shock-Crete</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>OEM</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Excellent chemical resistance</feature>
+      <feature>High abrasion resistance</feature>
+      <feature>Resistant to thermal shock</feature>
+      <feature>Excellent resistance to MVT (moisture vapor transmission)</feature>
+      <feature>Easy to clean and sterilize</feature>
+      <feature>Resistant to steam cleaning</feature>
+      <feature>Withstands high mechanical stress</feature>
+      <feature>Ultra low VOC/odor</feature>
+      <feature>Suitable for use in USDA inspected facilities</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F161/8A2F64D2D194AC7D8525892F005D7D3E/F161C1NL_2_USANSI.pdf" type="MSDS">
+        <name>Shock-Crete Topcoat Filler SDS Part C</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F161/PDS%3A%7BPC%3AF161%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_Topcoat_PDS.pdf" type="PDS">
+        <name>Shock-Crete Topcoat PDS</name>
+      </link>
+    </links>
+    <genericType>High performance cementitious urethane floor sealer</genericType>
+    <designation> </designation>
+    <description>Polyurethane coating used as a topcoat for cementitious urethane flooring systems.  Excellent primer for cementitious urethane systems due to outstanding resistance to moisture vapor transmission. Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by microorganisms.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Shock-Crete Vertical</name>
+    <id>F160</id>
+    <family>Shock-Crete</family>
+    <types>
+      <type>Urethane Cements</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Excellent chemical resistance</feature>
+      <feature>Withstands high mechanical stress</feature>
+      <feature>High abrasion resistance</feature>
+      <feature>Easy to clean and sterilize surface</feature>
+      <feature>Resistant to thermal shock</feature>
+      <feature>Resistant to steam cleaning</feature>
+      <feature>Ultra low VOC/odor</feature>
+      <feature>Suitable for use in USDA inspected facilities</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F160/872A9A3A7D9575D28525892F005D7CB4/F160C1NL_2_USANSI.pdf" type="MSDS">
+        <name>Shock-Crete Vertical Filler SDS Part C</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F160/PDS%3A%7BPC%3AF160%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_Vertical_PDS.pdf" type="PDS">
+        <name>Shock-Crete Vertical PDS</name>
+      </link>
+    </links>
+    <genericType>Cementitious urethane cove base mortar</genericType>
+    <designation> </designation>
+    <description>Cementitious cove base mortar that provides a durable finish for use with Shock-Crete flooring systems. Contains Polygiene® which has antimicrobial properties that protect it from degradation caused by
+microorganisms.  Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Coat P</name>
+    <id>123D</id>
+    <family>Dudick</family>
+    <types></types>
+    <applications></applications>
+    <markets></markets>
+    <features>
+      <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+      <feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance Certificates Available Upon Request</feature>
+      <feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+      <feature>Low emitting material</feature>
+      <feature>Low installation odor</feature>
+      <feature>Good Chemical &amp; Abrasion Resistance</feature>
+      <feature>USDA &amp; FDA Compliant</feature>
+      <feature>Anti-Microbial Agents are available as an option</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/123D/PDS%3A%7BPC%3A123D%3BMID%3A1%3BLID%3A1%7D/Steri-Coat_P_PDS.pdf" type="PDS">
+        <name>Steri-Coat P PDS</name>
+      </link>
+    </links>
+    <genericType>Multi-functional, UV stable epoxy coating for wall, ceiling &amp; floor applications</genericType>
+    <designation> </designation>
+    <description>This amine cured epoxy coating provides a very tough seamless coating system for high abuse areas. It is an excellent coating for areas requiring protection against the growth of mold, mildew, fungus and bacteria.
+The unique hybrid binder in Steri-Coat P provides high film integrity, and good chemical resistance required for prolonged substrate protection.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Cove Gel</name>
+    <id>181D</id>
+    <family>Dudick</family>
+    <types></types>
+    <applications></applications>
+    <markets></markets>
+    <features>
+      <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+      <feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance Certificates Available Upon Request</feature>
+      <feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+      <feature>Low emitting material</feature>
+      <feature>Low VOC’s</feature>
+      <feature>Low installation odor</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/181D/PDS%3A%7BPC%3A181D%3BMID%3A1%3BLID%3A1%7D/Steri-Cove_Gel_PDS.pdf" type="PDS">
+        <name>Steri-Cove Gel PDS</name>
+      </link>
+    </links>
+    <genericType>100% solids thixotropic epoxy coating</genericType>
+    <designation> </designation>
+    <description>Steri-Cove Gel is an epoxy system designed for installation as integral cove base @ 1/16” to 1/4” thick. For use with Dudick Steri-Flor, Steri-Quartz, Steri-Flake systems, and other systems as recommended by Dudick.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Flor GP</name>
+    <id>116D</id>
+    <family>Steri-Flor</family>
+    <types>
+      <type>Epoxy Amines</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Automotive</market>
+      <market>Distributor</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Other</market>
+    </markets>
+    <features>
+      <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+      <feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance certification available upon request.</feature>
+      <feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+      <feature>Contains 15% post industrial recycled product</feature>
+      <feature>Low VOCs</feature>
+      <feature>Low installation odor</feature>
+      <feature>Can be seeded for anti-skid surface</feature>
+      <feature>Stain resistance with excellent cleanability</feature>
+      <feature>Can be reinforced with fiberglass to increase crack bridging properties</feature>
+      <feature>USDA compliant</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/116D/PDS%3A%7BPC%3A116D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_GP_PDS.pdf" type="PDS">
+        <name>Steri-Flor GP PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/116D/12632/VOC+Emissions+Certificate+-+Steri-Flor+GP_May+2024.pdf" type="OTHER">
+        <name>Steri-Flor GP VOC Emissions Certificate</name>
+      </link>
+    </links>
+    <genericType>Self-leveling, 100% solids, general purpose epoxy floor coating</genericType>
+    <designation> </designation>
+    <description>Steri-Flor GP is a self-leveling epoxy applied to achieve a strongly bonded monolithic topping with moderate chemical resistance and good physical and mechanical properties.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Flor T Bodycoat</name>
+    <id>190D</id>
+    <family>Steri-Flor</family>
+    <types>
+      <type>Floor Coating - Epoxy</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>USDA compliant</feature>
+      <feature>High compressive strength</feature>
+      <feature>Low odor</feature>
+      <feature>Integral cove base and curb (optional)</feature>
+      <feature>Factory engineered aggregate blend for power and hand trowel applications</feature>
+      <feature>Anti-microbial agents are available as an option</feature>
+      <feature>Installed as supplied</feature>
+      <feature> is compliant with California SCAQMD Rule 1113 for VOC content</feature>
+      <feature>Contributes toward satisfying credit MR 5 and EQ 4.2 under LEED</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/190D/12600/EA-1+Filler+SDS.pdf" type="OTHER">
+        <name>EA-1 Filler SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/190D/PDS%3A%7BPC%3A190D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_T_Bodycoat_PDS.pdf" type="PDS">
+        <name>Steri-Flor T Bodycoat PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/190D/12598/Steri-Flor+T+Part+A+SDS.pdf" type="OTHER">
+        <name>Steri-Flor T Part A SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/190D/12599/Steri-Flor+T+Part+B+SDS.pdf" type="OTHER">
+        <name>Steri-Flor T Part A SDS</name>
+      </link>
+    </links>
+    <genericType>Trowel-Applied Epoxy Floor Mortar</genericType>
+    <designation> </designation>
+    <description>A heavy-duty epoxy mortar basecoat. The total system provides a strongly bonded monolithic floor with excellent physical and mechanical properties.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Flor T Groutcoat</name>
+    <id>191D</id>
+    <family>Dudick</family>
+    <types></types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>USDA compliant</feature>
+      <feature>Fast recoat time</feature>
+      <feature>Low odor</feature>
+      <feature>Anti-microbial agents are available as an option</feature>
+      <feature>Installed as supplied</feature>
+      <feature> is compliant with California SCAQMD Rule 1113 for VOC content</feature>
+      <feature>Contributes toward satisfying credit MR 5 and EQ 4.2 under LEED</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/191D/PDS%3A%7BPC%3A191D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_T_Groutcoat_PDS.pdf" type="PDS">
+        <name>Steri-Flor T Groutcoat PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/191D/12601/Steri-Flor+T+Part+A+SDS.pdf" type="OTHER">
+        <name>Steri-Flor T Part A SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/191D/12602/Steri-Flor+T+Part+B+SDS.pdf" type="OTHER">
+        <name>Steri-Flor T Part B SDS</name>
+      </link>
+    </links>
+    <genericType>100% solids, self-leveling epoxy floor coating</genericType>
+    <designation> </designation>
+    <description>An epoxy grout used to seal and fill small voids left from troweling the aggregate filled Steri-Flor T, a heavy-duty industrial troweled mortar.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Flor UV</name>
+    <id>F156</id>
+    <family>Dudick</family>
+    <types></types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Automotive</market>
+      <market>Distributor</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Other</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+      <feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+      <feature>Low viscosity - good wetting properties</feature>
+      <feature> approximately 500 cps mixed.</feature>
+      <feature>Low VOCs</feature>
+      <feature>Low installation odor</feature>
+      <feature> for use in occupied areas.</feature>
+      <feature>Stain resistance with excellent cleanability</feature>
+      <feature>USDA compliant</feature>
+    </features>
+    <links>
+      <link url="https://carboline.box.com/shared/static/jrswk4ptu82pa2qtj5pysssawkf2hjy2.pdf" type="OTHER">
+        <name>Steri-Flor UV Environmental Product Declaration (EPD)</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12102/Steri-Flor+UV+A+SDS.pdf" type="OTHER">
+        <name>Steri-Flor UV Part A SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12101/Steri-Flor+UV+B+SDS.pdf" type="OTHER">
+        <name>Steri-Flor UV Part B SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F156/PDS%3A%7BPC%3AF156%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_UV_PDS.pdf" type="PDS">
+        <name>Steri-Flor UV PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12143/Dudick+Steri-Flor+UV+Product+Flyer_12622.pdf" type="OTHER">
+        <name>Steri-Flor UV Product Flyer</name>
+      </link>
+    </links>
+    <genericType>100% solids, self-leveling epoxy floor coating</genericType>
+    <designation> </designation>
+    <description>Steri-Flor UV is a multi-functional epoxy floor coating with increased UV stability compared to conventional epoxies. 
+It provides good resistance to common chemicals and daily traffic and may be used as a base/color coat, receiving coat, or grout coat for decorative broadcast floors.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Prime</name>
+    <id>F168</id>
+    <family>Dudick</family>
+    <types>
+      <type>Epoxy Amines</type>
+    </types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Water &amp; Wastewater</market>
+      <market>Commercial &amp; Architectural</market>
+      <market>Secondary Containment</market>
+      <market>Automotive</market>
+      <market>Distributor</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Other</market>
+    </markets>
+    <features>
+      <feature>Meets most VOC Requirements</feature>
+      <feature>Low Odor</feature>
+      <feature>User Friendly</feature>
+      <feature>Tolerant to moisture vapor transmission (2)</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F168/12671/VOC+Emissions+Certificate+-+Steri-Prime_July+2024.pdf" type="OTHER">
+        <name>Steri-Prime CDPH VOC Emissions Certificate</name>
+      </link>
+      <link url="https://carboline.box.com/shared/static/lk9eqamvmpjmakh7w3764662y4ujsar2.pdf" type="OTHER">
+        <name>Steri-Prime Environmental Product Declaration (EPD)</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F168/12111/Steri-Prime_PDS_Dudick.pdf" type="OTHER">
+        <name>Steri-Prime PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F168/PDS%3A%7BPC%3AF168%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_PDS.pdf" type="PDS">
+        <name>Steri-Prime PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F168/BAE4053DB92C83218525892F005D8032/F168A1NL_2_USANSI.pdf" type="MSDS">
+        <name>Steri-Prime SDS Part A</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F168/C63F241CA191BB088525892F005D80A5/F168B1NL_2_USANSI.pdf" type="MSDS">
+        <name>Steri-Prime SDS Part B</name>
+      </link>
+    </links>
+    <genericType>Epoxy primer</genericType>
+    <designation> </designation>
+    <description>A high solids epoxy primer for concrete. Designed to increase adhesion and reduce the potential for outgassing in high performance flooring or containment systems.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Prime DTO</name>
+    <id>F169</id>
+    <family>Dudick</family>
+    <types></types>
+    <applications>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Secondary Containment</market>
+      <market>Distributor</market>
+      <market>Food &amp; Beverage</market>
+      <market>Multiple Markets</market>
+      <market>Other</market>
+    </markets>
+    <features>
+      <feature>Meets most VOC Requirements</feature>
+      <feature>Distinct</feature>
+      <feature> But Low Odor</feature>
+      <feature>User Friendly</feature>
+      <feature>Increases adhesion to oil saturated concrete that has been surface cleaned.</feature>
+      <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F169/12098/Steri-Prime_DTO_PDS_Dudick.pdf" type="OTHER">
+        <name>Steri-Prime DTO PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F169/PDS%3A%7BPC%3AF169%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_DTO_PDS.pdf" type="PDS">
+        <name>Steri-Prime DTO PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F169/D3B804417806CD298525892F005D811C/F169A1NL_2_USANSI.pdf" type="MSDS">
+        <name>Steri-Prime DTO SDS Part A</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/F169/E2B10B1E495559B28525892F005D8196/F169B1NL_2_USANSI.pdf" type="MSDS">
+        <name>Steri-Prime DTO SDS Part B</name>
+      </link>
+    </links>
+    <genericType>Epoxy primer</genericType>
+    <designation> </designation>
+    <description>A high solids epoxy primer for concrete that has previously been exposed to oils, grease, or fats. Specially designed to increase adhesion and reduce the potential for outgassing in high performance flooring or containment systems.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Prime WB</name>
+    <id>340D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Water Based Products</type>
+    </types>
+    <applications>
+      <application>Concrete Repair</application>
+      <application>Surface Tolerant Coatings</application>
+      <application>Bonding Primers</application>
+      <application>Resinous Flooring</application>
+    </applications>
+    <markets>
+      <market>Commercial &amp; Architectural</market>
+      <market>Pulp &amp; Paper</market>
+      <market>Distributor</market>
+      <market>Food &amp; Beverage</market>
+      <market>Flooring</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Extremely fast recoatability</feature>
+      <feature>Meets even the most restrictive VOC Requirements</feature>
+      <feature>Low/no Odor</feature>
+      <feature>User Friendly</feature>
+      <feature>Unlimited moisture vapor transmission when used within a water-based system</feature>
+      <feature>Can be used if the substrate is saturated surface damp or &quot;SSD&quot;</feature>
+      <feature>Suitable for use in USDA inspected facilities</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/340D/PDS%3A%7BPC%3A340D%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_WB_PDS.pdf" type="PDS">
+        <name>Steri-Prime WB PDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/340D/0488AF8117573959852589E50057F821/340DA1NL_2_USANSI.pdf" type="MSDS">
+        <name>Steri-Prime WB SDS Part A</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/340D/BCD66F6674AAEAEF852589E50058023C/340DB1NL_2_USANSI.pdf" type="MSDS">
+        <name>Steri-Prime WB SDS Part B</name>
+      </link>
+    </links>
+    <genericType>Water-Based Epoxy Emulsion Primer</genericType>
+    <designation> </designation>
+    <description>A water based epoxy primer for concrete. Designed to increase adhesion and reduce the potential for outgassing in high performance flooring systems.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+  <product>
+    <name>Steri-Seal HB</name>
+    <id>206D</id>
+    <family>Dudick</family>
+    <types>
+      <type>Floor Coating - Epoxy</type>
+    </types>
+    <applications>
+      <application>Concrete Coating Systems</application>
+      <application>Wall Coatings</application>
+    </applications>
+    <markets>
+      <market>Water &amp; Wastewater</market>
+      <market>Commercial &amp; Architectural</market>
+      <market>Pulp &amp; Paper</market>
+      <market>Food &amp; Beverage</market>
+      <market>Government/Military</market>
+      <market>Pharmaceutical</market>
+    </markets>
+    <features>
+      <feature>Excellent chemical resistance</feature>
+      <feature>Good abrasion resistance</feature>
+      <feature>Can be applied at high film thicknesses to ceilings and walls</feature>
+      <feature>USDA Compliant</feature>
+      <feature>Anti-Microbial Agents are available as an option</feature>
+      <feature>Low emitting material</feature>
+      <feature>Low VOC</feature>
+      <feature>Low installation odor</feature>
+    </features>
+    <links>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/206D/12583/Steri-Seal-HB-A-GHS.pdf" type="OTHER">
+        <name>Steri-Seal HB Part A SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/206D/12584/Steri-Seal-HB-B-GHS.pdf" type="OTHER">
+        <name>Steri-Seal HB Part B SDS</name>
+      </link>
+      <link url="https://msds.carboline.com/servlet/FeedFile/1/prod/206D/PDS%3A%7BPC%3A206D%3BMID%3A1%3BLID%3A1%7D/Steri-Seal_HB_PDS.pdf" type="PDS">
+        <name>Steri-Seal HB PDS</name>
+      </link>
+    </links>
+    <genericType>100% solids multi-functional epoxy coating</genericType>
+    <designation> </designation>
+    <description>A high-solids, multi-functional epoxy coating for walls and ceilings. The unique hybrid binder provides high film integrity, and excellent chemical resistance required for prolonged substrate protection. It can be spray applied to a high film build in one or two coats to achieve a monolithic barrier for protecting substrates in aggressive environments.</description>
+    <productfinish></productfinish>
+    <productdfts></productdfts>
+    <solidscontent></solidscontent>
+    <solidsmeasurement></solidsmeasurement>
+    <solidsvalue></solidsvalue>
+    <vocvalues></vocvalues>
+    <dtrs></dtrs>
+    <ratio></ratio>
+    <potlife></potlife>
+    <potlifecomments></potlifecomments>
+    <cureschedule></cureschedule>
+    <locale>en_US</locale>
+  </product>
+</products>
