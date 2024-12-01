@@ -4,13 +4,20 @@ export const products = [
     "product": {
       "name": "Caulk 100XT",
       "id": "169D",
-      "family": "Dudick",
+      "family": "Specialty",
       "types": [
         {
-          "type": "Epoxy Novolacs"
+          "type": "Fluorourethanes"
         }
       ],
-      "applications": [],
+      "applications": [
+        {
+          "application": "Industrial"
+        },
+        {
+          "application": "Secondary Containment"
+        }
+      ],
       "markets": [],
       "features": [
         {
@@ -62,7 +69,7 @@ export const products = [
     "product": {
       "name": "Caulk 149",
       "id": "204D",
-      "family": "Dudick",
+      "family": "Specialty",
       "types": [
         {
           "type": "Specialties"
@@ -118,9 +125,104 @@ export const products = [
   },
   {
     "product": {
+      "name": "Caulk PJS",
+      "id": "F145",
+      "family": "Specialty",
+      "types": [
+        {
+          "type": "Polyureas & Hybrids (Elastomeric)"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Resinous Flooring"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Commercial & Architectural"
+        },
+        {
+          "market": "Food & Beverage"
+        },
+        {
+          "market": "Flooring"
+        },
+        {
+          "market": "Pharmaceutical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "UV resistance"
+        },
+        {
+          "feature": "Fast installation"
+        },
+        {
+          "feature": "Excellent elongation properties"
+        },
+        {
+          "feature": "10-20 minute shave time with a long open shaving window."
+        },
+        {
+          "feature": "Durable"
+        },
+        {
+          "feature": "Cures in temperatures as low as -20°F (-29°C)"
+        },
+        {
+          "feature": "Variety of colors available"
+        },
+        {
+          "feature": "Suitable for use in USDA inspected facilities."
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Carboseal Flex Joint SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F145/B1B9217429D5CEA285258410006844DA/F145A1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Carboseal Flex Joint SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F145/1974801F4AD879708525841000683DD0/F145B1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Caulk PJS PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F145/PDS%3A%7BPC%3AF145%3BMID%3A1%3BLID%3A1%7D/Caulk_PJS_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "UV resistant, 100% solids polyurea joint sealant",
+      "designation": " ",
+      "description": "A UV resistant, 100% solids, two component, heavy duty, semi-rigid polyurea joint sealant designed for filling and protecting control joints and saw cut construction joints in industrial and commercial floors. Developed to fill typical construction joints in order to protect joint edges from spalling and to seal open joints.  Using Carboseal Flex Joint will create a longer lasting floor and reduce the areas where bacteria can hide and grow. It has the unique benefit of being able to be shaved within minutes or up to 24 hours later.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Caulk PSC",
       "id": "244D",
-      "family": "Dudick",
+      "family": "Specialty",
       "types": [
         {
           "type": "Specialties"
@@ -369,7 +471,7 @@ export const products = [
     "product": {
       "name": "Polymer Alloy 2000",
       "id": "182D",
-      "family": "Dudick",
+      "family": "Polymer Alloy",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -408,6 +510,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/182D/PDS%3A%7BPC%3A182D%3BMID%3A1%3BLID%3A1%7D/Polymer_Alloy_2000_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Polymer Alloy 2000 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/182D/2397DB60603FB1BE85258BC6006B25E8/316DA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Alloy 2000 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/182D/DDC9CC9534D3485785258BC60068D6EC/316DB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
         }
       ],
       "genericType": "100% Solids Epoxy",
@@ -431,7 +547,7 @@ export const products = [
     "product": {
       "name": "Polymer Alloy 2000C",
       "id": "092D",
-      "family": "Dudick",
+      "family": "Polymer Alloy",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -470,6 +586,20 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Polymer Alloy 2000C Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/092D/12850/P-Alloy-2000C-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Alloy 2000C Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/092D/12851/P-Alloy-2000C-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Polymer Alloy 2000C PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/092D/PDS%3A%7BPC%3A092D%3BMID%3A1%3BLID%3A1%7D/Polymer_Alloy_2000C_PDS.pdf",
             "@_type": "PDS"
@@ -497,7 +627,7 @@ export const products = [
     "product": {
       "name": "Polymer Alloy 2000LE",
       "id": "127D",
-      "family": "Dudick",
+      "family": "Polymer Alloy",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -542,6 +672,27 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Polymer Alloy 2000C Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/127D/12853/P-Alloy-2000LE-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Alloy 2000LE - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=polymer%20alloy%202000le",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Alloy 2000LE Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/127D/12852/P-Alloy-2000LE-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Polymer Alloy 2000LE PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/127D/PDS%3A%7BPC%3A127D%3BMID%3A1%3BLID%3A1%7D/Polymer_Alloy_2000LE_PDS.pdf",
             "@_type": "PDS"
@@ -569,7 +720,7 @@ export const products = [
     "product": {
       "name": "Polymer Alloy 2000SD",
       "id": "260D",
-      "family": "Dudick",
+      "family": "Polymer Alloy",
       "types": [
         {
           "type": "Floor Coating - Epoxy"
@@ -604,6 +755,34 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Polymer Alloy 2000SD - Environmental Product Declaration (EPD)",
+            "@_url": "https://smartepd.com/epd-library/66fdc75584115314793daadd",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Alloy 2000SD - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Polymer%20Alloy%202000SD",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Alloy 2000SD Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/260D/12854/P-Alloy-2000SD-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Alloy 2000SD Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/260D/12855/P-Alloy-2000SD-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Polymer Alloy 2000SD PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/260D/PDS%3A%7BPC%3A260D%3BMID%3A1%3BLID%3A1%7D/Polymer_Alloy_2000SD_PDS.pdf",
             "@_type": "PDS"
@@ -631,7 +810,7 @@ export const products = [
     "product": {
       "name": "Polymer Carbide",
       "id": "288D",
-      "family": "Dudick",
+      "family": "Polymer Alloy",
       "types": [
         {
           "type": "Steel Repair"
@@ -716,7 +895,7 @@ export const products = [
     "product": {
       "name": "Polymer Concrete 100",
       "id": "279D",
-      "family": "Dudick",
+      "family": "Polymer Concrete",
       "types": [
         {
           "type": "Repair Mortars"
@@ -749,6 +928,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/279D/PDS%3A%7BPC%3A279D%3BMID%3A1%3BLID%3A1%7D/Polymer_Concrete_100_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Polymer Concrete Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/279D/12856/Polymer-Concrete-100A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Concrete Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/279D/12857/Polymer-Concrete-100B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Aggregate-Filled Epoxy Mortar",
@@ -772,7 +965,7 @@ export const products = [
     "product": {
       "name": "Polymer Concrete 100XT",
       "id": "176D",
-      "family": "Dudick",
+      "family": "Polymer Concrete",
       "types": [
         {
           "type": "Repair Mortars"
@@ -795,6 +988,20 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "Polymer Concrete 100XT Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/176D/12858/Polymer-Concrete-100XT-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Concrete 100XT Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/176D/12859/Polymer-Concrete-100XT-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Polymer Concrete 100XT PDS",
@@ -824,7 +1031,7 @@ export const products = [
     "product": {
       "name": "Polymer Concrete 800",
       "id": "273D",
-      "family": "Dudick",
+      "family": "Polymer Concrete",
       "types": [
         {
           "type": "Repair Mortars"
@@ -857,6 +1064,13 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/273D/PDS%3A%7BPC%3A273D%3BMID%3A1%3BLID%3A1%7D/Polymer_Concrete_800_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Polymer Concrete 800 SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/273D/12860/Polymer-Concrete-800-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Aggregate-Filled Vinyl Ester Mortar",
@@ -880,7 +1094,7 @@ export const products = [
     "product": {
       "name": "Polymer Concrete 900",
       "id": "210D",
-      "family": "Dudick",
+      "family": "Polymer Concrete",
       "types": [
         {
           "type": "Repair Mortars"
@@ -913,6 +1127,13 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/210D/PDS%3A%7BPC%3A210D%3BMID%3A1%3BLID%3A1%7D/Polymer_Concrete_900_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Polymer Concrete 900 SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/210D/12861/Polymer-Concrete-900-GHS1.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Aggregate-Filled Novolac Vinyl Ester Mortar",
@@ -936,7 +1157,7 @@ export const products = [
     "product": {
       "name": "Polymer Quartz",
       "id": "286D",
-      "family": "Dudick",
+      "family": "Polymer Concrete",
       "types": [
         {
           "type": "Repair Mortars"
@@ -946,6 +1167,27 @@ export const products = [
       "markets": [],
       "features": [],
       "links": [
+        {
+          "link": {
+            "name": "Polymer Quartz - Filler SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/286D/12862/Polymer-Quartz-Filler-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Quartz - Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/286D/12863/Polymer-Quartz-Resin-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Quartz - Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/286D/12864/Polymer-Quartz-Resin-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Polymer Quartz PDS",
@@ -975,7 +1217,7 @@ export const products = [
     "product": {
       "name": "Polymer Steel EG",
       "id": "177D",
-      "family": "Dudick",
+      "family": "Polymer Steel",
       "types": [
         {
           "type": "Steel Repair"
@@ -1038,6 +1280,20 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Polymer Steel EG - Base SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/177D/12844/Polymer-Steel-EG-Base-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Steel EG - Hardener SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/177D/12845/Polymer-Steel-EG-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Polymer Steel EG PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/177D/PDS%3A%7BPC%3A177D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_EG_PDS.pdf",
             "@_type": "PDS"
@@ -1072,7 +1328,7 @@ export const products = [
     "product": {
       "name": "Polymer Steel MG",
       "id": "178D",
-      "family": "Dudick",
+      "family": "Polymer Steel",
       "types": [
         {
           "type": "Steel Repair"
@@ -1129,8 +1385,22 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Polymer Steel EG - Hardener SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/178D/12847/Polymer-Steel-MG-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Polymer Steel Flyer",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/178D/12212/Polymer+Steel+Flyer+042022.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Steel MG - Base SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/178D/12846/Polymer-Steel-MG-Base-GHS.pdf",
             "@_type": "OTHER"
           }
         },
@@ -1163,7 +1433,7 @@ export const products = [
     "product": {
       "name": "Polymer Steel RG",
       "id": "179D",
-      "family": "Dudick",
+      "family": "Polymer Steel",
       "types": [
         {
           "type": "Steel Repair"
@@ -1227,6 +1497,20 @@ export const products = [
         },
         {
           "link": {
+            "name": "Polymer Steel RG - Base SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/179D/12848/Polymer-Steel-RG-Base-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Steel RG - Hardener SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/179D/12849/Polymer-Steel-RG-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Polymer Steel RG PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/179D/PDS%3A%7BPC%3A179D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_RG_PDS.pdf",
             "@_type": "PDS"
@@ -1254,7 +1538,7 @@ export const products = [
     "product": {
       "name": "Polymer Steel SG",
       "id": "180D",
-      "family": "Dudick",
+      "family": "Polymer Steel",
       "types": [
         {
           "type": "Steel Repair"
@@ -1321,6 +1605,20 @@ export const products = [
         },
         {
           "link": {
+            "name": "Polymer Steel SG - Base SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/180D/12842/Polymer-Steel-SG-Base-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Steel SG - Hardener SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/180D/12843/Polymer-Steel-SG-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Polymer Steel SG PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/180D/PDS%3A%7BPC%3A180D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_SG_PDS.pdf",
             "@_type": "PDS"
@@ -1346,9 +1644,103 @@ export const products = [
   },
   {
     "product": {
+      "name": "Polymer Steel SG Ceramic",
+      "id": "255D",
+      "family": "Polymer Steel",
+      "types": [
+        {
+          "type": "Steel Repair"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Industrial"
+        },
+        {
+          "application": "High Abrasion / Impact Coatings"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Pulp & Paper"
+        },
+        {
+          "market": "Chemical Processing/Refining"
+        },
+        {
+          "market": "Metals & Mining"
+        },
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "OEM"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Smooth"
+        },
+        {
+          "feature": " slick finish"
+        },
+        {
+          "feature": "Corrosion and galvanic resistant"
+        },
+        {
+          "feature": "Good overall chemical resistance"
+        },
+        {
+          "feature": "High build capabilities"
+        },
+        {
+          "feature": "Zero VOC"
+        },
+        {
+          "feature": "Exceptional adhesion"
+        },
+        {
+          "feature": "Excellent abrasion resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Polymer Steel Flyer",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/255D/12694/Polymer+Steel+Flyer+042022.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Steel SG Ceramic PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/255D/PDS%3A%7BPC%3A255D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_SG_Ceramic_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "100% Solids, Ceramic-Filled Multi-Functional Surface Grade Resurfacer",
+      "designation": " ",
+      "description": "A surface grade, fluid applied epoxy coating used to provide both corrosion and abrasion resistance for degraded steel substrates. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Primer 27",
       "id": "101D",
-      "family": "Dudick",
+      "family": "Primers",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -1405,9 +1797,23 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Primer 27 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Primer%2027%2FCarboline",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Primer 27 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/101D/PDS%3A%7BPC%3A101D%3BMID%3A1%3BLID%3A1%7D/Primer_27_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Primer 27 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/101D/A3DCB15993272CFE8525892C0064B001/301DA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
           }
         }
       ],
@@ -1430,9 +1836,55 @@ export const products = [
   },
   {
     "product": {
+      "name": "Primer 27C",
+      "id": "271D",
+      "family": "Primers",
+      "types": [
+        {
+          "type": "Vinyl Esters"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "Primer 27C PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/271D/PDS%3A%7BPC%3A271D%3BMID%3A1%3BLID%3A1%7D/Primer_27C_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Primer 27C SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/271D/12865/primer27c.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "Vinyl Ester Primer",
+      "designation": " ",
+      "description": "Primer 27C is a two-component conductive\nvinyl ester primer designed to be used over\nconcrete whenever the coating or lining system\nmust be spark tested for pinholes.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Primer 67",
       "id": "102D",
-      "family": "Dudick",
+      "family": "Primers",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -1528,7 +1980,7 @@ export const products = [
     "product": {
       "name": "Primer 67 DPLV",
       "id": "091D",
-      "family": "Dudick",
+      "family": "Primers",
       "types": [
         {
           "type": "Floor Coating - Epoxy"
@@ -1623,7 +2075,7 @@ export const products = [
     "product": {
       "name": "Primer 67C",
       "id": "250D",
-      "family": "Dudick",
+      "family": "Primers",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -1671,16 +2123,23 @@ export const products = [
       "links": [
         {
           "link": {
-            "name": "Primer 67 Environmental Product Declaration (EPD)",
-            "@_url": "https://carboline.box.com/shared/static/vau2kbkuzbqy3w7zosc82jb4azs3tnrk.pdf",
+            "name": "Primer 67C PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/250D/PDS%3A%7BPC%3A250D%3BMID%3A1%3BLID%3A1%7D/Primer_67C_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Primer 67C SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/250D/12866/Primer-67C-A-GHS.pdf",
             "@_type": "OTHER"
           }
         },
         {
           "link": {
-            "name": "Primer 67C PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/250D/PDS%3A%7BPC%3A250D%3BMID%3A1%3BLID%3A1%7D/Primer_67C_PDS.pdf",
-            "@_type": "PDS"
+            "name": "Primer 67C SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/250D/12867/Primer-67C-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -1705,7 +2164,7 @@ export const products = [
     "product": {
       "name": "Primer 67DTO",
       "id": "209D",
-      "family": "Dudick",
+      "family": "Primers",
       "types": [
         {
           "type": "Epoxy Polyamides"
@@ -1783,7 +2242,7 @@ export const products = [
     "product": {
       "name": "Primer 67LV",
       "id": "184D",
-      "family": "Dudick",
+      "family": "Primers",
       "types": [
         {
           "type": "Floor Coating - Epoxy"
@@ -1811,9 +2270,23 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Primer 67LV - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Primer%2067LV%2FCarboline",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Primer 67LV PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/184D/PDS%3A%7BPC%3A184D%3BMID%3A1%3BLID%3A1%7D/Primer_67LV_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Primer 67LV SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/184D/12868/Primer-67LV-A-GHS.pdf",
+            "@_type": "OTHER"
           }
         },
         {
@@ -1845,7 +2318,7 @@ export const products = [
     "product": {
       "name": "Primer 67SD",
       "id": "259D",
-      "family": "Dudick",
+      "family": "Primers",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -1887,9 +2360,30 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Primer 67SD - Environmental Product Declaration (EPD)",
+            "@_url": "https://smartepd.com/epd-library/66fdc74b84115314793daac7",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Primer 67SD - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Primer%2067SD",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Primer 67SD PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/259D/PDS%3A%7BPC%3A259D%3BMID%3A1%3BLID%3A1%7D/Primer_67SD_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Primer 67SD SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/259D/12871/Primer-67SD-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -1914,7 +2408,7 @@ export const products = [
     "product": {
       "name": "Protecto-Coat 100XT",
       "id": "103D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Epoxy Novolacs"
@@ -1940,18 +2434,36 @@ export const products = [
           "feature": "Meets all VOC Requirements"
         },
         {
-          "feature": "Can Saturate 1 Ounce Fiberglass Mat"
-        },
-        {
           "feature": "Can be seeded with Sand or Aluminum Oxide for Anti-Skid"
         }
       ],
       "links": [
         {
           "link": {
+            "name": "Protect-Coat 100XT - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 100XT PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/103D/PDS%3A%7BPC%3A103D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_100XT_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 100XT SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/103D/12872/P-Coat-100XT-A-new-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 100XT SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/103D/12873/P-Coat-100XT-B-new-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -1974,9 +2486,71 @@ export const products = [
   },
   {
     "product": {
+      "name": "Protecto-Coat 105XT",
+      "id": "284D",
+      "family": "Protecto-Coat",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Broad spectrum chemical resistance"
+        },
+        {
+          "feature": "Superior adhesion to metal substrates and concrete"
+        },
+        {
+          "feature": "Blush resistant formulation"
+        },
+        {
+          "feature": "Meets all VOC Requirements"
+        },
+        {
+          "feature": "Can be seeded with Sand or Aluminum Oxide for Anti-Skid"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protect-Coat 105XT - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 105XT PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/284D/PDS%3A%7BPC%3A284D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_105XT_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "100% solids, graphite-filled novolac epoxy coating",
+      "designation": " ",
+      "description": "A high-performance, 100% solids, low odor, environmentally safe novolac epoxy coating. Protecto-Coat 105XT uses a moisture-tolerant primer and two coats of graphite flake-filled novolac epoxy resin to protect concrete and metal substrates. The novolac epoxy binder and overlapping flake filler provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Protecto-Coat 1130",
       "id": "128D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [],
       "applications": [],
       "markets": [],
@@ -2004,6 +2578,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/128D/PDS%3A%7BPC%3A128D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_1130_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 1130 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/128D/12874/P-Coat-1130-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 1130 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/128D/12875/P-Coat-1130-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "High solids, high performance, multi-functional epoxy coating",
@@ -2027,7 +2615,7 @@ export const products = [
     "product": {
       "name": "Protecto-Coat 325HB",
       "id": "216D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -2077,7 +2665,7 @@ export const products = [
       ],
       "genericType": "Flake-filled, high performance epoxy coating",
       "designation": " ",
-      "description": "A 100% solids, low temperature cure, flake-filled epoxy resin to protect concrete and metal substrates. The epoxy binder and overlapping flake fillers provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection.",
+      "description": "A 100% solids, flake-filled epoxy resin to protect concrete and metal substrates. The epoxy binder and overlapping flake fillers provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -2194,23 +2782,16 @@ export const products = [
         },
         {
           "link": {
+            "name": "Protecto-Coat 500 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Protecto-Coat%20500",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 500 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/PDS%3A%7BPC%3A339D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_500_PDS.pdf",
             "@_type": "PDS"
-          }
-        },
-        {
-          "link": {
-            "name": "Protecto-Coat 500 SDS Part A",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12325/P+COAT+500+A+SDS.pdf",
-            "@_type": "OTHER"
-          }
-        },
-        {
-          "link": {
-            "name": "Protecto-Coat 500 SDS Part B",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12326/P+Coat+500+B+SDS.pdf",
-            "@_type": "OTHER"
           }
         },
         {
@@ -2242,7 +2823,7 @@ export const products = [
     "product": {
       "name": "Protecto-Coat 800",
       "id": "105D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -2284,6 +2865,13 @@ export const products = [
         },
         {
           "link": {
+            "name": "Protecto-Coat 800 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 800 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/105D/PDS%3A%7BPC%3A105D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_800_PDS.pdf",
             "@_type": "PDS"
@@ -2311,7 +2899,7 @@ export const products = [
     "product": {
       "name": "Protecto-Coat 800AR",
       "id": "228D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -2392,7 +2980,7 @@ export const products = [
     "product": {
       "name": "Protecto-Coat 800HT",
       "id": "131D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -2446,6 +3034,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Protecto-Coat 1130 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/131D/12876/P-Coat-800HT-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 800HT PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/131D/PDS%3A%7BPC%3A131D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_800HT_PDS.pdf",
             "@_type": "PDS"
@@ -2473,7 +3068,7 @@ export const products = [
     "product": {
       "name": "Protecto-Coat 805",
       "id": "106D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -2504,9 +3099,23 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Protecto-Coat 805 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 805 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/106D/PDS%3A%7BPC%3A106D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_805_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 805 SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/106D/12877/P-Coat-805-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -2529,9 +3138,135 @@ export const products = [
   },
   {
     "product": {
+      "name": "Protecto-Coat 900",
+      "id": "107D",
+      "family": "Protecto-Coat",
+      "types": [
+        {
+          "type": "Vinyl Esters"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Excellent Chemical Resistance"
+        },
+        {
+          "feature": "Conductive Version Available"
+        },
+        {
+          "feature": "Low Permeability"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Coat 900 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 900 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/107D/PDS%3A%7BPC%3A107D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 900 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/107D/49CA3A6FDACDC1F48525891D0066F993/307DA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "Flake-Filled, Novolac Vinyl Ester Coating",
+      "designation": " ",
+      "description": "Protecto-Coat 900 exhibits a high cross-link density and offers the best solvent and acid resistance. Protecto-Coat 900 systems are filled with Mica flakes to reduce the coefficient of expansion, and provide a chemical resistant barrier. The lamellar arrangement of flakes reduces water vapor permeation and permits chemical exposure at higher temperatures without increasing the thickness of the coating.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Protecto-Coat 900FR",
+      "id": "133D",
+      "family": "Protecto-Coat",
+      "types": [
+        {
+          "type": "Vinyl Esters"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Tank Linings"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Secondary Containment"
+        },
+        {
+          "market": "Storage Tanks"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Fire Retardant"
+        },
+        {
+          "feature": "Excellent Chemical Resistance"
+        },
+        {
+          "feature": "Conductive Version Available"
+        },
+        {
+          "feature": "Low Permeability"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Coat 900FR PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/133D/PDS%3A%7BPC%3A133D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900FR_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Fire-Retardant, Flake-Filled, Novolac Vinyl Ester Coating",
+      "designation": " ",
+      "description": "Protecto-Coat 900FR exhibits a high cross-link density and offers the best solvent and acid resistance. Protecto-Coat 900FR systems are filled with Mica flakes to reduce the coefficient of expansion, and provide a chemical resistant barrier. The lamellar arrangement of flakes reduces water vapor permeation and permits chemical exposure at higher temperatures without increasing the thickness of the coating.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Protecto-Coat 900HT",
       "id": "134D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -2557,6 +3292,13 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/134D/PDS%3A%7BPC%3A134D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900HT_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 900HT SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/134D/12878/P-Coat-900HT-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Glass Flake-Filled, Novolac Vinyl Ester Coating",
@@ -2578,50 +3320,46 @@ export const products = [
   },
   {
     "product": {
-      "name": "Protecto-Coat 900HT Plus",
-      "id": "135D",
-      "family": "Dudick",
+      "name": "Protecto-Coat 905",
+      "id": "109D",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Vinyl Esters"
         }
       ],
-      "applications": [
-        {
-          "application": "Tank Linings"
-        }
-      ],
-      "markets": [
-        {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Storage Tanks"
-        }
-      ],
+      "applications": [],
+      "markets": [],
       "features": [
         {
-          "feature": "Low Permeability"
-        },
-        {
-          "feature": "High Temperature Resistance"
-        },
-        {
           "feature": "Excellent Chemical Resistance"
+        },
+        {
+          "feature": "Conductive Version Available"
+        },
+        {
+          "feature": "Low Permeability"
         }
       ],
       "links": [
         {
           "link": {
-            "name": "Protecto-Coat 900HT Plus PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/135D/PDS%3A%7BPC%3A135D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900HT_Plus_PDS.pdf",
+            "name": "Protecto-Coat 905 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 905 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/109D/PDS%3A%7BPC%3A109D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_905_PDS.pdf",
             "@_type": "PDS"
           }
         }
       ],
-      "genericType": "Glass Flake-Filled, Novolac Vinyl Ester Coating",
+      "genericType": "Graphite Flake-Filled, Novolac Vinyl Ester Coating",
       "designation": " ",
-      "description": "Protecto-Coat 900HT Plus uses two or three layers of thermosetting, glass flake filled, novolac vinyl ester resin to build up the protection that metal and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic coating.",
+      "description": "A novolac vinyl ester resin formulated specifically as a silica-free lining and utilizes graphite flake fillers for resistance to a wide variety of acids, caustics, salts, oils and mild alkali solutions.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -2640,7 +3378,7 @@ export const products = [
     "product": {
       "name": "Protecto-Coat EPG",
       "id": "136D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Epoxy Phenolic"
@@ -2689,6 +3427,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/136D/PDS%3A%7BPC%3A136D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_EPG_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat EPG SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/136D/12879/P-Coat-EPG-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat EPG SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/136D/12880/P-Coat-EPG-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Glass Flake-Filled Epoxy Phenolic Lining",
@@ -2712,7 +3464,7 @@ export const products = [
     "product": {
       "name": "Protecto-Coat PS",
       "id": "230D",
-      "family": "Dudick",
+      "family": "Protecto-Coat",
       "types": [
         {
           "type": "Polyureas & Hybrids (Elastomeric)"
@@ -2779,6 +3531,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/230D/PDS%3A%7BPC%3A230D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_PS_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat PS SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/230D/12881/P-Coat-PS-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat PS SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/230D/12882/P-Coat-PS-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Elastomeric Polysulfide Coating",
@@ -2802,7 +3568,7 @@ export const products = [
     "product": {
       "name": "Protecto-Crete 140T BC",
       "id": "098D",
-      "family": "Dudick",
+      "family": "Protecto-Crete",
       "types": [
         {
           "type": "Epoxy Novolacs"
@@ -2872,9 +3638,81 @@ export const products = [
   },
   {
     "product": {
+      "name": "Protecto-Crete 140T GC",
+      "id": "090D",
+      "family": "Protecto-Crete",
+      "types": [
+        {
+          "type": "Epoxy Novolacs"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Resinous Flooring"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Food & Beverage"
+        },
+        {
+          "market": "Multiple Markets"
+        },
+        {
+          "market": "Flooring"
+        },
+        {
+          "market": "Pharmaceutical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Low Odor"
+        },
+        {
+          "feature": "VOC Compliant"
+        },
+        {
+          "feature": "Can be used for Coving"
+        },
+        {
+          "feature": " Pitch and Curb Construction"
+        },
+        {
+          "feature": "100% Solids"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Crete 140T GC PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/090D/PDS%3A%7BPC%3A090D%3BMID%3A1%3BLID%3A1%7D/Protecto-Crete_140T_GC_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "100% solids, self-leveling novolac epoxy floor coating",
+      "designation": " ",
+      "description": "A novolac epoxy grout used to seal and fill small voids left from troweling the aggregate filled Protecto-Coat 140T BC, a heavy-duty industrial troweled mortar.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Protecto-Flake 800",
       "id": "144D",
-      "family": "Dudick",
+      "family": "Protecto-Flake",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -2903,6 +3741,13 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/144D/PDS%3A%7BPC%3A144D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flake_800_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Flake 800 SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/144D/12883/P-Flake-800-BC-TC-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Trowel-applied, flake-filled, vinyl ester",
@@ -2926,7 +3771,7 @@ export const products = [
     "product": {
       "name": "Protecto-Flake 900",
       "id": "145D",
-      "family": "Dudick",
+      "family": "Protecto-Flake",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -2972,6 +3817,13 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/145D/PDS%3A%7BPC%3A145D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flake_900_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Flake 900 SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/145D/12884/P-Flake-900-BC-TC-A_GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Trowel-applied, flake-filled, novolac vinyl ester",
@@ -2995,7 +3847,7 @@ export const products = [
     "product": {
       "name": "Protecto-Flex BC",
       "id": "154D",
-      "family": "Dudick",
+      "family": "Protecto-Flex",
       "types": [
         {
           "type": "Epoxy Polyamides"
@@ -3048,23 +3900,30 @@ export const products = [
         },
         {
           "link": {
-            "name": "Protecto-Flex BC PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/154D/PDS%3A%7BPC%3A154D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flex_BC_PDS.pdf",
-            "@_type": "PDS"
+            "name": "Protecto-Flex BC - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Protecto-Flex%20BC",
+            "@_type": "OTHER"
           }
         },
         {
           "link": {
-            "name": "Protecto-Flex Part A SDS",
+            "name": "Protecto-Flex BC Part A SDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/154D/12741/Protecto-Flex+BC+Part+A+SDS+9-10-2024.pdf",
             "@_type": "OTHER"
           }
         },
         {
           "link": {
-            "name": "Protecto-Flex Part B SDS",
+            "name": "Protecto-Flex BC Part B SDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/154D/12742/Protecto-Flex+BC+Part+B+SDS+9-10-2024.pdf",
             "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Flex BC PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/154D/PDS%3A%7BPC%3A154D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flex_BC_PDS.pdf",
+            "@_type": "PDS"
           }
         }
       ],
@@ -3087,9 +3946,81 @@ export const products = [
   },
   {
     "product": {
+      "name": "Protecto-Glass 160XT",
+      "id": "282D",
+      "family": "Protecto-Glass",
+      "types": [
+        {
+          "type": "Epoxy Novolacs"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Concrete Repair"
+        },
+        {
+          "application": "Concrete Coating Systems"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Water & Wastewater"
+        },
+        {
+          "market": "Secondary Containment"
+        },
+        {
+          "market": "Storage Tanks"
+        },
+        {
+          "market": "Flooring"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Meets all VOC requirements"
+        },
+        {
+          "feature": "Low Odor"
+        },
+        {
+          "feature": "Reinforced to bridge small surface cracks"
+        },
+        {
+          "feature": "Can be broadcast for anti-skid"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Glass 160XT PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/282D/PDS%3A%7BPC%3A282D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_160XT_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "100% solids, trowel applied, reinforced, novolac epoxy lining",
+      "designation": " ",
+      "description": "A high-performance, highly chemical resistant lining for protection of metal and concrete. It is well suited for chemical manufacturing or processing operations. Used as a component of a system with fiberglass reinforcement, the separate elements lose their individual identity and become a single, monolithic lining.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Protecto-Glass 860",
       "id": "225D",
-      "family": "Dudick",
+      "family": "Protecto-Glass",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -3159,9 +4090,165 @@ export const products = [
   },
   {
     "product": {
+      "name": "Protecto-Glass 960",
+      "id": "218D",
+      "family": "Protecto-Glass",
+      "types": [
+        {
+          "type": "Vinyl Esters"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Excellent Chemical Resistance"
+        },
+        {
+          "feature": "Bridges Small Concrete Cracks"
+        },
+        {
+          "feature": "Can be seeded for Anti-Skid"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Glass 960 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/218D/PDS%3A%7BPC%3A218D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_960_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Trowel-applied, reinforced, novolac vinyl ester lining & floor topping",
+      "designation": " ",
+      "description": "Protecto-Glass 960 uses several layers of filled, thermosetting novolac vinyl ester resin to build up the protection that steel and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic topping.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Protecto-Line 100",
+      "id": "233D",
+      "family": "Protecto-Line",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        },
+        {
+          "application": "Tank Linings"
+        }
+      ],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Meets all VOC Requirements"
+        },
+        {
+          "feature": "Low Odor"
+        },
+        {
+          "feature": "Conductive Version Available"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Line 100 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/233D/PDS%3A%7BPC%3A233D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_100_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "100% solids, trowel applied, reinforced epoxy lining",
+      "designation": " ",
+      "description": "Protecto-Line 100 uses several layers of amine cured, reinforced epoxy resin to build up the protection that metal and concrete need in chemical manufacturing or\nprocessing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic lining.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Protecto-Line 100XT",
+      "id": "229D",
+      "family": "Protecto-Line",
+      "types": [
+        {
+          "type": "Epoxy Novolacs"
+        },
+        {
+          "type": "Floor Coating - Epoxy"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Low Odor"
+        },
+        {
+          "feature": "Low Taber Abrasion"
+        },
+        {
+          "feature": "Meets all VOC requirements"
+        },
+        {
+          "feature": "Excellent Sulfuric Acid Resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Line 100XT PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/229D/PDS%3A%7BPC%3A229D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_100XT_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Reinforced novolac epoxy lining",
+      "designation": " ",
+      "description": "Protecto-Line 100XT uses several layers of amine cured,\nfilled novolac epoxy resin to build up the protection that\nmetal and concrete need in chemical manufacturing or\nprocessing operations. When fully cured, the separate\nelements lose their individual identity and become a\nsingle, monolithic lining.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Protecto-Line 800",
       "id": "234D",
-      "family": "Dudick",
+      "family": "Protecto-Line",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -3228,9 +4315,55 @@ export const products = [
   },
   {
     "product": {
-      "name": "Scratch Coat 300",
+      "name": "Protecto-Line 900",
+      "id": "211D",
+      "family": "Protecto-Line",
+      "types": [
+        {
+          "type": "Vinyl Esters"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Low Permeability"
+        },
+        {
+          "feature": "Conductive Version Available"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Line 900 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/211D/PDS%3A%7BPC%3A211D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_900_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Trowel applied, reinforced novolac vinyl ester lining",
+      "designation": " ",
+      "description": "Protecto-Line 900 uses several layers of thermosetting, filled novolac vinyl ester resin to build up the protection that metal and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic lining.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Scratch-Coat 300",
       "id": "117D",
-      "family": "Dudick",
+      "family": "Scratch Coat",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -3269,16 +4402,30 @@ export const products = [
       "links": [
         {
           "link": {
-            "name": "Scratch Coat 300 - Health Product Declaration (HPD)",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/117D/12704/1532_Scratch_Coat_300_Health+Product+Declaration.pdf",
+            "name": "Scratch-Coat 300 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Scratch%20Coat%20300",
             "@_type": "OTHER"
           }
         },
         {
           "link": {
-            "name": "Scratch Coat 300 PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/117D/PDS%3A%7BPC%3A117D%3BMID%3A1%3BLID%3A1%7D/Scratch_Coat_300_PDS.pdf",
+            "name": "Scratch-Coat 300 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/117D/PDS%3A%7BPC%3A117D%3BMID%3A1%3BLID%3A1%7D/Scratch-Coat_300_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Scratch-Coat 300 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/117D/12885/Scratch-Coat-300-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Scratch-Coat 300 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/117D/12886/Scratch-Coat-300-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -3301,9 +4448,9 @@ export const products = [
   },
   {
     "product": {
-      "name": "Scratch Coat 800",
+      "name": "Scratch-Coat 800",
       "id": "118D",
-      "family": "Dudick",
+      "family": "Scratch Coat",
       "types": [
         {
           "type": "Vinyl Esters"
@@ -3348,15 +4495,205 @@ export const products = [
       "links": [
         {
           "link": {
-            "name": "Scratch Coat 800 PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/118D/PDS%3A%7BPC%3A118D%3BMID%3A1%3BLID%3A1%7D/Scratch_Coat_800_PDS.pdf",
+            "name": "Scratch-Coat 800 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=scratch-coat%20800",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Scratch-Coat 800 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/118D/PDS%3A%7BPC%3A118D%3BMID%3A1%3BLID%3A1%7D/Scratch-Coat_800_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Scratch-Coat 800 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/118D/35C4F9961BAA5CC18525892C00628870/300DA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
           }
         }
       ],
       "genericType": "Vinyl ester patching compound",
       "designation": " ",
-      "description": "An vinyl ester based patching compound for filling surface defects and bugholes in concrete substrates. This product uses an epoxy resin and a unique, inert mineral filler to achieve a smooth non-slumping fill material. The system is formulated to improve the integrity and continuity of a prepared substrate, prior to the application of a coating or lining system.",
+      "description": "A vinyl ester based patching compound for filling surface defects and bugholes in concrete substrates. This product uses an epoxy resin and a unique, inert mineral filler to achieve a smooth non-slumping fill material. The system is formulated to improve the integrity and continuity of a prepared substrate, prior to the application of a coating or lining system.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 200WB Clear Gloss",
+      "id": "266D",
+      "family": "Sealers",
+      "types": [
+        {
+          "type": "Floor Coating - Urethane"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Field and shop application"
+        },
+        {
+          "feature": "Soap & water clean up"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": " low VOC’s"
+        },
+        {
+          "feature": "Excellent adhesion"
+        },
+        {
+          "feature": "Excellent chemical & abrasion resistance"
+        },
+        {
+          "feature": "Also available in satin"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 200WB Clear Gloss PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/266D/PDS%3A%7BPC%3A266D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Gloss_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Two-component, water-borne aliphatic urethane floor coating",
+      "designation": " ",
+      "description": "A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 200WB Clear Matte",
+      "id": "268D",
+      "family": "Sealers",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Field and shop application"
+        },
+        {
+          "feature": "Soap & water clean up"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": " low VOC’s"
+        },
+        {
+          "feature": "Excellent adhesion"
+        },
+        {
+          "feature": "Excellent chemical & abrasion resistance"
+        },
+        {
+          "feature": "Also available in satin"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 200WB Clear Matte PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/268D/PDS%3A%7BPC%3A268D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Matte_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Two-component, water-borne aliphatic urethane floor coating",
+      "designation": " ",
+      "description": "A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 200WB Clear Satin",
+      "id": "208D",
+      "family": "Sealers",
+      "types": [
+        {
+          "type": "Floor Coating - Epoxy"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Field and shop application"
+        },
+        {
+          "feature": "Soap & water clean up"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": " low VOC’s"
+        },
+        {
+          "feature": "Excellent adhesion"
+        },
+        {
+          "feature": "Excellent chemical & abrasion resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 200WB Clear Satin PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/208D/PDS%3A%7BPC%3A208D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Satin_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Two-component, water-borne aliphatic urethane floor coating",
+      "designation": " ",
+      "description": "A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -3375,7 +4712,7 @@ export const products = [
     "product": {
       "name": "Sealer 200WB Pigmented Gloss",
       "id": "232D",
-      "family": "Dudick",
+      "family": "Sealers",
       "types": [
         {
           "type": "Floor Coating - Epoxy"
@@ -3407,6 +4744,13 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "Sealer 200WB - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Sealer%20200WB",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Sealer 200WB Environmental Product Declaration (EPD)",
@@ -3441,9 +4785,124 @@ export const products = [
   },
   {
     "product": {
+      "name": "Sealer 200WB Pigmented Matte",
+      "id": "096D",
+      "family": "Sealers",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Field and shop application"
+        },
+        {
+          "feature": "Soap & water clean up"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": " low VOC’s"
+        },
+        {
+          "feature": "Excellent adhesion"
+        },
+        {
+          "feature": "Excellent chemical & abrasion resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 200WB Pigmented Matte PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/096D/PDS%3A%7BPC%3A096D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Matte_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Two-component, water-borne aliphatic urethane floor coating",
+      "designation": " ",
+      "description": "A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 200WB Pigmented Satin",
+      "id": "267D",
+      "family": "Sealers",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Field and shop application"
+        },
+        {
+          "feature": "Soap & water clean up"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": " low VOC’s"
+        },
+        {
+          "feature": "Excellent adhesion"
+        },
+        {
+          "feature": "Excellent chemical & abrasion resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 200WB Environmental Product Declaration (EPD)",
+            "@_url": "https://carboline.box.com/shared/static/tt8u8hlt6z2kieb50o2rq2mzy5wlglws.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Pigmented Satin PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/267D/PDS%3A%7BPC%3A267D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Satin_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Water-borne aliphatic urethane",
+      "designation": " ",
+      "description": "A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Sealer 30SD",
       "id": "245D",
-      "family": "Dudick",
+      "family": "Sealers",
       "types": [
         {
           "type": "Polyurethane Finishes"
@@ -3492,6 +4951,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/245D/PDS%3A%7BPC%3A245D%3BMID%3A1%3BLID%3A1%7D/Sealer_30SD_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Sealer 30SD SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/245D/12887/Sealer-30-SD-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 30SD SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/245D/12888/Sealer-30-30SD-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "High solids, two-component, static dissipative aliphatic polyurethane sealer",
@@ -3515,7 +4988,7 @@ export const products = [
     "product": {
       "name": "Sealer 35",
       "id": "296D",
-      "family": "Dudick",
+      "family": "Sealers",
       "types": [],
       "applications": [
         {
@@ -3548,6 +5021,13 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "Sealer 35 - Environmental Product Declaration (EPD)",
+            "@_url": "https://smartepd.com/epd-library/671bcd7a71b10ac292beba79",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Sealer 35 Part A SDS",
@@ -3589,9 +5069,261 @@ export const products = [
   },
   {
     "product": {
+      "name": "Sealer 50 Clear Gloss",
+      "id": "164D",
+      "family": "Sealers",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Contributes toward satisfying credit for low emitting material under LEED 4.1"
+        },
+        {
+          "feature": "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)"
+        },
+        {
+          "feature": "Meets SCAQMD Rule 1113 for VOC content"
+        },
+        {
+          "feature": "Excellent Color Stability"
+        },
+        {
+          "feature": "Excellent Stain Resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 50 Clear Gloss PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/164D/PDS%3A%7BPC%3A164D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_Clear_Gloss_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Two-component, nano enhanced, hybrid fluoropolymer sealer",
+      "designation": " ",
+      "description": "A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of fluoropolymer chemistry.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 50 Clear Satin",
+      "id": "165D",
+      "family": "Sealers",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Contributes toward satisfying credit for low emitting material under LEED 4.1"
+        },
+        {
+          "feature": "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)"
+        },
+        {
+          "feature": "Meets SCAQMD Rule 1113 for VOC content"
+        },
+        {
+          "feature": "Excellent Color Stability"
+        },
+        {
+          "feature": "Excellent Stain Resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 50 Clear Satin PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/165D/PDS%3A%7BPC%3A165D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_Clear_Satin_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Hybrid Fluoropolymer Sealer",
+      "designation": " ",
+      "description": "A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of fluoropolymer chemistry.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 50 Pigmented Gloss",
+      "id": "166D",
+      "family": "Sealers",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Contributes toward satisfying credit for low emitting material under LEED 4.1"
+        },
+        {
+          "feature": "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)"
+        },
+        {
+          "feature": "Meets SCAQMD Rule 1113 for VOC content"
+        },
+        {
+          "feature": "Excellent Color Stability"
+        },
+        {
+          "feature": "Excellent Stain Resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 50 Pigmented Gloss PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/166D/PDS%3A%7BPC%3A166D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_Pigmented_Gloss_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Hybrid Fluoropolymer Sealer",
+      "designation": " ",
+      "description": "A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of fluoropolymer chemistry.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 50 Pigmented Satin",
+      "id": "167D",
+      "family": "Sealers",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Contributes toward satisfying credit for low emitting material under LEED 4.1"
+        },
+        {
+          "feature": "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)"
+        },
+        {
+          "feature": "Meets SCAQMD Rule 1113 for VOC content"
+        },
+        {
+          "feature": "Excellent Color Stability"
+        },
+        {
+          "feature": "Excellent Stain Resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 50 Pigmented Satin PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/167D/PDS%3A%7BPC%3A167D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_Pigmented_Satin_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Hybrid Fluoropolymer Sealer",
+      "designation": " ",
+      "description": "A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of fluoropolymer chemistry.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 50 TSD",
+      "id": "274D",
+      "family": "Sealers",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Contributes toward satisfying credit for low emitting material under LEED 4.1"
+        },
+        {
+          "feature": "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)"
+        },
+        {
+          "feature": "Meets SCAQMD Rule 1113 for VOC content"
+        },
+        {
+          "feature": "Excellent Stain Resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 50 TSD PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/274D/PDS%3A%7BPC%3A274D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_TSD_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Two-component, nano enhanced, static dissipative, hybrid fluoropolymer sealer",
+      "designation": " ",
+      "description": "A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability, resistance to UV degradation, and stain resistance, known industry wide to be inherent of fluoropolymer chemistry.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Sealer 80",
       "id": "341D",
-      "family": "Dudick",
+      "family": "Sealers",
       "types": [
         {
           "type": "Siloxanes"
@@ -3658,7 +5390,7 @@ export const products = [
     "product": {
       "name": "Sealer 985 (fka Carboseal 985)",
       "id": "F141",
-      "family": "Dudick",
+      "family": "Sealers",
       "types": [
         {
           "type": "Polyaspartics"
@@ -3726,13 +5458,6 @@ export const products = [
           "link": {
             "name": "Sealer 985 (fka Carboseal 985) Part A SDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12626/Sealer+985+%28fka+Carboseal+985%29+Part+A+SDS+6-12-2024.pdf",
-            "@_type": "OTHER"
-          }
-        },
-        {
-          "link": {
-            "name": "Sealer 985 (fka Carboseal 985) Part B SDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12627/Sealer+985+%28fka+Carboseal+985%29+Part+B+SDS+6-12-2024.pdf",
             "@_type": "OTHER"
           }
         },
@@ -3878,6 +5603,1446 @@ export const products = [
   },
   {
     "product": {
+      "name": "Semstone 110",
+      "id": "171P",
+      "family": "Semstone",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Water & Wastewater"
+        },
+        {
+          "market": "Pulp & Paper"
+        },
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "OEM"
+        },
+        {
+          "market": "Power - Thermal Fuel"
+        },
+        {
+          "market": "Pharmaceutical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Outstanding wetting properties"
+        },
+        {
+          "feature": "Solvent-free"
+        },
+        {
+          "feature": "Long working time"
+        },
+        {
+          "feature": "Excellent adhesion"
+        },
+        {
+          "feature": "Compatible with a variety of toppings"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 110 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/171P/PDS%3A%7BPC%3A171P%3BMID%3A1%3BLID%3A1%7D/Semstone_110_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 110 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/171P/24821972BA2D14828525705300542E70/171PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 110 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/171P/EB6CC80E43EC562E8525705300542E77/171PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "Modified Epoxy",
+      "designation": " ",
+      "description": "Two part epoxy exhibiting superior adhesion to concrete and steel. Used primarily as a primer/sealer for concrete surfaces and top coated with a variety of chemically resistant toppings.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 140",
+      "id": "173P",
+      "family": "Semstone",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Water & Wastewater"
+        },
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "OEM"
+        },
+        {
+          "market": "Power - Thermal Fuel"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Excellent resistance to chemical attack"
+        },
+        {
+          "feature": "Excellent abrasion and impact resistance"
+        },
+        {
+          "feature": "Exceptional thermal shock resistance"
+        },
+        {
+          "feature": "Superior bonding properties"
+        },
+        {
+          "feature": "High cohesive strength"
+        },
+        {
+          "feature": "Low permeability"
+        },
+        {
+          "feature": "Low odor"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 140 / 145 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/173P/7F8F95C025FFED798525711B006EE071/173PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 140 AFC System Information Sheet",
+            "@_url": "https://carboline.box.com/shared/static/93stxabnaggp3j2ye00hp0bivnbcmh1a.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 140 AFRC System Information Sheet",
+            "@_url": "https://carboline.box.com/shared/static/6yk9nvg6tscvo0t62t7wwgejn9xkz04f.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 140 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/173P/PDS%3A%7BPC%3A173P%3BMID%3A1%3BLID%3A1%7D/Semstone_140_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 140 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/173P/680F0D943B8C36288525705300542E82/173PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 140 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/173P/7817C142F4B93EBC8525705300542E89/173PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Brochure",
+            "@_url": "https://carboline.box.com/shared/static/h4jg65ng1fn8sohqs9f5zs7jrw4uzqjp.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Scrim Cloth SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/173P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone System Selector Guide",
+            "@_url": "https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "100% solids epoxy",
+      "designation": " ",
+      "description": "High performance lining system designed for concrete. Semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Specially formulated to withstand some of industry’s most aggressive chemicals.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 140 CT",
+      "id": "174P",
+      "family": "Semstone",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "OEM"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Excellent resistance to chemical attack"
+        },
+        {
+          "feature": "Excellent abrasion and impact resistance"
+        },
+        {
+          "feature": "Exceptional thermal shock resistance"
+        },
+        {
+          "feature": "Superior bonding qualities"
+        },
+        {
+          "feature": "High cohesive strength"
+        },
+        {
+          "feature": "Low permeability"
+        },
+        {
+          "feature": "Low odor"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 140 CT PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/174P/PDS%3A%7BPC%3A174P%3BMID%3A1%3BLID%3A1%7D/Semstone_140_CT_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 140 CT SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/174P/B986FCFAD4845B4C8525705300542E8F/174PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 140 CT SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/174P/210DCADFA1EA42988525705300542E95/174PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Scrim Cloth SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/174P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "100% Solids, high performance epoxy liner",
+      "designation": " ",
+      "description": "Semstone 140 CT is a 100% solids, high performance, epoxy lining system designed for concrete. It is a semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Semstone 140 CT is specially formulated to withstand some of industry’s most aggressive chemicals.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 145",
+      "id": "177P",
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Epoxy Novolacs"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Water & Wastewater"
+        },
+        {
+          "market": "Metals & Mining"
+        },
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "OEM"
+        },
+        {
+          "market": "Power - Thermal Fuel"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Excellent resistance to chemical attack"
+        },
+        {
+          "feature": "Excellent abrasion and impact resistance"
+        },
+        {
+          "feature": "Exceptional thermal shock resistance"
+        },
+        {
+          "feature": "Superior acid resistance"
+        },
+        {
+          "feature": "Superior bonding qualities"
+        },
+        {
+          "feature": "High cohesive strength"
+        },
+        {
+          "feature": "Low permeability"
+        },
+        {
+          "feature": "Low odor"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 140 / 145 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/177P/7F8F95C025FFED798525711B006EE071/173PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 145 AFC System Information Sheet",
+            "@_url": "https://carboline.box.com/shared/static/pxrve8o4iksem79hd6muiaw9w18ny4q4.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 145 AFRC System Information Sheet",
+            "@_url": "https://carboline.box.com/shared/static/ze50azm3isaadkwhgeg332s8x9d79w6v.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 145 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/177P/PDS%3A%7BPC%3A177P%3BMID%3A1%3BLID%3A1%7D/Semstone_145_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 145 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/177P/DC6FF6705FEBFDB18525705300542EB6/177PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Brochure",
+            "@_url": "https://carboline.box.com/shared/static/h4jg65ng1fn8sohqs9f5zs7jrw4uzqjp.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Scrim Cloth SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/177P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone System Selector Guide",
+            "@_url": "https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "Epoxy novolac",
+      "designation": " ",
+      "description": "100% solids, high performance, novolac epoxy lining system designed for concrete. It is a semi-leveling coating and may be applied as an aggregate filled and/or reinforced coating system. Specially formulated to withstand some of industry’s most aggressive chemicals, including 98% sulfuric acid, as well as many organic chemicals and solvents.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 145 CT",
+      "id": "178P",
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Epoxy Novolacs"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Water & Wastewater"
+        },
+        {
+          "market": "Metals & Mining"
+        },
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "OEM"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Excellent resistance to chemical attack"
+        },
+        {
+          "feature": "Excellent abrasion and impact resistance"
+        },
+        {
+          "feature": "Exceptional thermal shock resistance"
+        },
+        {
+          "feature": "Superior bonding qualities"
+        },
+        {
+          "feature": "High cohesive strength"
+        },
+        {
+          "feature": "Low permeability"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": "Formulated to resist a variety of chemical solutions."
+        },
+        {
+          "feature": "Suitable for use in USDA-inspected facilities"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 145 CT PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/178P/PDS%3A%7BPC%3A178P%3BMID%3A1%3BLID%3A1%7D/Semstone_145_CT_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 145 CT SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/178P/8B29155F58776C11852571110058E59B/177PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 145 CT SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/178P/19FAB6CCEA329B238525705300542ECA/178PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Scrim Cloth SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/178P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "100% Solids, high performance, novolac epoxy liner",
+      "designation": " ",
+      "description": "Semstone 145 CT is a 100% solids, high performance, novolac epoxy lining system designed for concrete. It is a semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Semstone 145 CT is specially formulated to withstand some of industry’s most aggressive chemicals, including 98% sulfuric acid, as well as many organic chemicals and solvents.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 245",
+      "id": "181P",
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Epoxy Novolacs"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Metals & Mining"
+        },
+        {
+          "market": "Petrochemical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Excellent resistance to chemical attack"
+        },
+        {
+          "feature": "Excellent abrasion and impact resistance"
+        },
+        {
+          "feature": "Exceptional thermal shock resistance"
+        },
+        {
+          "feature": "Superior bonding qualities"
+        },
+        {
+          "feature": "High cohesive strength"
+        },
+        {
+          "feature": "Low permeability"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": "Formulated to resist a variety of chemical solutions."
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 245 AFC System Information Sheet",
+            "@_url": "https://carboline.box.com/shared/static/c4w46sr06mjdeseorhb5j3klw2vm903y.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 245 AFRC System Information Sheet",
+            "@_url": "https://carboline.box.com/shared/static/4stss92o27c2eqrk2g8dp2k8hs7d549u.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 245 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/181P/PDS%3A%7BPC%3A181P%3BMID%3A1%3BLID%3A1%7D/Semstone_245_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 245 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/181P/C31A7B69B828E5568525705300542EE6/181PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 245 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/181P/589E45CE4D82C7468525705300542EED/181PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Brochure",
+            "@_url": "https://carboline.box.com/shared/static/h4jg65ng1fn8sohqs9f5zs7jrw4uzqjp.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone System Selector Guide",
+            "@_url": "https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "100% solids, high performance, novolac epoxy liner",
+      "designation": " ",
+      "description": "Semstone 245 is a 100% solids, high performance, novolac epoxy lining system designed for concrete. Semstone 245 is a semileveling coating, it may be applied as an aggregate filled and/or reinforced coating system. Semstone 245 is specially formulated to withstand some of the industry's most aggressive chemicals, including chlorinated solvents.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 305",
+      "id": "317P",
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Repair Mortars"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Petrochemical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Easy to apply"
+        },
+        {
+          "feature": "Nonflammable"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": "Castable"
+        },
+        {
+          "feature": "Make excellent materials of construction"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 305 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/317P/PDS%3A%7BPC%3A317P%3BMID%3A1%3BLID%3A1%7D/Semstone_305_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 305 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/317P/35327CC270316AF285257053005433BC/317PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 305 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/317P/1B6B1392CE758E71852579CD005A2A2A/316PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 305 SDS Part C",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/317P/FC26ED89728728BB852579CD005A6C01/316PC1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "Polymer Concrete",
+      "designation": " ",
+      "description": "Semstone 305 polymer concrete is an excellent alternatives to acid brick. It is used to protect Portland cement concrete from attack from a wide range of aggressive chemicals.\nSemstone 305 polymer concrete can be applied from 1/2” (12.7 mm) to several inches thick. Applied by screed and trowel method, their installation is quick and easy. Semstone 305 provides a monolithic surfacing that has excellent resistance to impact and mechanical abuse and can be used to restore and protect degraded surfaces in a single application.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 6325 Sealant",
+      "id": "193P",
+      "family": "Semstone",
+      "types": [],
+      "applications": [
+        {
+          "application": "Elastomeric Linings"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Pulp & Paper"
+        },
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "OEM"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Long term abrasion and chemical resistance"
+        },
+        {
+          "feature": "Excellent bond strength assures good adhesion"
+        },
+        {
+          "feature": "Pourable viscosity allows easy installation to horizontal surfaces"
+        },
+        {
+          "feature": "Retains physical properties over a wide temperature range"
+        },
+        {
+          "feature": " -20 to 150°F (-29 to 66°C)"
+        },
+        {
+          "feature": "Factory proportioned packaging ensures consistent high quality and simplified mixing"
+        },
+        {
+          "feature": "Compatible with all Carboline  lining systems"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 6325 Color Chart",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/193P/11974/Semstone+6325+Color+Card_0521.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 6325 Sealant ISO (MP7 Isocyanate) SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/193P/54EE0694193499AA8525704200517CF6/193PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 6325 Sealant PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/193P/PDS%3A%7BPC%3A193P%3BMID%3A1%3BLID%3A1%7D/Semstone_6325_Sealant_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 6325 Sealant Polyol SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/193P/F02CF87462C996528525704200517CFF/193PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "",
+      "designation": " ",
+      "description": "Two-component, self-leveling, polyurethane sealant. It exhibits excellent flexibility with moderate hardness and good chemical resistance to organic acids, alkalis and most solvents.\nUses: can be used in conjunction with all lining systems in a wide range of applications.\nAll high movement joints: isolation, expansion or control\nThermal shock situations\nExterior applications",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 805",
+      "id": "199P",
+      "family": "Semstone",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Water & Wastewater"
+        },
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "Pharmaceutical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Highly Flexible"
+        },
+        {
+          "feature": "Chemical Resistant"
+        },
+        {
+          "feature": "Water Resistant"
+        },
+        {
+          "feature": "Abrasion Resistant"
+        },
+        {
+          "feature": "100% Solids"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 805 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/199P/PDS%3A%7BPC%3A199P%3BMID%3A1%3BLID%3A1%7D/Semstone_805_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 805 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/199P/8C8CDD85370E3D1F8525705300542F5F/199PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 805 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/199P/F0FB64D413AAF3C68525705300542F65/199PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Fabric 100 SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/199P/DFA3830EA317FF2185257428004EC17A/312PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "Flexible novolac epoxy coating and lining",
+      "designation": " ",
+      "description": "Semstone 805 is a flexible epoxy polymer coating and lining providing a chemical, water and abrasion resistant barrier for steel and concrete. This versatile coating system was developed as a self-leveling, flexible chemical resistant coating and lining and can also be used as a high build coating and lining system with the addition of a third component. Semstone 805 is a 100% solids, low odor, two-component system applied either as a neat system (unfilled), a reinforced system, an aggregate-filled system or as an aggregate filled reinforced system. A bagged Part C thixotropic agent is added for high build applications. It is most often used with reinforcing fabric (#100) over expansion joints.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 806",
+      "id": "200P",
+      "family": "Semstone",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "OEM"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Flexible"
+        },
+        {
+          "feature": "Abrasion Resistant"
+        },
+        {
+          "feature": "Chemical Resistant"
+        },
+        {
+          "feature": "Waterproof"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 806 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/200P/PDS%3A%7BPC%3A200P%3BMID%3A1%3BLID%3A1%7D/Semstone_806_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 806 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/200P/AE03BD77787C12C98525705300542F6B/200PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 806 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/200P/6ED530A361A5C80C8525705300542F71/200PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 806 VOC Emissions Certificate",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/200P/12631/VOC+Emissions+Certificate+-+Semstone+806_May+2024.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Fabric 100 SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/200P/DFA3830EA317FF2185257428004EC17A/312PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "Rubberized epoxy membrane",
+      "designation": " ",
+      "description": "Semstone 806 is a 100% solids, low odor, rubberized epoxy. It is used as a chemically resistant membrane for concrete. When reinforced with our flexible fabrics it provides a system which will bridge working cracks as well as expansion joints. When reinforced with Semstone 100 fabric, it can bridge crack expansion joint movement up to 1/2” without cracking.\nThis product is a self-leveling material. However, it maybe used as a high build coating system by the addition of a third component, Semstone Thixotrope D, which is a non-silica Thixotrope. When using reinforcing fabric, Thixotrope D  is not required. \nConcrete slabs with severe cracking problems, as well as all construction and expansion joints, may be treated using Semstone 806 with #100 Fabric. This ideal ideal for use as a secondary containment membrane.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 870",
+      "id": "205P",
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Vinyl Esters"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Water & Wastewater"
+        },
+        {
+          "market": "Metals & Mining"
+        },
+        {
+          "market": "Petrochemical"
+        },
+        {
+          "market": "Power - Thermal Fuel"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Excellent resistance to chemical attack"
+        },
+        {
+          "feature": "Built from flexible vinyl ester binders"
+        },
+        {
+          "feature": "Excellent abrasion and impact resistance"
+        },
+        {
+          "feature": "Exceptional thermal shock resistance"
+        },
+        {
+          "feature": "Superior bonding qualities"
+        },
+        {
+          "feature": "High cohesive strength"
+        },
+        {
+          "feature": "Low permeability"
+        },
+        {
+          "feature": "Low odor"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 870 AFC System Information Sheet",
+            "@_url": "https://carboline.box.com/shared/static/vlhvgsy2ha6nm00ngdisntde6nt05eoc.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 870 AFRC System Information Sheets",
+            "@_url": "https://carboline.box.com/shared/static/bjmjymbfzvkco7ip6i6as80t5sr56ea5.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 870 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/205P/PDS%3A%7BPC%3A205P%3BMID%3A1%3BLID%3A1%7D/Semstone_870_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 870 Product Flyer",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/205P/7702/Semstone+870+Flier.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 870 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/205P/9E195CC126B258008525705300542F86/205PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 870 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/205P/6AB4077BBB8EBA518525705300542F8E/205PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Brochure",
+            "@_url": "https://carboline.box.com/shared/static/h4jg65ng1fn8sohqs9f5zs7jrw4uzqjp.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Scrim Cloth SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/205P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone System Selector Guide",
+            "@_url": "https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "A high performance, vinyl ester lining",
+      "designation": " ",
+      "description": "Semstone 870 is a high performance, vinyl ester lining system designed for concrete. Semstone 870 is formulated to be more flexible than typical vinyl esters to tolerate more concrete movement.   It is a semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Semstone 870 is specially formulated to withstand some of industry’s most aggressive chemicals, including a broad range of organic chemicals.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone 884",
+      "id": "207P",
+      "family": "Semstone",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Pulp & Paper"
+        },
+        {
+          "market": "Petrochemical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Excellent alternative to acid brick"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone 884 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207P/PDS%3A%7BPC%3A207P%3BMID%3A1%3BLID%3A1%7D/Semstone_884_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 884 SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207P/ACBECCD56030043B8525705300542F98/207PA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 884 SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207P/349AC3670C5737AC8525705300542F9F/207PB1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone 884 SDS Part C",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207P/48FBB8A4EA2AB7348525705300542FA7/207PC1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "Non-shrink vinyl ester polymer concrete",
+      "designation": "This is a Carboline Specialty Product Minimum order quantities and special pricing will apply in North America. \nContact your Carboline Sales Representative for more details.",
+      "description": "Semstone 884 is a vinyl ester polymer concrete which incorporates proprietary non-shrink technology into its formulation, making it the first practical vinyl ester polymer concrete for use as a concrete topping. It is recommended for use in concentrated nitric acid service and other strong oxidizers. Semstone 884 is an excellent alternative to acid brick. It is also used as a construction material for pouring pump foundations and small tank foundations. It can be used for pre-casting of sumps and trenches.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone Fabric 100",
+      "id": "312P",
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Specialties"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Misc (grouts"
+        },
+        {
+          "application": " fillers"
+        },
+        {
+          "application": " caulks"
+        },
+        {
+          "application": " tapes"
+        },
+        {
+          "application": " sealers)"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Petrochemical"
+        }
+      ],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone Fabric 100 SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/312P/DFA3830EA317FF2185257428004EC17A/312PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "",
+      "designation": " ",
+      "description": "Semstone Fabric 100 is a non-woven geotextile made from polypropylene fibers.  The polypropylene fibers are essentially chemically and biologically inert which offers good chemical resistance to acids, alkalis, oils and most solvents.  When saturated with either SEMSTONE 805 or SEMSTONE 806 the result is a chemically resistant, flexible, reinforced membrane system well suited for sealing expansion joints or bridging working cracks in concrete.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone Scrim Cloth",
+      "id": "311P",
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Specialties"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone Scrim Cloth PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/311P/PDS%3A%7BPC%3A311P%3BMID%3A1%3BLID%3A1%7D/Semstone_Scrim_Cloth_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Scrim Cloth Product Description",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/311P/10421/Semstone+Scrim+Cloth+Product+Description.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Scrim Cloth SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/311P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "",
+      "designation": " ",
+      "description": "Scrim Cloth is a woven, Type “E”, borosilicate glass fiber reinforcing fabric, specially designed for Semstone Systems. The glass filament fibers are bundled and woven at right angles to each other, which affords bidirectional strength. When Scrim Cloth is incorporated in a Semstone Epoxy, Novolac or Vinyl Ester coating/lining system, impact resistance, tensile strength and fatigue resistance of the system is increased.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone Thixotrope C",
+      "id": 5112,
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Additives"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone Thixotrope C SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/5112/A840993735B175A6852570DE00760348/5112S1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "",
+      "designation": " ",
+      "description": "Cellulose powder (crushed newspaper) for adding body to Semstone products",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Semstone Thixotrope D",
+      "id": "315P",
+      "family": "Semstone",
+      "types": [
+        {
+          "type": "Additives"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Misc (grouts"
+        },
+        {
+          "application": " fillers"
+        },
+        {
+          "application": " caulks"
+        },
+        {
+          "application": " tapes"
+        },
+        {
+          "application": " sealers)"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Petrochemical"
+        }
+      ],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "Semstone Thixotrope D SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/315P/AEE6E4F921D72E6E85257053005433A8/315PS1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Semstone Thixotropes D Application Instructions",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/315P/6640387A7098C38F85257192004A28D9/Semstone+Thixotrope+D+AI+6-06.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "",
+      "designation": " ",
+      "description": "Cabosil for film build properties for Semstone products",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Shock-Crete HD",
       "id": "207D",
       "family": "Shock-Crete",
@@ -3934,7 +7099,7 @@ export const products = [
           "feature": "High abrasion resistance"
         },
         {
-          "feature": "Resistant to thermal shock"
+          "feature": "Industry leading range for thermal shock (-350 to 400°F)"
         },
         {
           "feature": "Withstands mechanical stress"
@@ -3964,6 +7129,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Application Video - Shock-Crete HD",
+            "@_url": "https://youtu.be/Ai7K_hjaInc",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Shock-Crete HD PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207D/PDS%3A%7BPC%3A207D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_HD_PDS.pdf",
             "@_type": "PDS"
@@ -3972,7 +7144,7 @@ export const products = [
       ],
       "genericType": "Cementitious urethane flooring mortar",
       "designation": " ",
-      "description": "Liquid nitrogen resistant, trowel applied cementitious urethane mortar (1/4\"-3/8\" / 6-10 mm). Contains  antimicrobial additives that protect it from degradation caused by microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.",
+      "description": "Liquid nitrogen resistant for splash and spill, trowel applied cementitious urethane mortar (1/4\"-1/2\" / 6-13 mm). Contains  antimicrobial additives that protect it from degradation caused by microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -4055,7 +7227,7 @@ export const products = [
         {
           "link": {
             "name": "Shock-Crete HF - Health Product Declaration (HPD)",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F166/12746/1532_Shock_Crete_HF_Health+Product+Declaration.pdf",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=shockcrete%20hf",
             "@_type": "OTHER"
           }
         },
@@ -4172,6 +7344,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F163/PDS%3A%7BPC%3AF163%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_IF_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F163/12109/Shock-Crete-A-GHS+%281%29.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F163/12110/Shock-Crete+Part+A_SDS+101022+%282%29.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Iron filled cementitious urethane mortar",
@@ -4248,6 +7434,13 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "Shock-Crete MD Aggregate SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/115D/12889/Shock-Crete-MD-Aggregate-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Shock-Crete MD PDS",
@@ -4343,8 +7536,15 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Shock-Crete SL2 - Environmental Product Declaration (EPD)",
+            "@_url": "https://smartepd.com/epd-library/671bcdcc71b10ac292bebc72",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Shock-Crete SL2 - Health Product Declaration (HPD)",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F165/12747/1532_Shock_Crete_SL2_Health+Product+Declaration.pdf",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Shock-Crete%20SL2",
             "@_type": "OTHER"
           }
         },
@@ -4384,7 +7584,7 @@ export const products = [
     "product": {
       "name": "Shock-Crete SR",
       "id": "F167",
-      "family": "Dudick",
+      "family": "Shock-Crete",
       "types": [
         {
           "type": "Urethane Cements"
@@ -4447,8 +7647,15 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Shock-Crete SR - Environmental Product Declaration (EPD)",
+            "@_url": "https://smartepd.com/epd-library/671bcd9671b10ac292bebae8",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Shock-Crete SR - Health Product Declaration (HPD)",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F167/12745/1532_Shock_Crete_SR_Health+Product+Declaration.pdf",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Shock-Crete%20SR",
             "@_type": "OTHER"
           }
         },
@@ -4552,6 +7759,20 @@ export const products = [
             "name": "Shock-Crete TCUV Filler  SDS Part C",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F162/E17E570CF1239FA78525892F005D7DB9/F162C1NL_2_USANSI.pdf",
             "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete TCUV Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F162/12123/Shock-Crete+TCUV+Part+A+SDS+10-28-2022.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete TCUV Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F162/12124/Shock-Crete+TCUV+Part+B+SDS+10-28-2022.pdf",
+            "@_type": "OTHER"
           }
         },
         {
@@ -4738,6 +7959,20 @@ export const products = [
         },
         {
           "link": {
+            "name": "Shock-Crete Vertical Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F160/12112/Shock-Crete+Vertical+Part+A+SDS+10-28-2022.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete Vertical Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F160/12113/Shock-Crete+Vertical++Part+B+SDS+10-28-2022.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Shock-Crete Vertical PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F160/PDS%3A%7BPC%3AF160%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_Vertical_PDS.pdf",
             "@_type": "PDS"
@@ -4765,8 +8000,12 @@ export const products = [
     "product": {
       "name": "Steri-Coat 200 Gloss",
       "id": "146D",
-      "family": "Dudick",
-      "types": [],
+      "family": "Steri-Coat",
+      "types": [
+        {
+          "type": "Flooring & Walls - Epoxy"
+        }
+      ],
       "applications": [],
       "markets": [],
       "features": [
@@ -4804,6 +8043,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Steri-Coat 200 - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=steri-coat%20200",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Steri-Coat 200 Gloss PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/146D/PDS%3A%7BPC%3A146D%3BMID%3A1%3BLID%3A1%7D/Steri-Coat_200_Gloss_PDS.pdf",
             "@_type": "PDS"
@@ -4838,8 +8084,12 @@ export const products = [
     "product": {
       "name": "Steri-Coat 200 Satin",
       "id": "147D",
-      "family": "Dudick",
-      "types": [],
+      "family": "Steri-Coat",
+      "types": [
+        {
+          "type": "Flooring & Walls - Epoxy"
+        }
+      ],
       "applications": [],
       "markets": [],
       "features": [
@@ -4911,7 +8161,7 @@ export const products = [
     "product": {
       "name": "Steri-Coat P",
       "id": "123D",
-      "family": "Dudick",
+      "family": "Steri-Coat",
       "types": [],
       "applications": [],
       "markets": [],
@@ -4944,9 +8194,30 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Steri-Coat P - Environmental Product Declaration (EPD)",
+            "@_url": "https://smartepd.com/epd-library/671bcd6f71b10ac292beba48",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Steri-Coat P PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/123D/PDS%3A%7BPC%3A123D%3BMID%3A1%3BLID%3A1%7D/Steri-Coat_P_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Coat P SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/123D/12890/Steri-Coat-P-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Coat P SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/123D/12891/Steri-Coat-P-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -4971,8 +8242,12 @@ export const products = [
     "product": {
       "name": "Steri-Cove Gel",
       "id": "181D",
-      "family": "Dudick",
-      "types": [],
+      "family": "Steri-Flor",
+      "types": [
+        {
+          "type": "Flooring & Walls - Epoxy"
+        }
+      ],
       "applications": [],
       "markets": [],
       "features": [
@@ -4996,6 +8271,13 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "Steri-Cove Gel - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Steri%20Cove%20Gel",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Steri-Cove Gel PDS",
@@ -5023,9 +8305,79 @@ export const products = [
   },
   {
     "product": {
+      "name": "Steri-Flor Fast Patch",
+      "id": "239D",
+      "family": "Steri-Flor",
+      "types": [
+        {
+          "type": "Repair Mortars"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Industrial"
+        },
+        {
+          "application": "Resinous Flooring"
+        },
+        {
+          "application": "Low Temperature Cure Coating"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Food & Beverage"
+        },
+        {
+          "market": "Flooring"
+        }
+      ],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "Steri-Flor Fast Patch PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/239D/PDS%3A%7BPC%3A239D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_Fast_Patch_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor Fast Patch SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/239D/12892/Steri-Flor+Fast+Patch+Part+A+SDS+11-5-2024.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor Fast Patch SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/239D/12893/Steri-Flor+Fast+Patch+Part+B+SDS+11-5-2024.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "Fast curing, low temp, concrete repair mortar",
+      "designation": " ",
+      "description": "This fast-curing epoxy mortar is designed for easy application even in low temperature environments.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Steri-Flor GP",
       "id": "116D",
-      "family": "Dudick",
+      "family": "Steri-Flor",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -5091,6 +8443,20 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Steri-Floor GP  SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/116D/80B9C242E454C4BB85258B94004B1BF0/314DA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor GP - Environmental Product Declaration (EPD)",
+            "@_url": "https://smartepd.com/epd-library/671bcdaf71b10ac292bebb5c",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Steri-Flor GP PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/116D/PDS%3A%7BPC%3A116D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_GP_PDS.pdf",
             "@_type": "PDS"
@@ -5125,7 +8491,7 @@ export const products = [
     "product": {
       "name": "Steri-Flor T Bodycoat",
       "id": "190D",
-      "family": "Dudick",
+      "family": "Steri-Flor",
       "types": [
         {
           "type": "Floor Coating - Epoxy"
@@ -5231,9 +8597,100 @@ export const products = [
   },
   {
     "product": {
+      "name": "Steri-Flor T Groutcoat",
+      "id": "191D",
+      "family": "Steri-Flor",
+      "types": [],
+      "applications": [
+        {
+          "application": "Resinous Flooring"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Commercial & Architectural"
+        },
+        {
+          "market": "Food & Beverage"
+        },
+        {
+          "market": "Multiple Markets"
+        },
+        {
+          "market": "Flooring"
+        },
+        {
+          "market": "Pharmaceutical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "USDA compliant"
+        },
+        {
+          "feature": "Fast recoat time"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": "Anti-microbial agents are available as an option"
+        },
+        {
+          "feature": "Installed as supplied"
+        },
+        {
+          "feature": " is compliant with California SCAQMD Rule 1113 for VOC content"
+        },
+        {
+          "feature": "Contributes toward satisfying credit MR 5 and EQ 4.2 under LEED"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Steri-Flor T Groutcoat PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/191D/PDS%3A%7BPC%3A191D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_T_Groutcoat_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor T Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/191D/12601/Steri-Flor+T+Part+A+SDS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor T Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/191D/12602/Steri-Flor+T+Part+B+SDS.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "100% solids, self-leveling epoxy floor coating",
+      "designation": " ",
+      "description": "An epoxy grout used to seal and fill small voids left from troweling the aggregate filled Steri-Flor T, a heavy-duty industrial troweled mortar.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Steri-Flor UV",
       "id": "F156",
-      "family": "Dudick",
+      "family": "Steri-Flor",
       "types": [],
       "applications": [
         {
@@ -5265,9 +8722,6 @@ export const products = [
       ],
       "features": [
         {
-          "feature": "Contributes toward satisfying credit for low emitting material under LEED 4.1"
-        },
-        {
           "feature": "Meets SCAQMD Rule 1113 for VOC content"
         },
         {
@@ -5275,9 +8729,6 @@ export const products = [
         },
         {
           "feature": " approximately 500 cps mixed."
-        },
-        {
-          "feature": "Low VOCs"
         },
         {
           "feature": "Low installation odor"
@@ -5350,7 +8801,7 @@ export const products = [
     "product": {
       "name": "Steri-Prime",
       "id": "F168",
-      "family": "Dudick",
+      "family": "Steri-Prime",
       "types": [
         {
           "type": "Epoxy Amines"
@@ -5466,7 +8917,7 @@ export const products = [
     "product": {
       "name": "Steri-Prime DTO",
       "id": "F169",
-      "family": "Dudick",
+      "family": "Steri-Prime",
       "types": [],
       "applications": [
         {
@@ -5564,7 +9015,7 @@ export const products = [
     "product": {
       "name": "Steri-Prime WB",
       "id": "340D",
-      "family": "Dudick",
+      "family": "Steri-Prime",
       "types": [
         {
           "type": "Water Based Products"
@@ -5630,6 +9081,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "Steri-Prime WB - Environmental Product Declaration (EPD)",
+            "@_url": "https://smartepd.com/epd-library/671bcda471b10ac292bebb22",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Steri-Prime WB PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/340D/PDS%3A%7BPC%3A340D%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_WB_PDS.pdf",
             "@_type": "PDS"
@@ -5671,7 +9129,7 @@ export const products = [
     "product": {
       "name": "Steri-Seal HB",
       "id": "206D",
-      "family": "Dudick",
+      "family": "Steri-Seal",
       "types": [
         {
           "type": "Floor Coating - Epoxy"
@@ -5775,7 +9233,7 @@ export const products = [
     "product": {
       "name": "Steri-Seal HC",
       "id": "269D",
-      "family": "Dudick",
+      "family": "Steri-Seal",
       "types": [
         {
           "type": "Floor Coating - Epoxy"
@@ -5807,11 +9265,98 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/269D/PDS%3A%7BPC%3A269D%3BMID%3A1%3BLID%3A1%7D/Steri-Seal_HC_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Steri-Seal HC SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/269D/12895/Steri-Seal-HC-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Seal HC SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/269D/12896/Steri-Seal-HC-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Highly chemical resistant novolac epoxy coating",
       "designation": " ",
       "description": "A specialized Novolac epoxy hybrid specifically designed for high containment laboratories, such as BSL-4/3Ag facilities. It provides a seamless, durable, and hygienic flooring solution that meets the stringent requirements of pharmaceutical and research laboratories. It is highly durable against heavy foot and equipment traffic, insuring long lasting performance.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Vapor Stop",
+      "id": "183D",
+      "family": "Dudick",
+      "types": [],
+      "applications": [],
+      "markets": [
+        {
+          "market": "Flooring"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Contributes toward satisfying credit for low emitting material under LEED 4.1"
+        },
+        {
+          "feature": "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance Certificates Available Upon Request"
+        },
+        {
+          "feature": "Meets SCAQMD Rule 1113 for VOC content"
+        },
+        {
+          "feature": "Water/Vapor Proofing"
+        },
+        {
+          "feature": "Fast Setting"
+        },
+        {
+          "feature": "VOC Compliant"
+        },
+        {
+          "feature": "Reduces water from 10 lbs./1000 ft² to < 3lbs"
+        },
+        {
+          "feature": "Allows for over coating with epoxies & other polymers"
+        },
+        {
+          "feature": "Non-porous"
+        },
+        {
+          "feature": "Bonds to concrete pH 7-14"
+        },
+        {
+          "feature": "Semi-Self leveling"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Vapor Stop PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/183D/PDS%3A%7BPC%3A183D%3BMID%3A1%3BLID%3A1%7D/Vapor_Stop_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Semi-self leveling moisture vapor reduction coating",
+      "designation": " ",
+      "description": "An aggregate filled polyurethane moisture control system that develops cure strength approximately 2 times that of the concrete base to which it is applied. The monolithic topping exhibits excellent physical and mechanical strength as well as moisture vapor reduction.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",

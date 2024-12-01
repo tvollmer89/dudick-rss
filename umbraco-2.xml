@@ -31,9 +31,9 @@
 </description>
 <link>https://tvollmer89.github.io/dudick-xml-feed/</link>
 <generator>RSS for Node and Next.js</generator>
-<lastBuildDate>Wed, 18 Sep 2024 14:15:29 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Dec 2024 04:28:45 GMT</lastBuildDate>
 <atom:link href="https://tvollmer89.github.io/dudick-xml-feed/feed.xml" rel="self" type="application/rss+xml"/>
-<pubDate>Wed, 18 Sep 2024 14:15:29 GMT</pubDate>
+<pubDate>Sun, 01 Dec 2024 04:28:45 GMT</pubDate>
 <copyright>
 <![CDATA[ Copyright 2024, Theresa Vollmer ]]>
 </copyright>
@@ -56,11 +56,14 @@
 </description>
 <guid isPermaLink="false">Caulk 100XT</guid>
 <id>169D</id>
-<family>Dudick</family>
+<family>Specialty</family>
 <types>
-<type>Epoxy Novolacs</type>
+<type>Fluorourethanes</type>
 </types>
-<applications> </applications>
+<applications>
+<application>Industrial</application>
+<application>Secondary Containment</application>
+</applications>
 <markets> </markets>
 <features>
 <feature>Superior Chemical Resistance</feature>
@@ -101,7 +104,7 @@
 </description>
 <guid isPermaLink="false">Caulk 149</guid>
 <id>204D</id>
-<family>Dudick</family>
+<family>Specialty</family>
 <types>
 <type>Specialties</type>
 </types>
@@ -139,6 +142,70 @@
 </item>
 <item>
 <title>
+<![CDATA[ Caulk PJS ]]>
+</title>
+<description>
+<![CDATA[ A UV resistant, 100% solids, two component, heavy duty, semi-rigid polyurea joint sealant designed for filling and protecting control joints and saw cut construction joints in industrial and commercial floors. Developed to fill typical construction joints in order to protect joint edges from spalling and to seal open joints. Using Carboseal Flex Joint will create a longer lasting floor and reduce the areas where bacteria can hide and grow. It has the unique benefit of being able to be shaved within minutes or up to 24 hours later. ]]>
+</description>
+<guid isPermaLink="false">Caulk PJS</guid>
+<id>F145</id>
+<family>Specialty</family>
+<types>
+<type>Polyureas &amp; Hybrids (Elastomeric)</type>
+</types>
+<applications>
+<application>Resinous Flooring</application>
+</applications>
+<markets>
+<market>Commercial &amp; Architectural</market>
+<market>Food &amp; Beverage</market>
+<market>Flooring</market>
+<market>Pharmaceutical</market>
+</markets>
+<features>
+<feature>UV resistance</feature>
+<feature>Fast installation</feature>
+<feature>Excellent elongation properties</feature>
+<feature>10-20 minute shave time with a long open shaving window.</feature>
+<feature>Durable</feature>
+<feature>Cures in temperatures as low as -20°F (-29°C)</feature>
+<feature>Variety of colors available</feature>
+<feature>Suitable for use in USDA inspected facilities.</feature>
+</features>
+<genericType>UV resistant, 100% solids polyurea joint sealant</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Carboseal Flex Joint SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F145/B1B9217429D5CEA285258410006844DA/F145A1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Carboseal Flex Joint SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F145/1974801F4AD879708525841000683DD0/F145B1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Caulk PJS PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F145/PDS%3A%7BPC%3AF145%3BMID%3A1%3BLID%3A1%7D/Caulk_PJS_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Caulk PSC ]]>
 </title>
 <description>
@@ -146,7 +213,7 @@
 </description>
 <guid isPermaLink="false">Caulk PSC</guid>
 <id>244D</id>
-<family>Dudick</family>
+<family>Specialty</family>
 <types>
 <type>Specialties</type>
 </types>
@@ -332,7 +399,7 @@
 </description>
 <guid isPermaLink="false">Polymer Alloy 2000</guid>
 <id>182D</id>
-<family>Dudick</family>
+<family>Polymer Alloy</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -368,6 +435,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/182D/PDS%3A%7BPC%3A182D%3BMID%3A1%3BLID%3A1%7D/Polymer_Alloy_2000_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Polymer Alloy 2000 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/182D/2397DB60603FB1BE85258BC6006B25E8/316DA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Polymer Alloy 2000 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/182D/DDC9CC9534D3485785258BC60068D6EC/316DB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
 </links>
 </item>
 <item>
@@ -379,7 +456,7 @@
 </description>
 <guid isPermaLink="false">Polymer Alloy 2000C</guid>
 <id>092D</id>
-<family>Dudick</family>
+<family>Polymer Alloy</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -413,6 +490,16 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Polymer Alloy 2000C Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/092D/12850/P-Alloy-2000C-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Alloy 2000C Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/092D/12851/P-Alloy-2000C-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Alloy 2000C PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/092D/PDS%3A%7BPC%3A092D%3BMID%3A1%3BLID%3A1%7D/Polymer_Alloy_2000C_PDS.pdf</url>
 <type>PDS</type>
@@ -428,7 +515,7 @@
 </description>
 <guid isPermaLink="false">Polymer Alloy 2000LE</guid>
 <id>127D</id>
-<family>Dudick</family>
+<family>Polymer Alloy</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -464,6 +551,21 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Polymer Alloy 2000C Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/127D/12853/P-Alloy-2000LE-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Alloy 2000LE - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=polymer%20alloy%202000le</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Alloy 2000LE Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/127D/12852/P-Alloy-2000LE-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Alloy 2000LE PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/127D/PDS%3A%7BPC%3A127D%3BMID%3A1%3BLID%3A1%7D/Polymer_Alloy_2000LE_PDS.pdf</url>
 <type>PDS</type>
@@ -479,7 +581,7 @@
 </description>
 <guid isPermaLink="false">Polymer Alloy 2000SD</guid>
 <id>260D</id>
-<family>Dudick</family>
+<family>Polymer Alloy</family>
 <types>
 <type>Floor Coating - Epoxy</type>
 </types>
@@ -511,6 +613,26 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Polymer Alloy 2000SD - Environmental Product Declaration (EPD)</name>
+<url>https://smartepd.com/epd-library/66fdc75584115314793daadd</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Alloy 2000SD - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Polymer%20Alloy%202000SD</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Alloy 2000SD Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/260D/12854/P-Alloy-2000SD-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Alloy 2000SD Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/260D/12855/P-Alloy-2000SD-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Alloy 2000SD PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/260D/PDS%3A%7BPC%3A260D%3BMID%3A1%3BLID%3A1%7D/Polymer_Alloy_2000SD_PDS.pdf</url>
 <type>PDS</type>
@@ -526,7 +648,7 @@
 </description>
 <guid isPermaLink="false">Polymer Carbide</guid>
 <id>288D</id>
-<family>Dudick</family>
+<family>Polymer Alloy</family>
 <types>
 <type>Steel Repair</type>
 </types>
@@ -584,7 +706,7 @@
 </description>
 <guid isPermaLink="false">Polymer Concrete 100</guid>
 <id>279D</id>
-<family>Dudick</family>
+<family>Polymer Concrete</family>
 <types>
 <type>Repair Mortars</type>
 </types>
@@ -618,6 +740,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/279D/PDS%3A%7BPC%3A279D%3BMID%3A1%3BLID%3A1%7D/Polymer_Concrete_100_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Polymer Concrete Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/279D/12856/Polymer-Concrete-100A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Concrete Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/279D/12857/Polymer-Concrete-100B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -629,7 +761,7 @@
 </description>
 <guid isPermaLink="false">Polymer Concrete 100XT</guid>
 <id>176D</id>
-<family>Dudick</family>
+<family>Polymer Concrete</family>
 <types>
 <type>Repair Mortars</type>
 </types>
@@ -657,6 +789,16 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Polymer Concrete 100XT Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/176D/12858/Polymer-Concrete-100XT-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Concrete 100XT Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/176D/12859/Polymer-Concrete-100XT-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Concrete 100XT PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/176D/PDS%3A%7BPC%3A176D%3BMID%3A1%3BLID%3A1%7D/Polymer_Concrete_100XT_PDS.pdf</url>
 <type>PDS</type>
@@ -672,7 +814,7 @@
 </description>
 <guid isPermaLink="false">Polymer Concrete 800</guid>
 <id>273D</id>
-<family>Dudick</family>
+<family>Polymer Concrete</family>
 <types>
 <type>Repair Mortars</type>
 </types>
@@ -706,6 +848,11 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/273D/PDS%3A%7BPC%3A273D%3BMID%3A1%3BLID%3A1%7D/Polymer_Concrete_800_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Polymer Concrete 800 SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/273D/12860/Polymer-Concrete-800-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -717,7 +864,7 @@
 </description>
 <guid isPermaLink="false">Polymer Concrete 900</guid>
 <id>210D</id>
-<family>Dudick</family>
+<family>Polymer Concrete</family>
 <types>
 <type>Repair Mortars</type>
 </types>
@@ -751,6 +898,11 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/210D/PDS%3A%7BPC%3A210D%3BMID%3A1%3BLID%3A1%7D/Polymer_Concrete_900_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Polymer Concrete 900 SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/210D/12861/Polymer-Concrete-900-GHS1.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -762,7 +914,7 @@
 </description>
 <guid isPermaLink="false">Polymer Quartz</guid>
 <id>286D</id>
-<family>Dudick</family>
+<family>Polymer Concrete</family>
 <types>
 <type>Repair Mortars</type>
 </types>
@@ -785,6 +937,21 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Polymer Quartz - Filler SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/286D/12862/Polymer-Quartz-Filler-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Quartz - Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/286D/12863/Polymer-Quartz-Resin-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Quartz - Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/286D/12864/Polymer-Quartz-Resin-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Quartz PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/286D/PDS%3A%7BPC%3A286D%3BMID%3A1%3BLID%3A1%7D/Polymer_Quartz_PDS.pdf</url>
 <type>PDS</type>
@@ -800,7 +967,7 @@
 </description>
 <guid isPermaLink="false">Polymer Steel EG</guid>
 <id>177D</id>
-<family>Dudick</family>
+<family>Polymer Steel</family>
 <types>
 <type>Steel Repair</type>
 </types>
@@ -842,6 +1009,16 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Polymer Steel EG - Base SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/177D/12844/Polymer-Steel-EG-Base-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Steel EG - Hardener SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/177D/12845/Polymer-Steel-EG-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Steel EG PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/177D/PDS%3A%7BPC%3A177D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_EG_PDS.pdf</url>
 <type>PDS</type>
@@ -862,7 +1039,7 @@
 </description>
 <guid isPermaLink="false">Polymer Steel MG</guid>
 <id>178D</id>
-<family>Dudick</family>
+<family>Polymer Steel</family>
 <types>
 <type>Steel Repair</type>
 </types>
@@ -902,8 +1079,18 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Polymer Steel EG - Hardener SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/178D/12847/Polymer-Steel-MG-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Steel Flyer</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/178D/12212/Polymer+Steel+Flyer+042022.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Steel MG - Base SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/178D/12846/Polymer-Steel-MG-Base-GHS.pdf</url>
 <type>OTHER</type>
 </link>
 <link>
@@ -922,7 +1109,7 @@
 </description>
 <guid isPermaLink="false">Polymer Steel RG</guid>
 <id>179D</id>
-<family>Dudick</family>
+<family>Polymer Steel</family>
 <types>
 <type>Steel Repair</type>
 </types>
@@ -967,6 +1154,16 @@
 <type>OTHER</type>
 </link>
 <link>
+<name>Polymer Steel RG - Base SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/179D/12848/Polymer-Steel-RG-Base-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Steel RG - Hardener SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/179D/12849/Polymer-Steel-RG-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Steel RG PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/179D/PDS%3A%7BPC%3A179D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_RG_PDS.pdf</url>
 <type>PDS</type>
@@ -982,7 +1179,7 @@
 </description>
 <guid isPermaLink="false">Polymer Steel SG</guid>
 <id>180D</id>
-<family>Dudick</family>
+<family>Polymer Steel</family>
 <types>
 <type>Steel Repair</type>
 </types>
@@ -1028,8 +1225,79 @@
 <type>OTHER</type>
 </link>
 <link>
+<name>Polymer Steel SG - Base SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/180D/12842/Polymer-Steel-SG-Base-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Steel SG - Hardener SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/180D/12843/Polymer-Steel-SG-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Polymer Steel SG PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/180D/PDS%3A%7BPC%3A180D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_SG_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Polymer Steel SG Ceramic ]]>
+</title>
+<description>
+<![CDATA[ A surface grade, fluid applied epoxy coating used to provide both corrosion and abrasion resistance for degraded steel substrates. It resists a wide variety of chemicals and is engineered to repair corroded and worn metallic surfaces efficiently and economically. ]]>
+</description>
+<guid isPermaLink="false">Polymer Steel SG Ceramic</guid>
+<id>255D</id>
+<family>Polymer Steel</family>
+<types>
+<type>Steel Repair</type>
+</types>
+<applications>
+<application>Industrial</application>
+<application>High Abrasion / Impact Coatings</application>
+</applications>
+<markets>
+<market>Pulp &amp; Paper</market>
+<market>Chemical Processing/Refining</market>
+<market>Metals &amp; Mining</market>
+<market>Petrochemical</market>
+<market>OEM</market>
+</markets>
+<features>
+<feature>Smooth</feature>
+<feature> slick finish</feature>
+<feature>Corrosion and galvanic resistant</feature>
+<feature>Good overall chemical resistance</feature>
+<feature>High build capabilities</feature>
+<feature>Zero VOC</feature>
+<feature>Exceptional adhesion</feature>
+<feature>Excellent abrasion resistance</feature>
+</features>
+<genericType>100% Solids, Ceramic-Filled Multi-Functional Surface Grade Resurfacer</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Polymer Steel Flyer</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/255D/12694/Polymer+Steel+Flyer+042022.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Steel SG Ceramic PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/255D/PDS%3A%7BPC%3A255D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_SG_Ceramic_PDS.pdf</url>
 <type>PDS</type>
 </link>
 </links>
@@ -1043,7 +1311,7 @@
 </description>
 <guid isPermaLink="false">Primer 27</guid>
 <id>101D</id>
-<family>Dudick</family>
+<family>Primers</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -1083,9 +1351,62 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Primer 27 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Primer%2027%2FCarboline</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Primer 27 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/101D/PDS%3A%7BPC%3A101D%3BMID%3A1%3BLID%3A1%7D/Primer_27_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Primer 27 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/101D/A3DCB15993272CFE8525892C0064B001/301DA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Primer 27C ]]>
+</title>
+<description>
+<![CDATA[ Primer 27C is a two-component conductive vinyl ester primer designed to be used over concrete whenever the coating or lining system must be spark tested for pinholes. ]]>
+</description>
+<guid isPermaLink="false">Primer 27C</guid>
+<id>271D</id>
+<family>Primers</family>
+<types>
+<type>Vinyl Esters</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features> </features>
+<genericType>Vinyl Ester Primer</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Primer 27C PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/271D/PDS%3A%7BPC%3A271D%3BMID%3A1%3BLID%3A1%7D/Primer_27C_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Primer 27C SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/271D/12865/primer27c.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -1098,7 +1419,7 @@
 </description>
 <guid isPermaLink="false">Primer 67</guid>
 <id>102D</id>
-<family>Dudick</family>
+<family>Primers</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -1165,7 +1486,7 @@
 </description>
 <guid isPermaLink="false">Primer 67 DPLV</guid>
 <id>091D</id>
-<family>Dudick</family>
+<family>Primers</family>
 <types>
 <type>Floor Coating - Epoxy</type>
 </types>
@@ -1229,7 +1550,7 @@
 </description>
 <guid isPermaLink="false">Primer 67C</guid>
 <id>250D</id>
-<family>Dudick</family>
+<family>Primers</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -1266,14 +1587,19 @@
 <locale>en_US</locale>
 <links>
 <link>
-<name>Primer 67 Environmental Product Declaration (EPD)</name>
-<url>https://carboline.box.com/shared/static/vau2kbkuzbqy3w7zosc82jb4azs3tnrk.pdf</url>
-<type>OTHER</type>
-</link>
-<link>
 <name>Primer 67C PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/250D/PDS%3A%7BPC%3A250D%3BMID%3A1%3BLID%3A1%7D/Primer_67C_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Primer 67C SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/250D/12866/Primer-67C-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Primer 67C SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/250D/12867/Primer-67C-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -1286,7 +1612,7 @@
 </description>
 <guid isPermaLink="false">Primer 67DTO</guid>
 <id>209D</id>
-<family>Dudick</family>
+<family>Primers</family>
 <types>
 <type>Epoxy Polyamides</type>
 </types>
@@ -1339,7 +1665,7 @@
 </description>
 <guid isPermaLink="false">Primer 67LV</guid>
 <id>184D</id>
-<family>Dudick</family>
+<family>Primers</family>
 <types>
 <type>Floor Coating - Epoxy</type>
 </types>
@@ -1368,9 +1694,19 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Primer 67LV - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Primer%2067LV%2FCarboline</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Primer 67LV PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/184D/PDS%3A%7BPC%3A184D%3BMID%3A1%3BLID%3A1%7D/Primer_67LV_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Primer 67LV SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/184D/12868/Primer-67LV-A-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 <link>
 <name>Primer 67LV VOC Emissions Certificate</name>
@@ -1388,7 +1724,7 @@
 </description>
 <guid isPermaLink="false">Primer 67SD</guid>
 <id>259D</id>
-<family>Dudick</family>
+<family>Primers</family>
 <types>
 <type>Epoxy Amines</type>
 <type>Floor Coating - Epoxy</type>
@@ -1423,9 +1759,24 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Primer 67SD - Environmental Product Declaration (EPD)</name>
+<url>https://smartepd.com/epd-library/66fdc74b84115314793daac7</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Primer 67SD - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Primer%2067SD</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Primer 67SD PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/259D/PDS%3A%7BPC%3A259D%3BMID%3A1%3BLID%3A1%7D/Primer_67SD_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Primer 67SD SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/259D/12871/Primer-67SD-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -1438,7 +1789,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat 100XT</guid>
 <id>103D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Epoxy Novolacs</type>
 </types>
@@ -1451,7 +1802,6 @@
 <feature>Superior adhesion to metal substrates and concrete</feature>
 <feature>Blush resistant formulation</feature>
 <feature>Meets all VOC Requirements</feature>
-<feature>Can Saturate 1 Ounce Fiberglass Mat</feature>
 <feature>Can be seeded with Sand or Aluminum Oxide for Anti-Skid</feature>
 </features>
 <genericType>100% solids, novolac epoxy coating</genericType>
@@ -1470,8 +1820,72 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Protect-Coat 100XT - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 100XT PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/103D/PDS%3A%7BPC%3A103D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_100XT_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Protecto-Coat 100XT SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/103D/12872/P-Coat-100XT-A-new-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 100XT SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/103D/12873/P-Coat-100XT-B-new-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Coat 105XT ]]>
+</title>
+<description>
+<![CDATA[ A high-performance, 100% solids, low odor, environmentally safe novolac epoxy coating. Protecto-Coat 105XT uses a moisture-tolerant primer and two coats of graphite flake-filled novolac epoxy resin to protect concrete and metal substrates. The novolac epoxy binder and overlapping flake filler provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Coat 105XT</guid>
+<id>284D</id>
+<family>Protecto-Coat</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets> </markets>
+<features>
+<feature>Broad spectrum chemical resistance</feature>
+<feature>Superior adhesion to metal substrates and concrete</feature>
+<feature>Blush resistant formulation</feature>
+<feature>Meets all VOC Requirements</feature>
+<feature>Can be seeded with Sand or Aluminum Oxide for Anti-Skid</feature>
+</features>
+<genericType>100% solids, graphite-filled novolac epoxy coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protect-Coat 105XT - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 105XT PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/284D/PDS%3A%7BPC%3A284D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_105XT_PDS.pdf</url>
 <type>PDS</type>
 </link>
 </links>
@@ -1485,7 +1899,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat 1130</guid>
 <id>128D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types> </types>
 <applications> </applications>
 <markets> </markets>
@@ -1516,6 +1930,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/128D/PDS%3A%7BPC%3A128D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_1130_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Protecto-Coat 1130 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/128D/12874/P-Coat-1130-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 1130 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/128D/12875/P-Coat-1130-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -1523,11 +1947,11 @@
 <![CDATA[ Protecto-Coat 325HB ]]>
 </title>
 <description>
-<![CDATA[ A 100% solids, low temperature cure, flake-filled epoxy resin to protect concrete and metal substrates. The epoxy binder and overlapping flake fillers provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection. ]]>
+<![CDATA[ A 100% solids, flake-filled epoxy resin to protect concrete and metal substrates. The epoxy binder and overlapping flake fillers provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection. ]]>
 </description>
 <guid isPermaLink="false">Protecto-Coat 325HB</guid>
 <id>216D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -1636,19 +2060,14 @@
 <type>MSDS</type>
 </link>
 <link>
+<name>Protecto-Coat 500 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Protecto-Coat%20500</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 500 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/339D/PDS%3A%7BPC%3A339D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_500_PDS.pdf</url>
 <type>PDS</type>
-</link>
-<link>
-<name>Protecto-Coat 500 SDS Part A</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12325/P+COAT+500+A+SDS.pdf</url>
-<type>OTHER</type>
-</link>
-<link>
-<name>Protecto-Coat 500 SDS Part B</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12326/P+Coat+500+B+SDS.pdf</url>
-<type>OTHER</type>
 </link>
 <link>
 <name>Waffle Slab Flyer</name>
@@ -1666,7 +2085,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat 800</guid>
 <id>105D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -1705,6 +2124,11 @@
 <type>MSDS</type>
 </link>
 <link>
+<name>Protecto-Coat 800 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 800 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/105D/PDS%3A%7BPC%3A105D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_800_PDS.pdf</url>
 <type>PDS</type>
@@ -1720,7 +2144,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat 800AR</guid>
 <id>228D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -1774,7 +2198,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat 800HT</guid>
 <id>131D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -1813,6 +2237,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Protecto-Coat 1130 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/131D/12876/P-Coat-800HT-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 800HT PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/131D/PDS%3A%7BPC%3A131D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_800HT_PDS.pdf</url>
 <type>PDS</type>
@@ -1828,7 +2257,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat 805</guid>
 <id>106D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -1858,8 +2287,118 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Protecto-Coat 805 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 805 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/106D/PDS%3A%7BPC%3A106D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_805_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Protecto-Coat 805 SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/106D/12877/P-Coat-805-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Coat 900 ]]>
+</title>
+<description>
+<![CDATA[ Protecto-Coat 900 exhibits a high cross-link density and offers the best solvent and acid resistance. Protecto-Coat 900 systems are filled with Mica flakes to reduce the coefficient of expansion, and provide a chemical resistant barrier. The lamellar arrangement of flakes reduces water vapor permeation and permits chemical exposure at higher temperatures without increasing the thickness of the coating. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Coat 900</guid>
+<id>107D</id>
+<family>Protecto-Coat</family>
+<types>
+<type>Vinyl Esters</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Excellent Chemical Resistance</feature>
+<feature>Conductive Version Available</feature>
+<feature>Low Permeability</feature>
+</features>
+<genericType>Flake-Filled, Novolac Vinyl Ester Coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Coat 900 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 900 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/107D/PDS%3A%7BPC%3A107D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Protecto-Coat 900 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/107D/49CA3A6FDACDC1F48525891D0066F993/307DA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Coat 900FR ]]>
+</title>
+<description>
+<![CDATA[ Protecto-Coat 900FR exhibits a high cross-link density and offers the best solvent and acid resistance. Protecto-Coat 900FR systems are filled with Mica flakes to reduce the coefficient of expansion, and provide a chemical resistant barrier. The lamellar arrangement of flakes reduces water vapor permeation and permits chemical exposure at higher temperatures without increasing the thickness of the coating. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Coat 900FR</guid>
+<id>133D</id>
+<family>Protecto-Coat</family>
+<types>
+<type>Vinyl Esters</type>
+</types>
+<applications>
+<application>Tank Linings</application>
+</applications>
+<markets>
+<market>Secondary Containment</market>
+<market>Storage Tanks</market>
+</markets>
+<features>
+<feature>Fire Retardant</feature>
+<feature>Excellent Chemical Resistance</feature>
+<feature>Conductive Version Available</feature>
+<feature>Low Permeability</feature>
+</features>
+<genericType>Fire-Retardant, Flake-Filled, Novolac Vinyl Ester Coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Coat 900FR PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/133D/PDS%3A%7BPC%3A133D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900FR_PDS.pdf</url>
 <type>PDS</type>
 </link>
 </links>
@@ -1873,7 +2412,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat 900HT</guid>
 <id>134D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -1904,34 +2443,34 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/134D/PDS%3A%7BPC%3A134D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900HT_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Protecto-Coat 900HT SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/134D/12878/P-Coat-900HT-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
 <title>
-<![CDATA[ Protecto-Coat 900HT Plus ]]>
+<![CDATA[ Protecto-Coat 905 ]]>
 </title>
 <description>
-<![CDATA[ Protecto-Coat 900HT Plus uses two or three layers of thermosetting, glass flake filled, novolac vinyl ester resin to build up the protection that metal and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic coating. ]]>
+<![CDATA[ A novolac vinyl ester resin formulated specifically as a silica-free lining and utilizes graphite flake fillers for resistance to a wide variety of acids, caustics, salts, oils and mild alkali solutions. ]]>
 </description>
-<guid isPermaLink="false">Protecto-Coat 900HT Plus</guid>
-<id>135D</id>
-<family>Dudick</family>
+<guid isPermaLink="false">Protecto-Coat 905</guid>
+<id>109D</id>
+<family>Protecto-Coat</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
-<applications>
-<application>Tank Linings</application>
-</applications>
-<markets>
-<market>Secondary Containment</market>
-<market>Storage Tanks</market>
-</markets>
+<applications> </applications>
+<markets> </markets>
 <features>
-<feature>Low Permeability</feature>
-<feature>High Temperature Resistance</feature>
 <feature>Excellent Chemical Resistance</feature>
+<feature>Conductive Version Available</feature>
+<feature>Low Permeability</feature>
 </features>
-<genericType>Glass Flake-Filled, Novolac Vinyl Ester Coating</genericType>
+<genericType>Graphite Flake-Filled, Novolac Vinyl Ester Coating</genericType>
 <designation> </designation>
 <productfinish/>
 <productdfts/>
@@ -1947,8 +2486,13 @@
 <locale>en_US</locale>
 <links>
 <link>
-<name>Protecto-Coat 900HT Plus PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/135D/PDS%3A%7BPC%3A135D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900HT_Plus_PDS.pdf</url>
+<name>Protecto-Coat 905 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 905 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/109D/PDS%3A%7BPC%3A109D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_905_PDS.pdf</url>
 <type>PDS</type>
 </link>
 </links>
@@ -1962,7 +2506,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat EPG</guid>
 <id>136D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Epoxy Phenolic</type>
 </types>
@@ -2002,6 +2546,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/136D/PDS%3A%7BPC%3A136D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_EPG_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Protecto-Coat EPG SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/136D/12879/P-Coat-EPG-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat EPG SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/136D/12880/P-Coat-EPG-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -2013,7 +2567,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Coat PS</guid>
 <id>230D</id>
-<family>Dudick</family>
+<family>Protecto-Coat</family>
 <types>
 <type>Polyureas &amp; Hybrids (Elastomeric)</type>
 </types>
@@ -2059,6 +2613,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/230D/PDS%3A%7BPC%3A230D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_PS_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Protecto-Coat PS SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/230D/12881/P-Coat-PS-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat PS SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/230D/12882/P-Coat-PS-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -2070,7 +2634,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Crete 140T BC</guid>
 <id>098D</id>
-<family>Dudick</family>
+<family>Protecto-Crete</family>
 <types>
 <type>Epoxy Novolacs</type>
 <type>Repair Mortars</type>
@@ -2114,6 +2678,57 @@
 </item>
 <item>
 <title>
+<![CDATA[ Protecto-Crete 140T GC ]]>
+</title>
+<description>
+<![CDATA[ A novolac epoxy grout used to seal and fill small voids left from troweling the aggregate filled Protecto-Coat 140T BC, a heavy-duty industrial troweled mortar. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Crete 140T GC</guid>
+<id>090D</id>
+<family>Protecto-Crete</family>
+<types>
+<type>Epoxy Novolacs</type>
+</types>
+<applications>
+<application>Resinous Flooring</application>
+</applications>
+<markets>
+<market>Food &amp; Beverage</market>
+<market>Multiple Markets</market>
+<market>Flooring</market>
+<market>Pharmaceutical</market>
+</markets>
+<features>
+<feature>Low Odor</feature>
+<feature>VOC Compliant</feature>
+<feature>Can be used for Coving</feature>
+<feature> Pitch and Curb Construction</feature>
+<feature>100% Solids</feature>
+</features>
+<genericType>100% solids, self-leveling novolac epoxy floor coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Crete 140T GC PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/090D/PDS%3A%7BPC%3A090D%3BMID%3A1%3BLID%3A1%7D/Protecto-Crete_140T_GC_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Protecto-Flake 800 ]]>
 </title>
 <description>
@@ -2121,7 +2736,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Flake 800</guid>
 <id>144D</id>
-<family>Dudick</family>
+<family>Protecto-Flake</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -2153,6 +2768,11 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/144D/PDS%3A%7BPC%3A144D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flake_800_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Protecto-Flake 800 SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/144D/12883/P-Flake-800-BC-TC-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -2164,7 +2784,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Flake 900</guid>
 <id>145D</id>
-<family>Dudick</family>
+<family>Protecto-Flake</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -2203,6 +2823,11 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/145D/PDS%3A%7BPC%3A145D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flake_900_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Protecto-Flake 900 SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/145D/12884/P-Flake-900-BC-TC-A_GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -2214,7 +2839,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Flex BC</guid>
 <id>154D</id>
-<family>Dudick</family>
+<family>Protecto-Flex</family>
 <types>
 <type>Epoxy Polyamides</type>
 </types>
@@ -2258,19 +2883,75 @@
 <type>OTHER</type>
 </link>
 <link>
-<name>Protecto-Flex BC PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/154D/PDS%3A%7BPC%3A154D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flex_BC_PDS.pdf</url>
-<type>PDS</type>
+<name>Protecto-Flex BC - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Protecto-Flex%20BC</url>
+<type>OTHER</type>
 </link>
 <link>
-<name>Protecto-Flex Part A SDS</name>
+<name>Protecto-Flex BC Part A SDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/154D/12741/Protecto-Flex+BC+Part+A+SDS+9-10-2024.pdf</url>
 <type>OTHER</type>
 </link>
 <link>
-<name>Protecto-Flex Part B SDS</name>
+<name>Protecto-Flex BC Part B SDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/154D/12742/Protecto-Flex+BC+Part+B+SDS+9-10-2024.pdf</url>
 <type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Flex BC PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/154D/PDS%3A%7BPC%3A154D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flex_BC_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Glass 160XT ]]>
+</title>
+<description>
+<![CDATA[ A high-performance, highly chemical resistant lining for protection of metal and concrete. It is well suited for chemical manufacturing or processing operations. Used as a component of a system with fiberglass reinforcement, the separate elements lose their individual identity and become a single, monolithic lining. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Glass 160XT</guid>
+<id>282D</id>
+<family>Protecto-Glass</family>
+<types>
+<type>Epoxy Novolacs</type>
+</types>
+<applications>
+<application>Concrete Repair</application>
+<application>Concrete Coating Systems</application>
+</applications>
+<markets>
+<market>Water &amp; Wastewater</market>
+<market>Secondary Containment</market>
+<market>Storage Tanks</market>
+<market>Flooring</market>
+</markets>
+<features>
+<feature>Meets all VOC requirements</feature>
+<feature>Low Odor</feature>
+<feature>Reinforced to bridge small surface cracks</feature>
+<feature>Can be broadcast for anti-skid</feature>
+</features>
+<genericType>100% solids, trowel applied, reinforced, novolac epoxy lining</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Glass 160XT PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/282D/PDS%3A%7BPC%3A282D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_160XT_PDS.pdf</url>
+<type>PDS</type>
 </link>
 </links>
 </item>
@@ -2283,7 +2964,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Glass 860</guid>
 <id>225D</id>
-<family>Dudick</family>
+<family>Protecto-Glass</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -2327,6 +3008,135 @@
 </item>
 <item>
 <title>
+<![CDATA[ Protecto-Glass 960 ]]>
+</title>
+<description>
+<![CDATA[ Protecto-Glass 960 uses several layers of filled, thermosetting novolac vinyl ester resin to build up the protection that steel and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic topping. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Glass 960</guid>
+<id>218D</id>
+<family>Protecto-Glass</family>
+<types>
+<type>Vinyl Esters</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Excellent Chemical Resistance</feature>
+<feature>Bridges Small Concrete Cracks</feature>
+<feature>Can be seeded for Anti-Skid</feature>
+</features>
+<genericType>Trowel-applied, reinforced, novolac vinyl ester lining &amp; floor topping</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Glass 960 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/218D/PDS%3A%7BPC%3A218D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_960_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Line 100 ]]>
+</title>
+<description>
+<![CDATA[ Protecto-Line 100 uses several layers of amine cured, reinforced epoxy resin to build up the protection that metal and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic lining. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Line 100</guid>
+<id>233D</id>
+<family>Protecto-Line</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+<application>Tank Linings</application>
+</applications>
+<markets> </markets>
+<features>
+<feature>Meets all VOC Requirements</feature>
+<feature>Low Odor</feature>
+<feature>Conductive Version Available</feature>
+</features>
+<genericType>100% solids, trowel applied, reinforced epoxy lining</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Line 100 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/233D/PDS%3A%7BPC%3A233D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_100_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Line 100XT ]]>
+</title>
+<description>
+<![CDATA[ Protecto-Line 100XT uses several layers of amine cured, filled novolac epoxy resin to build up the protection that metal and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic lining. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Line 100XT</guid>
+<id>229D</id>
+<family>Protecto-Line</family>
+<types>
+<type>Epoxy Novolacs</type>
+<type>Floor Coating - Epoxy</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Low Odor</feature>
+<feature>Low Taber Abrasion</feature>
+<feature>Meets all VOC requirements</feature>
+<feature>Excellent Sulfuric Acid Resistance</feature>
+</features>
+<genericType>Reinforced novolac epoxy lining</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Line 100XT PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/229D/PDS%3A%7BPC%3A229D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_100XT_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Protecto-Line 800 ]]>
 </title>
 <description>
@@ -2334,7 +3144,7 @@
 </description>
 <guid isPermaLink="false">Protecto-Line 800</guid>
 <id>234D</id>
-<family>Dudick</family>
+<family>Protecto-Line</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -2377,14 +3187,55 @@
 </item>
 <item>
 <title>
-<![CDATA[ Scratch Coat 300 ]]>
+<![CDATA[ Protecto-Line 900 ]]>
+</title>
+<description>
+<![CDATA[ Protecto-Line 900 uses several layers of thermosetting, filled novolac vinyl ester resin to build up the protection that metal and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic lining. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Line 900</guid>
+<id>211D</id>
+<family>Protecto-Line</family>
+<types>
+<type>Vinyl Esters</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Low Permeability</feature>
+<feature>Conductive Version Available</feature>
+</features>
+<genericType>Trowel applied, reinforced novolac vinyl ester lining</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Line 900 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/211D/PDS%3A%7BPC%3A211D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_900_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Scratch-Coat 300 ]]>
 </title>
 <description>
 <![CDATA[ An epoxy based patching compound for filling surface defects and bugholes in concrete substrates. This product uses an epoxy resin and a unique, inert mineral filler to achieve a smooth non-slumping fill material. The system is formulated to improve the integrity and continuity of a prepared substrate, prior to the application of a coating or lining system. ]]>
 </description>
-<guid isPermaLink="false">Scratch Coat 300</guid>
+<guid isPermaLink="false">Scratch-Coat 300</guid>
 <id>117D</id>
-<family>Dudick</family>
+<family>Scratch Coat</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -2418,27 +3269,37 @@
 <locale>en_US</locale>
 <links>
 <link>
-<name>Scratch Coat 300 - Health Product Declaration (HPD)</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/117D/12704/1532_Scratch_Coat_300_Health+Product+Declaration.pdf</url>
+<name>Scratch-Coat 300 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Scratch%20Coat%20300</url>
 <type>OTHER</type>
 </link>
 <link>
-<name>Scratch Coat 300 PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/117D/PDS%3A%7BPC%3A117D%3BMID%3A1%3BLID%3A1%7D/Scratch_Coat_300_PDS.pdf</url>
+<name>Scratch-Coat 300 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/117D/PDS%3A%7BPC%3A117D%3BMID%3A1%3BLID%3A1%7D/Scratch-Coat_300_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Scratch-Coat 300 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/117D/12885/Scratch-Coat-300-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Scratch-Coat 300 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/117D/12886/Scratch-Coat-300-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
 <item>
 <title>
-<![CDATA[ Scratch Coat 800 ]]>
+<![CDATA[ Scratch-Coat 800 ]]>
 </title>
 <description>
-<![CDATA[ An vinyl ester based patching compound for filling surface defects and bugholes in concrete substrates. This product uses an epoxy resin and a unique, inert mineral filler to achieve a smooth non-slumping fill material. The system is formulated to improve the integrity and continuity of a prepared substrate, prior to the application of a coating or lining system. ]]>
+<![CDATA[ A vinyl ester based patching compound for filling surface defects and bugholes in concrete substrates. This product uses an epoxy resin and a unique, inert mineral filler to achieve a smooth non-slumping fill material. The system is formulated to improve the integrity and continuity of a prepared substrate, prior to the application of a coating or lining system. ]]>
 </description>
-<guid isPermaLink="false">Scratch Coat 800</guid>
+<guid isPermaLink="false">Scratch-Coat 800</guid>
 <id>118D</id>
-<family>Dudick</family>
+<family>Scratch Coat</family>
 <types>
 <type>Vinyl Esters</type>
 </types>
@@ -2474,8 +3335,153 @@
 <locale>en_US</locale>
 <links>
 <link>
-<name>Scratch Coat 800 PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/118D/PDS%3A%7BPC%3A118D%3BMID%3A1%3BLID%3A1%7D/Scratch_Coat_800_PDS.pdf</url>
+<name>Scratch-Coat 800 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=scratch-coat%20800</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Scratch-Coat 800 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/118D/PDS%3A%7BPC%3A118D%3BMID%3A1%3BLID%3A1%7D/Scratch-Coat_800_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Scratch-Coat 800 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/118D/35C4F9961BAA5CC18525892C00628870/300DA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 200WB Clear Gloss ]]>
+</title>
+<description>
+<![CDATA[ A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup. ]]>
+</description>
+<guid isPermaLink="false">Sealer 200WB Clear Gloss</guid>
+<id>266D</id>
+<family>Sealers</family>
+<types>
+<type>Floor Coating - Urethane</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Field and shop application</feature>
+<feature>Soap &amp; water clean up</feature>
+<feature>Low odor</feature>
+<feature> low VOC’s</feature>
+<feature>Excellent adhesion</feature>
+<feature>Excellent chemical &amp; abrasion resistance</feature>
+<feature>Also available in satin</feature>
+</features>
+<genericType>Two-component, water-borne aliphatic urethane floor coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 200WB Clear Gloss PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/266D/PDS%3A%7BPC%3A266D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Gloss_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 200WB Clear Matte ]]>
+</title>
+<description>
+<![CDATA[ A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup. ]]>
+</description>
+<guid isPermaLink="false">Sealer 200WB Clear Matte</guid>
+<id>268D</id>
+<family>Sealers</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Field and shop application</feature>
+<feature>Soap &amp; water clean up</feature>
+<feature>Low odor</feature>
+<feature> low VOC’s</feature>
+<feature>Excellent adhesion</feature>
+<feature>Excellent chemical &amp; abrasion resistance</feature>
+<feature>Also available in satin</feature>
+</features>
+<genericType>Two-component, water-borne aliphatic urethane floor coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 200WB Clear Matte PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/268D/PDS%3A%7BPC%3A268D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Matte_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 200WB Clear Satin ]]>
+</title>
+<description>
+<![CDATA[ A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup. ]]>
+</description>
+<guid isPermaLink="false">Sealer 200WB Clear Satin</guid>
+<id>208D</id>
+<family>Sealers</family>
+<types>
+<type>Floor Coating - Epoxy</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Field and shop application</feature>
+<feature>Soap &amp; water clean up</feature>
+<feature>Low odor</feature>
+<feature> low VOC’s</feature>
+<feature>Excellent adhesion</feature>
+<feature>Excellent chemical &amp; abrasion resistance</feature>
+</features>
+<genericType>Two-component, water-borne aliphatic urethane floor coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 200WB Clear Satin PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/208D/PDS%3A%7BPC%3A208D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Satin_PDS.pdf</url>
 <type>PDS</type>
 </link>
 </links>
@@ -2489,7 +3495,7 @@
 </description>
 <guid isPermaLink="false">Sealer 200WB Pigmented Gloss</guid>
 <id>232D</id>
-<family>Dudick</family>
+<family>Sealers</family>
 <types>
 <type>Floor Coating - Epoxy</type>
 </types>
@@ -2520,6 +3526,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Sealer 200WB - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Sealer%20200WB</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Sealer 200WB Environmental Product Declaration (EPD)</name>
 <url>https://carboline.box.com/shared/static/tt8u8hlt6z2kieb50o2rq2mzy5wlglws.pdf</url>
 <type>OTHER</type>
@@ -2533,6 +3544,97 @@
 </item>
 <item>
 <title>
+<![CDATA[ Sealer 200WB Pigmented Matte ]]>
+</title>
+<description>
+<![CDATA[ A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup. ]]>
+</description>
+<guid isPermaLink="false">Sealer 200WB Pigmented Matte</guid>
+<id>096D</id>
+<family>Sealers</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Field and shop application</feature>
+<feature>Soap &amp; water clean up</feature>
+<feature>Low odor</feature>
+<feature> low VOC’s</feature>
+<feature>Excellent adhesion</feature>
+<feature>Excellent chemical &amp; abrasion resistance</feature>
+</features>
+<genericType>Two-component, water-borne aliphatic urethane floor coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 200WB Pigmented Matte PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/096D/PDS%3A%7BPC%3A096D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Matte_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 200WB Pigmented Satin ]]>
+</title>
+<description>
+<![CDATA[ A two component waterborne urethane coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining with easy soap and water cleanup. ]]>
+</description>
+<guid isPermaLink="false">Sealer 200WB Pigmented Satin</guid>
+<id>267D</id>
+<family>Sealers</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Field and shop application</feature>
+<feature>Soap &amp; water clean up</feature>
+<feature>Low odor</feature>
+<feature> low VOC’s</feature>
+<feature>Excellent adhesion</feature>
+<feature>Excellent chemical &amp; abrasion resistance</feature>
+</features>
+<genericType>Water-borne aliphatic urethane</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 200WB Environmental Product Declaration (EPD)</name>
+<url>https://carboline.box.com/shared/static/tt8u8hlt6z2kieb50o2rq2mzy5wlglws.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 200WB Pigmented Satin PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/267D/PDS%3A%7BPC%3A267D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Satin_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Sealer 30SD ]]>
 </title>
 <description>
@@ -2540,7 +3642,7 @@
 </description>
 <guid isPermaLink="false">Sealer 30SD</guid>
 <id>245D</id>
-<family>Dudick</family>
+<family>Sealers</family>
 <types>
 <type>Polyurethane Finishes</type>
 </types>
@@ -2580,6 +3682,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/245D/PDS%3A%7BPC%3A245D%3BMID%3A1%3BLID%3A1%7D/Sealer_30SD_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Sealer 30SD SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/245D/12887/Sealer-30-SD-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 30SD SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/245D/12888/Sealer-30-30SD-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -2591,7 +3703,7 @@
 </description>
 <guid isPermaLink="false">Sealer 35</guid>
 <id>296D</id>
-<family>Dudick</family>
+<family>Sealers</family>
 <types> </types>
 <applications>
 <application>Resinous Flooring</application>
@@ -2623,6 +3735,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Sealer 35 - Environmental Product Declaration (EPD)</name>
+<url>https://smartepd.com/epd-library/671bcd7a71b10ac292beba79</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Sealer 35 Part A SDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/296D/12575/Sealer+35+Part+A+SDS+1-30-2024.pdf</url>
 <type>OTHER</type>
@@ -2641,6 +3758,215 @@
 </item>
 <item>
 <title>
+<![CDATA[ Sealer 50 Clear Gloss ]]>
+</title>
+<description>
+<![CDATA[ A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of fluoropolymer chemistry. ]]>
+</description>
+<guid isPermaLink="false">Sealer 50 Clear Gloss</guid>
+<id>164D</id>
+<family>Sealers</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+<feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)</feature>
+<feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+<feature>Excellent Color Stability</feature>
+<feature>Excellent Stain Resistance</feature>
+</features>
+<genericType>Two-component, nano enhanced, hybrid fluoropolymer sealer</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 50 Clear Gloss PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/164D/PDS%3A%7BPC%3A164D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_Clear_Gloss_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 50 Clear Satin ]]>
+</title>
+<description>
+<![CDATA[ A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of fluoropolymer chemistry. ]]>
+</description>
+<guid isPermaLink="false">Sealer 50 Clear Satin</guid>
+<id>165D</id>
+<family>Sealers</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+<feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)</feature>
+<feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+<feature>Excellent Color Stability</feature>
+<feature>Excellent Stain Resistance</feature>
+</features>
+<genericType>Hybrid Fluoropolymer Sealer</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 50 Clear Satin PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/165D/PDS%3A%7BPC%3A165D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_Clear_Satin_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 50 Pigmented Gloss ]]>
+</title>
+<description>
+<![CDATA[ A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of fluoropolymer chemistry. ]]>
+</description>
+<guid isPermaLink="false">Sealer 50 Pigmented Gloss</guid>
+<id>166D</id>
+<family>Sealers</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+<feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)</feature>
+<feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+<feature>Excellent Color Stability</feature>
+<feature>Excellent Stain Resistance</feature>
+</features>
+<genericType>Hybrid Fluoropolymer Sealer</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 50 Pigmented Gloss PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/166D/PDS%3A%7BPC%3A166D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_Pigmented_Gloss_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 50 Pigmented Satin ]]>
+</title>
+<description>
+<![CDATA[ A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability and resistance to UV degradation known industry wide to be inherent of fluoropolymer chemistry. ]]>
+</description>
+<guid isPermaLink="false">Sealer 50 Pigmented Satin</guid>
+<id>167D</id>
+<family>Sealers</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+<feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)</feature>
+<feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+<feature>Excellent Color Stability</feature>
+<feature>Excellent Stain Resistance</feature>
+</features>
+<genericType>Hybrid Fluoropolymer Sealer</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 50 Pigmented Satin PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/167D/PDS%3A%7BPC%3A167D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_Pigmented_Satin_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 50 TSD ]]>
+</title>
+<description>
+<![CDATA[ A premium fluoropolymer urethane sealer/topcoat that offers the outstanding color stability, resistance to UV degradation, and stain resistance, known industry wide to be inherent of fluoropolymer chemistry. ]]>
+</description>
+<guid isPermaLink="false">Sealer 50 TSD</guid>
+<id>274D</id>
+<family>Sealers</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+<feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 (compliance certificates available upon request)</feature>
+<feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+<feature>Excellent Stain Resistance</feature>
+</features>
+<genericType>Two-component, nano enhanced, static dissipative, hybrid fluoropolymer sealer</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 50 TSD PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/274D/PDS%3A%7BPC%3A274D%3BMID%3A1%3BLID%3A1%7D/Sealer_50_TSD_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Sealer 80 ]]>
 </title>
 <description>
@@ -2648,7 +3974,7 @@
 </description>
 <guid isPermaLink="false">Sealer 80</guid>
 <id>341D</id>
-<family>Dudick</family>
+<family>Sealers</family>
 <types>
 <type>Siloxanes</type>
 </types>
@@ -2694,7 +4020,7 @@
 </description>
 <guid isPermaLink="false">Sealer 985 (fka Carboseal 985)</guid>
 <id>F141</id>
-<family>Dudick</family>
+<family>Sealers</family>
 <types>
 <type>Polyaspartics</type>
 </types>
@@ -2741,11 +4067,6 @@
 <link>
 <name>Sealer 985 (fka Carboseal 985) Part A SDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12626/Sealer+985+%28fka+Carboseal+985%29+Part+A+SDS+6-12-2024.pdf</url>
-<type>OTHER</type>
-</link>
-<link>
-<name>Sealer 985 (fka Carboseal 985) Part B SDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F141/12627/Sealer+985+%28fka+Carboseal+985%29+Part+B+SDS+6-12-2024.pdf</url>
 <type>OTHER</type>
 </link>
 <link>
@@ -2833,10 +4154,1062 @@
 </item>
 <item>
 <title>
+<![CDATA[ Semstone 110 ]]>
+</title>
+<description>
+<![CDATA[ Two part epoxy exhibiting superior adhesion to concrete and steel. Used primarily as a primer/sealer for concrete surfaces and top coated with a variety of chemically resistant toppings. ]]>
+</description>
+<guid isPermaLink="false">Semstone 110</guid>
+<id>171P</id>
+<family>Semstone</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Water &amp; Wastewater</market>
+<market>Pulp &amp; Paper</market>
+<market>Petrochemical</market>
+<market>OEM</market>
+<market>Power - Thermal Fuel</market>
+<market>Pharmaceutical</market>
+</markets>
+<features>
+<feature>Outstanding wetting properties</feature>
+<feature>Solvent-free</feature>
+<feature>Long working time</feature>
+<feature>Excellent adhesion</feature>
+<feature>Compatible with a variety of toppings</feature>
+</features>
+<genericType>Modified Epoxy</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 110 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/171P/PDS%3A%7BPC%3A171P%3BMID%3A1%3BLID%3A1%7D/Semstone_110_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 110 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/171P/24821972BA2D14828525705300542E70/171PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 110 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/171P/EB6CC80E43EC562E8525705300542E77/171PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 140 ]]>
+</title>
+<description>
+<![CDATA[ High performance lining system designed for concrete. Semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Specially formulated to withstand some of industry’s most aggressive chemicals. ]]>
+</description>
+<guid isPermaLink="false">Semstone 140</guid>
+<id>173P</id>
+<family>Semstone</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Water &amp; Wastewater</market>
+<market>Petrochemical</market>
+<market>OEM</market>
+<market>Power - Thermal Fuel</market>
+</markets>
+<features>
+<feature>Excellent resistance to chemical attack</feature>
+<feature>Excellent abrasion and impact resistance</feature>
+<feature>Exceptional thermal shock resistance</feature>
+<feature>Superior bonding properties</feature>
+<feature>High cohesive strength</feature>
+<feature>Low permeability</feature>
+<feature>Low odor</feature>
+</features>
+<genericType>100% solids epoxy</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 140 / 145 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/173P/7F8F95C025FFED798525711B006EE071/173PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 140 AFC System Information Sheet</name>
+<url>https://carboline.box.com/shared/static/93stxabnaggp3j2ye00hp0bivnbcmh1a.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 140 AFRC System Information Sheet</name>
+<url>https://carboline.box.com/shared/static/6yk9nvg6tscvo0t62t7wwgejn9xkz04f.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 140 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/173P/PDS%3A%7BPC%3A173P%3BMID%3A1%3BLID%3A1%7D/Semstone_140_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 140 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/173P/680F0D943B8C36288525705300542E82/173PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 140 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/173P/7817C142F4B93EBC8525705300542E89/173PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone Brochure</name>
+<url>https://carboline.box.com/shared/static/h4jg65ng1fn8sohqs9f5zs7jrw4uzqjp.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone Scrim Cloth SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/173P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone System Selector Guide</name>
+<url>https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 140 CT ]]>
+</title>
+<description>
+<![CDATA[ Semstone 140 CT is a 100% solids, high performance, epoxy lining system designed for concrete. It is a semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Semstone 140 CT is specially formulated to withstand some of industry’s most aggressive chemicals. ]]>
+</description>
+<guid isPermaLink="false">Semstone 140 CT</guid>
+<id>174P</id>
+<family>Semstone</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Petrochemical</market>
+<market>OEM</market>
+</markets>
+<features>
+<feature>Excellent resistance to chemical attack</feature>
+<feature>Excellent abrasion and impact resistance</feature>
+<feature>Exceptional thermal shock resistance</feature>
+<feature>Superior bonding qualities</feature>
+<feature>High cohesive strength</feature>
+<feature>Low permeability</feature>
+<feature>Low odor</feature>
+</features>
+<genericType>100% Solids, high performance epoxy liner</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 140 CT PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/174P/PDS%3A%7BPC%3A174P%3BMID%3A1%3BLID%3A1%7D/Semstone_140_CT_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 140 CT SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/174P/B986FCFAD4845B4C8525705300542E8F/174PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 140 CT SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/174P/210DCADFA1EA42988525705300542E95/174PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone Scrim Cloth SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/174P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 145 ]]>
+</title>
+<description>
+<![CDATA[ 100% solids, high performance, novolac epoxy lining system designed for concrete. It is a semi-leveling coating and may be applied as an aggregate filled and/or reinforced coating system. Specially formulated to withstand some of industry’s most aggressive chemicals, including 98% sulfuric acid, as well as many organic chemicals and solvents. ]]>
+</description>
+<guid isPermaLink="false">Semstone 145</guid>
+<id>177P</id>
+<family>Semstone</family>
+<types>
+<type>Epoxy Novolacs</type>
+</types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Water &amp; Wastewater</market>
+<market>Metals &amp; Mining</market>
+<market>Petrochemical</market>
+<market>OEM</market>
+<market>Power - Thermal Fuel</market>
+</markets>
+<features>
+<feature>Excellent resistance to chemical attack</feature>
+<feature>Excellent abrasion and impact resistance</feature>
+<feature>Exceptional thermal shock resistance</feature>
+<feature>Superior acid resistance</feature>
+<feature>Superior bonding qualities</feature>
+<feature>High cohesive strength</feature>
+<feature>Low permeability</feature>
+<feature>Low odor</feature>
+</features>
+<genericType>Epoxy novolac</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 140 / 145 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/177P/7F8F95C025FFED798525711B006EE071/173PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 145 AFC System Information Sheet</name>
+<url>https://carboline.box.com/shared/static/pxrve8o4iksem79hd6muiaw9w18ny4q4.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 145 AFRC System Information Sheet</name>
+<url>https://carboline.box.com/shared/static/ze50azm3isaadkwhgeg332s8x9d79w6v.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 145 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/177P/PDS%3A%7BPC%3A177P%3BMID%3A1%3BLID%3A1%7D/Semstone_145_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 145 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/177P/DC6FF6705FEBFDB18525705300542EB6/177PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone Brochure</name>
+<url>https://carboline.box.com/shared/static/h4jg65ng1fn8sohqs9f5zs7jrw4uzqjp.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone Scrim Cloth SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/177P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone System Selector Guide</name>
+<url>https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 145 CT ]]>
+</title>
+<description>
+<![CDATA[ Semstone 145 CT is a 100% solids, high performance, novolac epoxy lining system designed for concrete. It is a semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Semstone 145 CT is specially formulated to withstand some of industry’s most aggressive chemicals, including 98% sulfuric acid, as well as many organic chemicals and solvents. ]]>
+</description>
+<guid isPermaLink="false">Semstone 145 CT</guid>
+<id>178P</id>
+<family>Semstone</family>
+<types>
+<type>Epoxy Novolacs</type>
+</types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Water &amp; Wastewater</market>
+<market>Metals &amp; Mining</market>
+<market>Petrochemical</market>
+<market>OEM</market>
+</markets>
+<features>
+<feature>Excellent resistance to chemical attack</feature>
+<feature>Excellent abrasion and impact resistance</feature>
+<feature>Exceptional thermal shock resistance</feature>
+<feature>Superior bonding qualities</feature>
+<feature>High cohesive strength</feature>
+<feature>Low permeability</feature>
+<feature>Low odor</feature>
+<feature>Formulated to resist a variety of chemical solutions.</feature>
+<feature>Suitable for use in USDA-inspected facilities</feature>
+</features>
+<genericType>100% Solids, high performance, novolac epoxy liner</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 145 CT PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/178P/PDS%3A%7BPC%3A178P%3BMID%3A1%3BLID%3A1%7D/Semstone_145_CT_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 145 CT SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/178P/8B29155F58776C11852571110058E59B/177PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 145 CT SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/178P/19FAB6CCEA329B238525705300542ECA/178PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone Scrim Cloth SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/178P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 245 ]]>
+</title>
+<description>
+<![CDATA[ Semstone 245 is a 100% solids, high performance, novolac epoxy lining system designed for concrete. Semstone 245 is a semileveling coating, it may be applied as an aggregate filled and/or reinforced coating system. Semstone 245 is specially formulated to withstand some of the industry's most aggressive chemicals, including chlorinated solvents. ]]>
+</description>
+<guid isPermaLink="false">Semstone 245</guid>
+<id>181P</id>
+<family>Semstone</family>
+<types>
+<type>Epoxy Novolacs</type>
+</types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Metals &amp; Mining</market>
+<market>Petrochemical</market>
+</markets>
+<features>
+<feature>Excellent resistance to chemical attack</feature>
+<feature>Excellent abrasion and impact resistance</feature>
+<feature>Exceptional thermal shock resistance</feature>
+<feature>Superior bonding qualities</feature>
+<feature>High cohesive strength</feature>
+<feature>Low permeability</feature>
+<feature>Low odor</feature>
+<feature>Formulated to resist a variety of chemical solutions.</feature>
+</features>
+<genericType>100% solids, high performance, novolac epoxy liner</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 245 AFC System Information Sheet</name>
+<url>https://carboline.box.com/shared/static/c4w46sr06mjdeseorhb5j3klw2vm903y.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 245 AFRC System Information Sheet</name>
+<url>https://carboline.box.com/shared/static/4stss92o27c2eqrk2g8dp2k8hs7d549u.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 245 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/181P/PDS%3A%7BPC%3A181P%3BMID%3A1%3BLID%3A1%7D/Semstone_245_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 245 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/181P/C31A7B69B828E5568525705300542EE6/181PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 245 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/181P/589E45CE4D82C7468525705300542EED/181PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone Brochure</name>
+<url>https://carboline.box.com/shared/static/h4jg65ng1fn8sohqs9f5zs7jrw4uzqjp.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone System Selector Guide</name>
+<url>https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 305 ]]>
+</title>
+<description>
+<![CDATA[ Semstone 305 polymer concrete is an excellent alternatives to acid brick. It is used to protect Portland cement concrete from attack from a wide range of aggressive chemicals. Semstone 305 polymer concrete can be applied from 1/2” (12.7 mm) to several inches thick. Applied by screed and trowel method, their installation is quick and easy. Semstone 305 provides a monolithic surfacing that has excellent resistance to impact and mechanical abuse and can be used to restore and protect degraded surfaces in a single application. ]]>
+</description>
+<guid isPermaLink="false">Semstone 305</guid>
+<id>317P</id>
+<family>Semstone</family>
+<types>
+<type>Repair Mortars</type>
+</types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Petrochemical</market>
+</markets>
+<features>
+<feature>Easy to apply</feature>
+<feature>Nonflammable</feature>
+<feature>Low odor</feature>
+<feature>Castable</feature>
+<feature>Make excellent materials of construction</feature>
+</features>
+<genericType>Polymer Concrete</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 305 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/317P/PDS%3A%7BPC%3A317P%3BMID%3A1%3BLID%3A1%7D/Semstone_305_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 305 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/317P/35327CC270316AF285257053005433BC/317PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 305 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/317P/1B6B1392CE758E71852579CD005A2A2A/316PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 305 SDS Part C</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/317P/FC26ED89728728BB852579CD005A6C01/316PC1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 6325 Sealant ]]>
+</title>
+<description>
+<![CDATA[ Two-component, self-leveling, polyurethane sealant. It exhibits excellent flexibility with moderate hardness and good chemical resistance to organic acids, alkalis and most solvents. Uses: can be used in conjunction with all lining systems in a wide range of applications. All high movement joints: isolation, expansion or control Thermal shock situations Exterior applications ]]>
+</description>
+<guid isPermaLink="false">Semstone 6325 Sealant</guid>
+<id>193P</id>
+<family>Semstone</family>
+<types> </types>
+<applications>
+<application>Elastomeric Linings</application>
+</applications>
+<markets>
+<market>Pulp &amp; Paper</market>
+<market>Petrochemical</market>
+<market>OEM</market>
+</markets>
+<features>
+<feature>Long term abrasion and chemical resistance</feature>
+<feature>Excellent bond strength assures good adhesion</feature>
+<feature>Pourable viscosity allows easy installation to horizontal surfaces</feature>
+<feature>Retains physical properties over a wide temperature range</feature>
+<feature> -20 to 150°F (-29 to 66°C)</feature>
+<feature>Factory proportioned packaging ensures consistent high quality and simplified mixing</feature>
+<feature>Compatible with all Carboline lining systems</feature>
+</features>
+<genericType/>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 6325 Color Chart</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/193P/11974/Semstone+6325+Color+Card_0521.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 6325 Sealant ISO (MP7 Isocyanate) SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/193P/54EE0694193499AA8525704200517CF6/193PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 6325 Sealant PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/193P/PDS%3A%7BPC%3A193P%3BMID%3A1%3BLID%3A1%7D/Semstone_6325_Sealant_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 6325 Sealant Polyol SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/193P/F02CF87462C996528525704200517CFF/193PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 805 ]]>
+</title>
+<description>
+<![CDATA[ Semstone 805 is a flexible epoxy polymer coating and lining providing a chemical, water and abrasion resistant barrier for steel and concrete. This versatile coating system was developed as a self-leveling, flexible chemical resistant coating and lining and can also be used as a high build coating and lining system with the addition of a third component. Semstone 805 is a 100% solids, low odor, two-component system applied either as a neat system (unfilled), a reinforced system, an aggregate-filled system or as an aggregate filled reinforced system. A bagged Part C thixotropic agent is added for high build applications. It is most often used with reinforcing fabric (#100) over expansion joints. ]]>
+</description>
+<guid isPermaLink="false">Semstone 805</guid>
+<id>199P</id>
+<family>Semstone</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Water &amp; Wastewater</market>
+<market>Petrochemical</market>
+<market>Pharmaceutical</market>
+</markets>
+<features>
+<feature>Highly Flexible</feature>
+<feature>Chemical Resistant</feature>
+<feature>Water Resistant</feature>
+<feature>Abrasion Resistant</feature>
+<feature>100% Solids</feature>
+</features>
+<genericType>Flexible novolac epoxy coating and lining</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 805 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/199P/PDS%3A%7BPC%3A199P%3BMID%3A1%3BLID%3A1%7D/Semstone_805_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 805 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/199P/8C8CDD85370E3D1F8525705300542F5F/199PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 805 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/199P/F0FB64D413AAF3C68525705300542F65/199PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone Fabric 100 SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/199P/DFA3830EA317FF2185257428004EC17A/312PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 806 ]]>
+</title>
+<description>
+<![CDATA[ Semstone 806 is a 100% solids, low odor, rubberized epoxy. It is used as a chemically resistant membrane for concrete. When reinforced with our flexible fabrics it provides a system which will bridge working cracks as well as expansion joints. When reinforced with Semstone 100 fabric, it can bridge crack expansion joint movement up to 1/2” without cracking. This product is a self-leveling material. However, it maybe used as a high build coating system by the addition of a third component, Semstone Thixotrope D, which is a non-silica Thixotrope. When using reinforcing fabric, Thixotrope D is not required. Concrete slabs with severe cracking problems, as well as all construction and expansion joints, may be treated using Semstone 806 with #100 Fabric. This ideal ideal for use as a secondary containment membrane. ]]>
+</description>
+<guid isPermaLink="false">Semstone 806</guid>
+<id>200P</id>
+<family>Semstone</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Petrochemical</market>
+<market>OEM</market>
+</markets>
+<features>
+<feature>Flexible</feature>
+<feature>Abrasion Resistant</feature>
+<feature>Chemical Resistant</feature>
+<feature>Waterproof</feature>
+</features>
+<genericType>Rubberized epoxy membrane</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 806 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/200P/PDS%3A%7BPC%3A200P%3BMID%3A1%3BLID%3A1%7D/Semstone_806_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 806 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/200P/AE03BD77787C12C98525705300542F6B/200PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 806 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/200P/6ED530A361A5C80C8525705300542F71/200PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 806 VOC Emissions Certificate</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/200P/12631/VOC+Emissions+Certificate+-+Semstone+806_May+2024.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone Fabric 100 SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/200P/DFA3830EA317FF2185257428004EC17A/312PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 870 ]]>
+</title>
+<description>
+<![CDATA[ Semstone 870 is a high performance, vinyl ester lining system designed for concrete. Semstone 870 is formulated to be more flexible than typical vinyl esters to tolerate more concrete movement. It is a semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Semstone 870 is specially formulated to withstand some of industry’s most aggressive chemicals, including a broad range of organic chemicals. ]]>
+</description>
+<guid isPermaLink="false">Semstone 870</guid>
+<id>205P</id>
+<family>Semstone</family>
+<types>
+<type>Vinyl Esters</type>
+</types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Water &amp; Wastewater</market>
+<market>Metals &amp; Mining</market>
+<market>Petrochemical</market>
+<market>Power - Thermal Fuel</market>
+</markets>
+<features>
+<feature>Excellent resistance to chemical attack</feature>
+<feature>Built from flexible vinyl ester binders</feature>
+<feature>Excellent abrasion and impact resistance</feature>
+<feature>Exceptional thermal shock resistance</feature>
+<feature>Superior bonding qualities</feature>
+<feature>High cohesive strength</feature>
+<feature>Low permeability</feature>
+<feature>Low odor</feature>
+</features>
+<genericType>A high performance, vinyl ester lining</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 870 AFC System Information Sheet</name>
+<url>https://carboline.box.com/shared/static/vlhvgsy2ha6nm00ngdisntde6nt05eoc.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 870 AFRC System Information Sheets</name>
+<url>https://carboline.box.com/shared/static/bjmjymbfzvkco7ip6i6as80t5sr56ea5.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 870 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/205P/PDS%3A%7BPC%3A205P%3BMID%3A1%3BLID%3A1%7D/Semstone_870_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 870 Product Flyer</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/205P/7702/Semstone+870+Flier.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone 870 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/205P/9E195CC126B258008525705300542F86/205PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 870 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/205P/6AB4077BBB8EBA518525705300542F8E/205PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone Brochure</name>
+<url>https://carboline.box.com/shared/static/h4jg65ng1fn8sohqs9f5zs7jrw4uzqjp.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone Scrim Cloth SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/205P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone System Selector Guide</name>
+<url>https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone 884 ]]>
+</title>
+<description>
+<![CDATA[ Semstone 884 is a vinyl ester polymer concrete which incorporates proprietary non-shrink technology into its formulation, making it the first practical vinyl ester polymer concrete for use as a concrete topping. It is recommended for use in concentrated nitric acid service and other strong oxidizers. Semstone 884 is an excellent alternative to acid brick. It is also used as a construction material for pouring pump foundations and small tank foundations. It can be used for pre-casting of sumps and trenches. ]]>
+</description>
+<guid isPermaLink="false">Semstone 884</guid>
+<id>207P</id>
+<family>Semstone</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets>
+<market>Pulp &amp; Paper</market>
+<market>Petrochemical</market>
+</markets>
+<features>
+<feature>Excellent alternative to acid brick</feature>
+</features>
+<genericType>Non-shrink vinyl ester polymer concrete</genericType>
+<designation>This is a Carboline Specialty Product Minimum order quantities and special pricing will apply in North America. Contact your Carboline Sales Representative for more details.</designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone 884 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207P/PDS%3A%7BPC%3A207P%3BMID%3A1%3BLID%3A1%7D/Semstone_884_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone 884 SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207P/ACBECCD56030043B8525705300542F98/207PA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 884 SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207P/349AC3670C5737AC8525705300542F9F/207PB1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone 884 SDS Part C</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207P/48FBB8A4EA2AB7348525705300542FA7/207PC1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone Fabric 100 ]]>
+</title>
+<description>
+<![CDATA[ Semstone Fabric 100 is a non-woven geotextile made from polypropylene fibers. The polypropylene fibers are essentially chemically and biologically inert which offers good chemical resistance to acids, alkalis, oils and most solvents. When saturated with either SEMSTONE 805 or SEMSTONE 806 the result is a chemically resistant, flexible, reinforced membrane system well suited for sealing expansion joints or bridging working cracks in concrete. ]]>
+</description>
+<guid isPermaLink="false">Semstone Fabric 100</guid>
+<id>312P</id>
+<family>Semstone</family>
+<types>
+<type>Specialties</type>
+</types>
+<applications>
+<application>Misc (grouts</application>
+<application> fillers</application>
+<application> caulks</application>
+<application> tapes</application>
+<application> sealers)</application>
+</applications>
+<markets>
+<market>Petrochemical</market>
+</markets>
+<features> </features>
+<genericType/>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone Fabric 100 SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/312P/DFA3830EA317FF2185257428004EC17A/312PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone Scrim Cloth ]]>
+</title>
+<description>
+<![CDATA[ Scrim Cloth is a woven, Type “E”, borosilicate glass fiber reinforcing fabric, specially designed for Semstone Systems. The glass filament fibers are bundled and woven at right angles to each other, which affords bidirectional strength. When Scrim Cloth is incorporated in a Semstone Epoxy, Novolac or Vinyl Ester coating/lining system, impact resistance, tensile strength and fatigue resistance of the system is increased. ]]>
+</description>
+<guid isPermaLink="false">Semstone Scrim Cloth</guid>
+<id>311P</id>
+<family>Semstone</family>
+<types>
+<type>Specialties</type>
+</types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets> </markets>
+<features> </features>
+<genericType/>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone Scrim Cloth PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311P/PDS%3A%7BPC%3A311P%3BMID%3A1%3BLID%3A1%7D/Semstone_Scrim_Cloth_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Semstone Scrim Cloth Product Description</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311P/10421/Semstone+Scrim+Cloth+Product+Description.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Semstone Scrim Cloth SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone Thixotrope C ]]>
+</title>
+<description>
+<![CDATA[ Cellulose powder (crushed newspaper) for adding body to Semstone products ]]>
+</description>
+<guid isPermaLink="false">Semstone Thixotrope C</guid>
+<id>5112</id>
+<family>Semstone</family>
+<types>
+<type>Additives</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features> </features>
+<genericType/>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone Thixotrope C SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/5112/A840993735B175A6852570DE00760348/5112S1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Semstone Thixotrope D ]]>
+</title>
+<description>
+<![CDATA[ Cabosil for film build properties for Semstone products ]]>
+</description>
+<guid isPermaLink="false">Semstone Thixotrope D</guid>
+<id>315P</id>
+<family>Semstone</family>
+<types>
+<type>Additives</type>
+</types>
+<applications>
+<application>Misc (grouts</application>
+<application> fillers</application>
+<application> caulks</application>
+<application> tapes</application>
+<application> sealers)</application>
+</applications>
+<markets>
+<market>Petrochemical</market>
+</markets>
+<features> </features>
+<genericType/>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Semstone Thixotrope D SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/315P/AEE6E4F921D72E6E85257053005433A8/315PS1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Semstone Thixotropes D Application Instructions</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/315P/6640387A7098C38F85257192004A28D9/Semstone+Thixotrope+D+AI+6-06.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Shock-Crete HD ]]>
 </title>
 <description>
-<![CDATA[ Liquid nitrogen resistant, trowel applied cementitious urethane mortar (1/4"-3/8" / 6-10 mm). Contains antimicrobial additives that protect it from degradation caused by microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack. ]]>
+<![CDATA[ Liquid nitrogen resistant for splash and spill, trowel applied cementitious urethane mortar (1/4"-1/2" / 6-13 mm). Contains antimicrobial additives that protect it from degradation caused by microorganisms. Demonstrates excellent resistance to thermal shock, mechanical damage, and chemical attack. ]]>
 </description>
 <guid isPermaLink="false">Shock-Crete HD</guid>
 <id>207D</id>
@@ -2863,7 +5236,7 @@
 <feature>Unaffected by MVT (moisture vapor transmission)</feature>
 <feature>Excellent chemical resistance</feature>
 <feature>High abrasion resistance</feature>
-<feature>Resistant to thermal shock</feature>
+<feature>Industry leading range for thermal shock (-350 to 400°F)</feature>
 <feature>Withstands mechanical stress</feature>
 <feature>Easy to clean and sterilize surface</feature>
 <feature>Resistant to steam cleaning</feature>
@@ -2888,6 +5261,11 @@
 <cureschedule/>
 <locale>en_US</locale>
 <links>
+<link>
+<name>Application Video - Shock-Crete HD</name>
+<url>https://youtu.be/Ai7K_hjaInc</url>
+<type>OTHER</type>
+</link>
 <link>
 <name>Shock-Crete HD PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/207D/PDS%3A%7BPC%3A207D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_HD_PDS.pdf</url>
@@ -2947,7 +5325,7 @@
 <links>
 <link>
 <name>Shock-Crete HF - Health Product Declaration (HPD)</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F166/12746/1532_Shock_Crete_HF_Health+Product+Declaration.pdf</url>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=shockcrete%20hf</url>
 <type>OTHER</type>
 </link>
 <link>
@@ -3023,6 +5401,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F163/PDS%3A%7BPC%3AF163%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_IF_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Shock-Crete Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F163/12109/Shock-Crete-A-GHS+%281%29.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Shock-Crete Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F163/12110/Shock-Crete+Part+A_SDS+101022+%282%29.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -3071,6 +5459,11 @@
 <cureschedule/>
 <locale>en_US</locale>
 <links>
+<link>
+<name>Shock-Crete MD Aggregate SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/115D/12889/Shock-Crete-MD-Aggregate-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 <link>
 <name>Shock-Crete MD PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/115D/PDS%3A%7BPC%3A115D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_MD_PDS.pdf</url>
@@ -3130,8 +5523,13 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Shock-Crete SL2 - Environmental Product Declaration (EPD)</name>
+<url>https://smartepd.com/epd-library/671bcdcc71b10ac292bebc72</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Shock-Crete SL2 - Health Product Declaration (HPD)</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F165/12747/1532_Shock_Crete_SL2_Health+Product+Declaration.pdf</url>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Shock-Crete%20SL2</url>
 <type>OTHER</type>
 </link>
 <link>
@@ -3155,7 +5553,7 @@
 </description>
 <guid isPermaLink="false">Shock-Crete SR</guid>
 <id>F167</id>
-<family>Dudick</family>
+<family>Shock-Crete</family>
 <types>
 <type>Urethane Cements</type>
 </types>
@@ -3197,8 +5595,13 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Shock-Crete SR - Environmental Product Declaration (EPD)</name>
+<url>https://smartepd.com/epd-library/671bcd9671b10ac292bebae8</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Shock-Crete SR - Health Product Declaration (HPD)</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F167/12745/1532_Shock_Crete_SR_Health+Product+Declaration.pdf</url>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Shock-Crete%20SR</url>
 <type>OTHER</type>
 </link>
 <link>
@@ -3269,6 +5672,16 @@
 <name>Shock-Crete TCUV Filler SDS Part C</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F162/E17E570CF1239FA78525892F005D7DB9/F162C1NL_2_USANSI.pdf</url>
 <type>MSDS</type>
+</link>
+<link>
+<name>Shock-Crete TCUV Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F162/12123/Shock-Crete+TCUV+Part+A+SDS+10-28-2022.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Shock-Crete TCUV Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F162/12124/Shock-Crete+TCUV+Part+B+SDS+10-28-2022.pdf</url>
+<type>OTHER</type>
 </link>
 <link>
 <name>Shock-Crete TCUV PDS</name>
@@ -3391,6 +5804,16 @@
 <type>MSDS</type>
 </link>
 <link>
+<name>Shock-Crete Vertical Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F160/12112/Shock-Crete+Vertical+Part+A+SDS+10-28-2022.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Shock-Crete Vertical Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F160/12113/Shock-Crete+Vertical++Part+B+SDS+10-28-2022.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Shock-Crete Vertical PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F160/PDS%3A%7BPC%3AF160%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_Vertical_PDS.pdf</url>
 <type>PDS</type>
@@ -3406,8 +5829,10 @@
 </description>
 <guid isPermaLink="false">Steri-Coat 200 Gloss</guid>
 <id>146D</id>
-<family>Dudick</family>
-<types> </types>
+<family>Steri-Coat</family>
+<types>
+<type>Flooring &amp; Walls - Epoxy</type>
+</types>
 <applications> </applications>
 <markets> </markets>
 <features>
@@ -3438,6 +5863,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Steri-Coat 200 - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=steri-coat%20200</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Steri-Coat 200 Gloss PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/146D/PDS%3A%7BPC%3A146D%3BMID%3A1%3BLID%3A1%7D/Steri-Coat_200_Gloss_PDS.pdf</url>
 <type>PDS</type>
@@ -3458,8 +5888,10 @@
 </description>
 <guid isPermaLink="false">Steri-Coat 200 Satin</guid>
 <id>147D</id>
-<family>Dudick</family>
-<types> </types>
+<family>Steri-Coat</family>
+<types>
+<type>Flooring &amp; Walls - Epoxy</type>
+</types>
 <applications> </applications>
 <markets> </markets>
 <features>
@@ -3510,7 +5942,7 @@
 </description>
 <guid isPermaLink="false">Steri-Coat P</guid>
 <id>123D</id>
-<family>Dudick</family>
+<family>Steri-Coat</family>
 <types> </types>
 <applications> </applications>
 <markets> </markets>
@@ -3540,9 +5972,24 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Steri-Coat P - Environmental Product Declaration (EPD)</name>
+<url>https://smartepd.com/epd-library/671bcd6f71b10ac292beba48</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Steri-Coat P PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/123D/PDS%3A%7BPC%3A123D%3BMID%3A1%3BLID%3A1%7D/Steri-Coat_P_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Steri-Coat P SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/123D/12890/Steri-Coat-P-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Coat P SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/123D/12891/Steri-Coat-P-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3555,8 +6002,10 @@
 </description>
 <guid isPermaLink="false">Steri-Cove Gel</guid>
 <id>181D</id>
-<family>Dudick</family>
-<types> </types>
+<family>Steri-Flor</family>
+<types>
+<type>Flooring &amp; Walls - Epoxy</type>
+</types>
 <applications> </applications>
 <markets> </markets>
 <features>
@@ -3583,9 +6032,69 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Steri-Cove Gel - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Steri%20Cove%20Gel</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Steri-Cove Gel PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/181D/PDS%3A%7BPC%3A181D%3BMID%3A1%3BLID%3A1%7D/Steri-Cove_Gel_PDS.pdf</url>
 <type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Steri-Flor Fast Patch ]]>
+</title>
+<description>
+<![CDATA[ This fast-curing epoxy mortar is designed for easy application even in low temperature environments. ]]>
+</description>
+<guid isPermaLink="false">Steri-Flor Fast Patch</guid>
+<id>239D</id>
+<family>Steri-Flor</family>
+<types>
+<type>Repair Mortars</type>
+</types>
+<applications>
+<application>Industrial</application>
+<application>Resinous Flooring</application>
+<application>Low Temperature Cure Coating</application>
+</applications>
+<markets>
+<market>Food &amp; Beverage</market>
+<market>Flooring</market>
+</markets>
+<features> </features>
+<genericType>Fast curing, low temp, concrete repair mortar</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Steri-Flor Fast Patch PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/239D/PDS%3A%7BPC%3A239D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_Fast_Patch_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Steri-Flor Fast Patch SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/239D/12892/Steri-Flor+Fast+Patch+Part+A+SDS+11-5-2024.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Flor Fast Patch SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/239D/12893/Steri-Flor+Fast+Patch+Part+B+SDS+11-5-2024.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3598,7 +6107,7 @@
 </description>
 <guid isPermaLink="false">Steri-Flor GP</guid>
 <id>116D</id>
-<family>Dudick</family>
+<family>Steri-Flor</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -3641,6 +6150,16 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Steri-Floor GP SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/116D/80B9C242E454C4BB85258B94004B1BF0/314DA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Steri-Flor GP - Environmental Product Declaration (EPD)</name>
+<url>https://smartepd.com/epd-library/671bcdaf71b10ac292bebb5c</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Steri-Flor GP PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/116D/PDS%3A%7BPC%3A116D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_GP_PDS.pdf</url>
 <type>PDS</type>
@@ -3661,7 +6180,7 @@
 </description>
 <guid isPermaLink="false">Steri-Flor T Bodycoat</guid>
 <id>190D</id>
-<family>Dudick</family>
+<family>Steri-Flor</family>
 <types>
 <type>Floor Coating - Epoxy</type>
 </types>
@@ -3725,6 +6244,68 @@
 </item>
 <item>
 <title>
+<![CDATA[ Steri-Flor T Groutcoat ]]>
+</title>
+<description>
+<![CDATA[ An epoxy grout used to seal and fill small voids left from troweling the aggregate filled Steri-Flor T, a heavy-duty industrial troweled mortar. ]]>
+</description>
+<guid isPermaLink="false">Steri-Flor T Groutcoat</guid>
+<id>191D</id>
+<family>Steri-Flor</family>
+<types> </types>
+<applications>
+<application>Resinous Flooring</application>
+</applications>
+<markets>
+<market>Commercial &amp; Architectural</market>
+<market>Food &amp; Beverage</market>
+<market>Multiple Markets</market>
+<market>Flooring</market>
+<market>Pharmaceutical</market>
+</markets>
+<features>
+<feature>USDA compliant</feature>
+<feature>Fast recoat time</feature>
+<feature>Low odor</feature>
+<feature>Anti-microbial agents are available as an option</feature>
+<feature>Installed as supplied</feature>
+<feature> is compliant with California SCAQMD Rule 1113 for VOC content</feature>
+<feature>Contributes toward satisfying credit MR 5 and EQ 4.2 under LEED</feature>
+</features>
+<genericType>100% solids, self-leveling epoxy floor coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Steri-Flor T Groutcoat PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/191D/PDS%3A%7BPC%3A191D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_T_Groutcoat_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Steri-Flor T Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/191D/12601/Steri-Flor+T+Part+A+SDS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Flor T Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/191D/12602/Steri-Flor+T+Part+B+SDS.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Steri-Flor UV ]]>
 </title>
 <description>
@@ -3732,7 +6313,7 @@
 </description>
 <guid isPermaLink="false">Steri-Flor UV</guid>
 <id>F156</id>
-<family>Dudick</family>
+<family>Steri-Flor</family>
 <types> </types>
 <applications>
 <application>Resinous Flooring</application>
@@ -3747,11 +6328,9 @@
 <market>Pharmaceutical</market>
 </markets>
 <features>
-<feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
 <feature>Meets SCAQMD Rule 1113 for VOC content</feature>
 <feature>Low viscosity - good wetting properties</feature>
 <feature> approximately 500 cps mixed.</feature>
-<feature>Low VOCs</feature>
 <feature>Low installation odor</feature>
 <feature> for use in occupied areas.</feature>
 <feature>Stain resistance with excellent cleanability</feature>
@@ -3808,7 +6387,7 @@
 </description>
 <guid isPermaLink="false">Steri-Prime</guid>
 <id>F168</id>
-<family>Dudick</family>
+<family>Steri-Prime</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
@@ -3887,7 +6466,7 @@
 </description>
 <guid isPermaLink="false">Steri-Prime DTO</guid>
 <id>F169</id>
-<family>Dudick</family>
+<family>Steri-Prime</family>
 <types> </types>
 <applications>
 <application>Resinous Flooring</application>
@@ -3954,7 +6533,7 @@
 </description>
 <guid isPermaLink="false">Steri-Prime WB</guid>
 <id>340D</id>
-<family>Dudick</family>
+<family>Steri-Prime</family>
 <types>
 <type>Water Based Products</type>
 </types>
@@ -3997,6 +6576,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>Steri-Prime WB - Environmental Product Declaration (EPD)</name>
+<url>https://smartepd.com/epd-library/671bcda471b10ac292bebb22</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Steri-Prime WB PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/340D/PDS%3A%7BPC%3A340D%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_WB_PDS.pdf</url>
 <type>PDS</type>
@@ -4022,7 +6606,7 @@
 </description>
 <guid isPermaLink="false">Steri-Seal HB</guid>
 <id>206D</id>
-<family>Dudick</family>
+<family>Steri-Seal</family>
 <types>
 <type>Floor Coating - Epoxy</type>
 </types>
@@ -4089,7 +6673,7 @@
 </description>
 <guid isPermaLink="false">Steri-Seal HC</guid>
 <id>269D</id>
-<family>Dudick</family>
+<family>Steri-Seal</family>
 <types>
 <type>Floor Coating - Epoxy</type>
 </types>
@@ -4120,6 +6704,66 @@
 <link>
 <name>Steri-Seal HC PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/269D/PDS%3A%7BPC%3A269D%3BMID%3A1%3BLID%3A1%7D/Steri-Seal_HC_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Steri-Seal HC SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/269D/12895/Steri-Seal-HC-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Seal HC SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/269D/12896/Steri-Seal-HC-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Vapor Stop ]]>
+</title>
+<description>
+<![CDATA[ An aggregate filled polyurethane moisture control system that develops cure strength approximately 2 times that of the concrete base to which it is applied. The monolithic topping exhibits excellent physical and mechanical strength as well as moisture vapor reduction. ]]>
+</description>
+<guid isPermaLink="false">Vapor Stop</guid>
+<id>183D</id>
+<family>Dudick</family>
+<types> </types>
+<applications> </applications>
+<markets>
+<market>Flooring</market>
+</markets>
+<features>
+<feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+<feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017. Compliance Certificates Available Upon Request</feature>
+<feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+<feature>Water/Vapor Proofing</feature>
+<feature>Fast Setting</feature>
+<feature>VOC Compliant</feature>
+<feature>Reduces water from 10 lbs./1000 ft² to &lt; 3lbs</feature>
+<feature>Allows for over coating with epoxies &amp; other polymers</feature>
+<feature>Non-porous</feature>
+<feature>Bonds to concrete pH 7-14</feature>
+<feature>Semi-Self leveling</feature>
+</features>
+<genericType>Semi-self leveling moisture vapor reduction coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Vapor Stop PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/183D/PDS%3A%7BPC%3A183D%3BMID%3A1%3BLID%3A1%7D/Vapor_Stop_PDS.pdf</url>
 <type>PDS</type>
 </link>
 </links>
