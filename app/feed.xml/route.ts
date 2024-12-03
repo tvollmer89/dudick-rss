@@ -1,4 +1,5 @@
 import RSS from "rss"
+import {parseFeed} from "../product-builder/main"
 import { products } from "../productList"
 
 export async function GET() {
@@ -17,17 +18,9 @@ export async function GET() {
     ttl: 60,
 });
 
-  console.log(`products: ${products}`)
   products.map(p => {
     let prod = p.product;
     let links = prod.links.map(l => {
-      // return {"link": {
-      //   _attr: {
-      //     name: l.link.name,
-      //     href: l.link['@_url'],
-      //     type: l.link['@_type']
-      //   }
-      // }}
       return {"link": [
         {"name": l.link.name},
         {"url": l.link['@_url']},
