@@ -35,6 +35,8 @@ export async function GET() {
       ]}
 
     })
+
+    // TODO: Replace "&" and "<" here ?
     feed.item({
       title: prod.name,
       description: prod.description,

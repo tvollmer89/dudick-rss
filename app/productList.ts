@@ -46,6 +46,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/169D/PDS%3A%7BPC%3A169D%3BMID%3A1%3BLID%3A1%7D/Caulk_100XT_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Caulk 100XT Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/169D/12956/Caulk-100XT-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Caulk 100XT Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/169D/12957/Caulk-100XT-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Fluoro-elastomer joint sealant",
@@ -103,6 +117,20 @@ export const products = [
             "name": "Caulk 149 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/204D/PDS%3A%7BPC%3A204D%3BMID%3A1%3BLID%3A1%7D/Caulk_149_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Caulk 149 Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/204D/12958/Caulk-149-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Caulk 149 Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/204D/12959/Caulk-149-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -181,23 +209,23 @@ export const products = [
       "links": [
         {
           "link": {
-            "name": "Carboseal Flex Joint SDS Part A",
+            "name": "Caulk PJS PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F145/PDS%3A%7BPC%3AF145%3BMID%3A1%3BLID%3A1%7D/Caulk_PJS_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Caulk PJS SDS Part A",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F145/B1B9217429D5CEA285258410006844DA/F145A1NL_2_USANSI.pdf",
             "@_type": "MSDS"
           }
         },
         {
           "link": {
-            "name": "Carboseal Flex Joint SDS Part B",
+            "name": "Caulk PJSCarboseal Flex Joint SDS Part B",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F145/1974801F4AD879708525841000683DD0/F145B1NL_2_USANSI.pdf",
             "@_type": "MSDS"
-          }
-        },
-        {
-          "link": {
-            "name": "Caulk PJS PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F145/PDS%3A%7BPC%3AF145%3BMID%3A1%3BLID%3A1%7D/Caulk_PJS_PDS.pdf",
-            "@_type": "PDS"
           }
         }
       ],
@@ -222,7 +250,7 @@ export const products = [
     "product": {
       "name": "Caulk PSC",
       "id": "244D",
-      "family": "Specialty",
+      "family": "",
       "types": [
         {
           "type": "Specialties"
@@ -274,6 +302,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/244D/PDS%3A%7BPC%3A244D%3BMID%3A1%3BLID%3A1%7D/Caulk_PSC_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Caulk PSC Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/244D/12960/Caulk-PSC-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Caulk PSC Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/244D/12961/Caulk-PSC-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Elastomeric polysulfide caulk",
@@ -297,7 +339,7 @@ export const products = [
     "product": {
       "name": "EA-1 Aggregate",
       "id": "126D",
-      "family": "Dudick",
+      "family": "",
       "types": [
         {
           "type": "Specialties"
@@ -320,7 +362,7 @@ export const products = [
       "links": [
         {
           "link": {
-            "name": "EA-1 Filler",
+            "name": "EA-1 Aggregate SDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/126D/12633/EA-1+Filler+GHS.pdf",
             "@_type": "OTHER"
           }
@@ -347,7 +389,7 @@ export const products = [
     "product": {
       "name": "Gelcoat 800",
       "id": "246D",
-      "family": "Dudick",
+      "family": "",
       "types": [],
       "applications": [
         {
@@ -389,6 +431,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/246D/PDS%3A%7BPC%3A246D%3BMID%3A1%3BLID%3A1%7D/Gelcoat_800_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Gelcoat 800 Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/246D/12964/Gel-Coat-800-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/246D/12965/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Finish Coat for Vinyl Ester Lining",
@@ -412,7 +468,7 @@ export const products = [
     "product": {
       "name": "Gelcoat 900",
       "id": "270D",
-      "family": "Dudick",
+      "family": "",
       "types": [],
       "applications": [
         {
@@ -447,6 +503,20 @@ export const products = [
             "name": "Gelcoat 900 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/270D/PDS%3A%7BPC%3A270D%3BMID%3A1%3BLID%3A1%7D/Gelcoat_900_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Gelcoat 900 Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/270D/12967/Gel-Coat-900-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/270D/12966/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -859,6 +929,20 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "Polymer Carbide Base Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/288D/12969/Polymer-Carbide-Base-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Carbide Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/288D/12970/Polymer-Carbide-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Polymer Carbide PDS",
@@ -1717,6 +1801,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/255D/PDS%3A%7BPC%3A255D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_SG_Ceramic_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Polymer Steel SG Ceramic Safety Data Sheet - Base",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/255D/13058/Polymer+Steel+Ceramic+Base+SDS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Polymer Steel SG Ceramic Safety Data Sheet - Hardener",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/255D/13059/Polymer+Steel+SG+Ceramic+Hardener.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "100% Solids, Ceramic-Filled Multi-Functional Surface Grade Resurfacer",
@@ -1797,6 +1895,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/101D/12971/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Primer 27 - Health Product Declaration (HPD)",
             "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Primer%2027%2FCarboline",
             "@_type": "OTHER"
@@ -1848,6 +1953,13 @@ export const products = [
       "markets": [],
       "features": [],
       "links": [
+        {
+          "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/271D/12972/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Primer 27C PDS",
@@ -1903,10 +2015,10 @@ export const products = [
           "market": "Electronics"
         },
         {
-          "market": "Distributor"
+          "market": "Food & Beverage"
         },
         {
-          "market": "Food & Beverage"
+          "market": "Distributor"
         },
         {
           "market": "Multiple Markets"
@@ -2094,10 +2206,10 @@ export const products = [
           "market": "Electronics"
         },
         {
-          "market": "Distributor"
+          "market": "Food & Beverage"
         },
         {
-          "market": "Food & Beverage"
+          "market": "Distributor"
         },
         {
           "market": "Multiple Markets"
@@ -2146,84 +2258,6 @@ export const products = [
       "genericType": "Conductive Epoxy Primer",
       "designation": " ",
       "description": "A high solids conductive epoxy primer for concrete, used in place of traditional primers when the coating or lining system must be holiday tested. It is also used as part of conductive flooring systems, intended to dissipate stray electrical current by running excess current to ground. In both uses, it increases adhesion and reduces the potential for outgassing on concrete substrates.",
-      "productfinish": "",
-      "productdfts": "",
-      "solidscontent": "",
-      "solidsmeasurement": "",
-      "solidsvalue": "",
-      "vocvalues": "",
-      "dtrs": "",
-      "ratio": "",
-      "potlife": "",
-      "potlifecomments": "",
-      "cureschedule": "",
-      "locale": "en_US"
-    }
-  },
-  {
-    "product": {
-      "name": "Primer 67DTO",
-      "id": "209D",
-      "family": "Primers",
-      "types": [
-        {
-          "type": "Epoxy Polyamides"
-        }
-      ],
-      "applications": [
-        {
-          "application": "Resinous Flooring"
-        }
-      ],
-      "markets": [
-        {
-          "market": "Commercial & Architectural"
-        },
-        {
-          "market": "Electronics"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Food & Beverage"
-        },
-        {
-          "market": "Multiple Markets"
-        },
-        {
-          "market": "Other"
-        }
-      ],
-      "features": [
-        {
-          "feature": "Meets most VOC Requirements"
-        },
-        {
-          "feature": "Distinct"
-        },
-        {
-          "feature": " Low Odor"
-        },
-        {
-          "feature": "User Friendly"
-        },
-        {
-          "feature": "Tolerant to moisture vapor transmission (2 / 2)"
-        }
-      ],
-      "links": [
-        {
-          "link": {
-            "name": "Primer 67DTO PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/209D/PDS%3A%7BPC%3A209D%3BMID%3A1%3BLID%3A1%7D/Primer_67DTO_PDS.pdf",
-            "@_type": "PDS"
-          }
-        }
-      ],
-      "genericType": "Epoxy primer",
-      "designation": " ",
-      "description": "A high solids epoxy primer for concrete and steel that has previously been exposed to oils, grease, or\nfats. Specially designed to increase adhesion and reduce the potential for outgassing in high\nperformance containment and linings systems",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -2381,6 +2415,13 @@ export const products = [
         },
         {
           "link": {
+            "name": "Primer 67SD SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/259D/12870/Primer-67SD-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Primer 67SD SDS Part B",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/259D/12871/Primer-67SD-B-GHS.pdf",
             "@_type": "OTHER"
@@ -2527,6 +2568,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/284D/PDS%3A%7BPC%3A284D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_105XT_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 105XT Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/284D/13056/Protecto-Coat+105XT+Part+A+SDS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 105XT Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/284D/13057/Protecto-Coat+105XT+Part+B+SDS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "100% solids, graphite-filled novolac epoxy coating",
@@ -2660,6 +2715,20 @@ export const products = [
             "name": "Protecto-Coat 325HB PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/216D/PDS%3A%7BPC%3A216D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_325HB_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 325HB Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/216D/13060/Protecto-Coat+325+HB+Part+A+SDS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 325HB Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/216D/13061/Protecto-Coat+325+HB+Part+B+SDS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -2953,9 +3022,23 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/228D/13052/PH-1-Hardener-GHS+%281%29.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 800AR PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/228D/PDS%3A%7BPC%3A228D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_800AR_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 800AR Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/228D/13053/P+Coat+800+AR+SDS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -3034,6 +3117,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/131D/12974/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 1130 SDS Part A",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/131D/12876/P-Coat-800HT-A-GHS.pdf",
             "@_type": "OTHER"
@@ -3044,6 +3134,13 @@ export const products = [
             "name": "Protecto-Coat 800HT PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/131D/PDS%3A%7BPC%3A131D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_800HT_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 800HT Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/131D/12973/P-Coat-800HT-A-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -3097,6 +3194,13 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/106D/12975/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Protecto-Coat 805 - Health Product Declaration (HPD)",
@@ -3160,6 +3264,13 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/107D/12976/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Protecto-Coat 900 - Health Product Declaration (HPD)",
@@ -3288,6 +3399,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/134D/12977/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 900HT PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/134D/PDS%3A%7BPC%3A134D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900HT_PDS.pdf",
             "@_type": "PDS"
@@ -3344,6 +3462,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/109D/12979/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Coat 905 - Health Product Declaration (HPD)",
             "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#",
             "@_type": "OTHER"
@@ -3354,6 +3479,13 @@ export const products = [
             "name": "Protecto-Coat 905 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/109D/PDS%3A%7BPC%3A109D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_905_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 905 Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/109D/12978/P-Coat-905-A-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -3571,10 +3703,7 @@ export const products = [
       "family": "Protecto-Crete",
       "types": [
         {
-          "type": "Epoxy Novolacs"
-        },
-        {
-          "type": "Repair Mortars"
+          "type": "Specialties"
         }
       ],
       "applications": [
@@ -3613,14 +3742,28 @@ export const products = [
       "links": [
         {
           "link": {
-            "name": "Protecto-Crete 140T BC PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/098D/PDS%3A%7BPC%3A098D%3BMID%3A1%3BLID%3A1%7D/Protecto-Crete_140T_BC_PDS.pdf",
-            "@_type": "PDS"
+            "name": "EA-1 Filler Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/098D/12982/EA-1-Filler-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Crete 140T BC Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/098D/12980/P-Crete-140T-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Crete 140T BC Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/098D/12981/P-Crete-140T-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
       "genericType": "Trowel-Applied Novolac Epoxy Topping and Resurfacer",
-      "designation": " ",
+      "designation": "This is a product that Carboline is intending to drop from the product line. \n Please reach out to your Carboline Sales Representative for a product alternative. ",
       "description": "A heavy duty novolac epoxy mortar used for high-impact protection and slope to drain in chemical processing areas.",
       "productfinish": "",
       "productdfts": "",
@@ -3683,6 +3826,20 @@ export const products = [
         }
       ],
       "links": [
+        {
+          "link": {
+            "name": "Protecto-Crete 140T BC Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/090D/12983/P-Crete-140T-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Crete 140T BC Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/090D/12984/P-Crete-140T-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Protecto-Crete 140T GC PDS",
@@ -3951,7 +4108,7 @@ export const products = [
       "family": "Protecto-Glass",
       "types": [
         {
-          "type": "Epoxy Novolacs"
+          "type": "Specialties"
         }
       ],
       "applications": [
@@ -3993,14 +4150,35 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "G-1 Filler Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/282D/12987/G-1-Filler-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Glass 160XT PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/282D/PDS%3A%7BPC%3A282D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_160XT_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Glass 160XT Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/282D/12985/P-Glass-160XT-BC-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Glass 160XT Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/282D/12986/P-Glass-160XT-BC-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "100% solids, trowel applied, reinforced, novolac epoxy lining",
-      "designation": " ",
+      "designation": "This is a product that Carboline is intending to drop from the product line. \n Please reach out to your Carboline Sales Representative for a product alternative. ",
       "description": "A high-performance, highly chemical resistant lining for protection of metal and concrete. It is well suited for chemical manufacturing or processing operations. Used as a component of a system with fiberglass reinforcement, the separate elements lose their individual identity and become a single, monolithic lining.",
       "productfinish": "",
       "productdfts": "",
@@ -4065,9 +4243,30 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "G-1 Filler Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/225D/12995/G-1-Filler-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "PH-1 Filler Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/225D/12996/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Glass 860 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/225D/PDS%3A%7BPC%3A225D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_860_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Glass 860 Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/225D/12994/P-Glass-860-BC-A-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -4114,9 +4313,30 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "G-1 Filler Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/218D/12998/G-1-Filler-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/218D/12999/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Glass 960 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/218D/PDS%3A%7BPC%3A218D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_960_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Glass 960 Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/218D/12997/P-Glass-960-965-BC-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -4170,6 +4390,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/233D/PDS%3A%7BPC%3A233D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_100_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Protecto-Line 100 Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/233D/13062/Protecto-Line+100+Part+A+SDS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Line 100 Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/233D/13063/Protecto-Line+100+Part+B+SDS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "100% solids, trowel applied, reinforced epoxy lining",
@@ -4221,9 +4455,30 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "G-1 Filler Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/229D/12990/G-1-Filler-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Line 100XT PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/229D/PDS%3A%7BPC%3A229D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_100XT_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Line 100XT Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/229D/12988/P-Line-100XT-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Line 100XT Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/229D/12989/P-Line-100XT-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -4290,9 +4545,30 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "G-1 Filler Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/234D/12992/G-1-Filler-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/234D/12993/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Line 800 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/234D/PDS%3A%7BPC%3A234D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_800_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Line 800 Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/234D/12991/P-Line-800-805-AR.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -4336,15 +4612,78 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "G-1 Filler Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/211D/13001/G-1-Filler-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/211D/13002/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Protecto-Line 900 PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/211D/PDS%3A%7BPC%3A211D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_900_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Line 900 Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/211D/13000/P-Line-900-905-AR-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
       "genericType": "Trowel applied, reinforced novolac vinyl ester lining",
       "designation": " ",
       "description": "Protecto-Line 900 uses several layers of thermosetting, filled novolac vinyl ester resin to build up the protection that metal and concrete need in chemical manufacturing or processing operations. When fully cured, the separate elements lose their individual identity and become a single, monolithic lining.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "S-10 Cleaning Solvent",
+      "id": "227D",
+      "family": "",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "S-10 Cleaning Solvent PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/227D/PDS%3A%7BPC%3A227D%3BMID%3A1%3BLID%3A1%7D/S-10_Cleaning_Solvent_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "S-10 Cleaning Solvent Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/227D/13003/S-10-Solvent-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "",
+      "designation": " ",
+      "description": "",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -4495,6 +4834,13 @@ export const products = [
       "links": [
         {
           "link": {
+            "name": "PH-1 Hardener Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/118D/13005/PH-1-Hardener-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Scratch-Coat 800 - Health Product Declaration (HPD)",
             "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=scratch-coat%20800",
             "@_type": "OTHER"
@@ -4574,6 +4920,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/266D/PDS%3A%7BPC%3A266D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Gloss_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/266D/13010/Sealer-200WB-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/266D/13011/Sealer-200WB-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Two-component, water-borne aliphatic urethane floor coating",
@@ -4630,6 +4990,20 @@ export const products = [
             "name": "Sealer 200WB Clear Matte PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/268D/PDS%3A%7BPC%3A268D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Matte_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/268D/13008/Sealer-200WB-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/268D/13009/Sealer-200WB-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -4688,6 +5062,20 @@ export const products = [
             "name": "Sealer 200WB Clear Satin PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/208D/PDS%3A%7BPC%3A208D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Satin_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/208D/13012/Sealer-200WB-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/208D/13013/Sealer-200WB-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -4764,6 +5152,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/232D/PDS%3A%7BPC%3A232D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Gloss_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/232D/13014/Sealer-200WB-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/232D/13015/Sealer-200WB-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Two-component, water-borne aliphatic urethane floor coating",
@@ -4817,6 +5219,20 @@ export const products = [
             "name": "Sealer 200WB Pigmented Matte PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/096D/PDS%3A%7BPC%3A096D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Matte_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/096D/13016/Sealer-200WB-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/096D/13017/Sealer-200WB-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -4878,6 +5294,20 @@ export const products = [
             "name": "Sealer 200WB Pigmented Satin PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/267D/PDS%3A%7BPC%3A267D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Satin_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/267D/13018/Sealer-200WB-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200WB Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/267D/13019/Sealer-200WB-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -5371,7 +5801,7 @@ export const products = [
       "links": [],
       "genericType": "Engineered Hybrid Sealer",
       "designation": " ",
-      "description": "Sealer 80 is an isocyanate free, ultra-durable, fast-cure coating that provides outstanding color and gloss retention. It combines the chemical resistant properties of epoxies with the weathering characteristics of acrylic-polyurethanes giving it a tightly cross-linked film resulting in a finish with outstanding barrier properties against Vaporized Hydrogen Peroxide. \n\nThis product meets the most stringent VOC regulations for field applied coatings of less than 100 g/L volatile organic content.",
+      "description": "Sealer 80 is an isocyanate free, ultra-durable, fast-cure coating that provides outstanding color and gloss retention. It combines the chemical resistant properties of epoxies with the weathering characteristics of acrylic-polyurethanes giving it a tightly cross-linked film resulting in a finish with outstanding barrier properties against Vaporized Hydrogen Peroxide.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -5805,95 +6235,6 @@ export const products = [
       "genericType": "100% solids epoxy",
       "designation": " ",
       "description": "High performance lining system designed for concrete. Semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Specially formulated to withstand some of industry’s most aggressive chemicals.",
-      "productfinish": "",
-      "productdfts": "",
-      "solidscontent": "",
-      "solidsmeasurement": "",
-      "solidsvalue": "",
-      "vocvalues": "",
-      "dtrs": "",
-      "ratio": "",
-      "potlife": "",
-      "potlifecomments": "",
-      "cureschedule": "",
-      "locale": "en_US"
-    }
-  },
-  {
-    "product": {
-      "name": "Semstone 140 CT",
-      "id": "174P",
-      "family": "Semstone",
-      "types": [],
-      "applications": [
-        {
-          "application": "Secondary Containment"
-        }
-      ],
-      "markets": [
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
-        }
-      ],
-      "features": [
-        {
-          "feature": "Excellent resistance to chemical attack"
-        },
-        {
-          "feature": "Excellent abrasion and impact resistance"
-        },
-        {
-          "feature": "Exceptional thermal shock resistance"
-        },
-        {
-          "feature": "Superior bonding qualities"
-        },
-        {
-          "feature": "High cohesive strength"
-        },
-        {
-          "feature": "Low permeability"
-        },
-        {
-          "feature": "Low odor"
-        }
-      ],
-      "links": [
-        {
-          "link": {
-            "name": "Semstone 140 CT PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/174P/PDS%3A%7BPC%3A174P%3BMID%3A1%3BLID%3A1%7D/Semstone_140_CT_PDS.pdf",
-            "@_type": "PDS"
-          }
-        },
-        {
-          "link": {
-            "name": "Semstone 140 CT SDS Part A",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/174P/B986FCFAD4845B4C8525705300542E8F/174PA1NL_2_USANSI.pdf",
-            "@_type": "MSDS"
-          }
-        },
-        {
-          "link": {
-            "name": "Semstone 140 CT SDS Part B",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/174P/210DCADFA1EA42988525705300542E95/174PB1NL_2_USANSI.pdf",
-            "@_type": "MSDS"
-          }
-        },
-        {
-          "link": {
-            "name": "Semstone Scrim Cloth SDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/174P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf",
-            "@_type": "MSDS"
-          }
-        }
-      ],
-      "genericType": "100% Solids, high performance epoxy liner",
-      "designation": " ",
-      "description": "Semstone 140 CT is a 100% solids, high performance, epoxy lining system designed for concrete. It is a semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Semstone 140 CT is specially formulated to withstand some of industry’s most aggressive chemicals.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -6751,77 +7092,6 @@ export const products = [
   },
   {
     "product": {
-      "name": "Semstone 884",
-      "id": "207P",
-      "family": "Semstone",
-      "types": [],
-      "applications": [
-        {
-          "application": "Secondary Containment"
-        }
-      ],
-      "markets": [
-        {
-          "market": "Pulp & Paper"
-        },
-        {
-          "market": "Petrochemical"
-        }
-      ],
-      "features": [
-        {
-          "feature": "Excellent alternative to acid brick"
-        }
-      ],
-      "links": [
-        {
-          "link": {
-            "name": "Semstone 884 PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207P/PDS%3A%7BPC%3A207P%3BMID%3A1%3BLID%3A1%7D/Semstone_884_PDS.pdf",
-            "@_type": "PDS"
-          }
-        },
-        {
-          "link": {
-            "name": "Semstone 884 SDS Part A",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207P/ACBECCD56030043B8525705300542F98/207PA1NL_2_USANSI.pdf",
-            "@_type": "MSDS"
-          }
-        },
-        {
-          "link": {
-            "name": "Semstone 884 SDS Part B",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207P/349AC3670C5737AC8525705300542F9F/207PB1NL_2_USANSI.pdf",
-            "@_type": "MSDS"
-          }
-        },
-        {
-          "link": {
-            "name": "Semstone 884 SDS Part C",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207P/48FBB8A4EA2AB7348525705300542FA7/207PC1NL_2_USANSI.pdf",
-            "@_type": "MSDS"
-          }
-        }
-      ],
-      "genericType": "Non-shrink vinyl ester polymer concrete",
-      "designation": "This is a Carboline Specialty Product Minimum order quantities and special pricing will apply in North America. \nContact your Carboline Sales Representative for more details.",
-      "description": "Semstone 884 is a vinyl ester polymer concrete which incorporates proprietary non-shrink technology into its formulation, making it the first practical vinyl ester polymer concrete for use as a concrete topping. It is recommended for use in concentrated nitric acid service and other strong oxidizers. Semstone 884 is an excellent alternative to acid brick. It is also used as a construction material for pouring pump foundations and small tank foundations. It can be used for pre-casting of sumps and trenches.",
-      "productfinish": "",
-      "productdfts": "",
-      "solidscontent": "",
-      "solidsmeasurement": "",
-      "solidsvalue": "",
-      "vocvalues": "",
-      "dtrs": "",
-      "ratio": "",
-      "potlife": "",
-      "potlifecomments": "",
-      "cureschedule": "",
-      "locale": "en_US"
-    }
-  },
-  {
-    "product": {
       "name": "Semstone Fabric 100",
       "id": "312P",
       "family": "Semstone",
@@ -7136,9 +7406,30 @@ export const products = [
         },
         {
           "link": {
+            "name": "Shock-Crete HD Filler SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207D/13040/Shock-Crete-HD-Aggregate-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
             "name": "Shock-Crete HD PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207D/PDS%3A%7BPC%3A207D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_HD_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207D/12117/Shock-Crete+Part+A_SDS+101022.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/207D/12118/Shock-Crete+Part+B_SDS+101022.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -7436,9 +7727,9 @@ export const products = [
       "links": [
         {
           "link": {
-            "name": "Shock-Crete MD Aggregate SDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/115D/12889/Shock-Crete-MD-Aggregate-GHS.pdf",
-            "@_type": "OTHER"
+            "name": "Shock Crete MD Aggregate SDS Part C",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/115D/8BBE2C55CB18B1F585258BFF00604E09/115DC1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
           }
         },
         {
@@ -7446,6 +7737,20 @@ export const products = [
             "name": "Shock-Crete MD PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/115D/PDS%3A%7BPC%3A115D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_MD_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete MD Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/115D/13020/Shock-Crete-A-GHS+%281%29.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Shock-Crete MD Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/115D/13021/Shock-Crete-B-GHS+%281%29.pdf",
+            "@_type": "OTHER"
           }
         }
       ],
@@ -8061,6 +8366,20 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/146D/12711/1532_Steri_Coat_200_Health+Product+Declaration.pdf",
             "@_type": "OTHER"
           }
+        },
+        {
+          "link": {
+            "name": "Steri-Coat 200 Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/146D/13024/Steri-Coat-200-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Coat 200 Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/146D/13025/Steri-Coat-200-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "Two-component, water-borne aliphatic urethane wall coating",
@@ -8129,6 +8448,20 @@ export const products = [
           "link": {
             "name": "Steri-Coat 200 Health Product Declaration (HPD)",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/147D/12712/1532_Steri_Coat_200_Health+Product+Declaration.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Coat 200 Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/147D/13022/Steri-Coat-200-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Coat 200 Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/147D/13023/Steri-Coat-200-B-GHS.pdf",
             "@_type": "OTHER"
           }
         },
@@ -8284,11 +8617,119 @@ export const products = [
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/181D/PDS%3A%7BPC%3A181D%3BMID%3A1%3BLID%3A1%7D/Steri-Cove_Gel_PDS.pdf",
             "@_type": "PDS"
           }
+        },
+        {
+          "link": {
+            "name": "Steri-Cove Gel Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/181D/13026/Steri-Cove-Gel-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Cove Gel Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/181D/13027/Steri-Cove-Gel-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
         }
       ],
       "genericType": "100% solids thixotropic epoxy coating",
       "designation": " ",
       "description": "Steri-Cove Gel is an epoxy system designed for installation as integral cove base @ 1/16” to 1/4” thick. For use with Dudick Steri-Flor, Steri-Quartz, Steri-Flake systems, and other systems as recommended by Dudick.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Steri-Flor CT",
+      "id": "084D",
+      "family": "Steri-Flor",
+      "types": [],
+      "applications": [
+        {
+          "application": "Resinous Flooring"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Commercial & Architectural"
+        },
+        {
+          "market": "Automotive"
+        },
+        {
+          "market": "Food & Beverage"
+        },
+        {
+          "market": "Distributor"
+        },
+        {
+          "market": "Multiple Markets"
+        },
+        {
+          "market": "Other"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Zero VOCs"
+        },
+        {
+          "feature": "Low installation odor"
+        },
+        {
+          "feature": "Can be broadcasted for anti-skid surface"
+        },
+        {
+          "feature": "Stain resistance with excellent cleanability"
+        },
+        {
+          "feature": "Can be reinforced with fiberglass to increase crack bridging properties"
+        },
+        {
+          "feature": "USDA compliant"
+        },
+        {
+          "feature": "MMA Alternative"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Steri-Flor CT Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/084D/13041/Steri-Flor+CT+A.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor CT Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/084D/13042/Steri-Flor+CT+B.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor CT PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/084D/PDS%3A%7BPC%3A084D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_CT_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "Self-leveling, 100% solids, low temp application, fast curing, epoxy floor coating",
+      "designation": " ",
+      "description": "Steri-Flor CT is a self-leveling epoxy and binder resin designed for rapid return to service that creates a strongly bonded monolithic coating with moderate chemical resistance and good physical properties.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -8334,6 +8775,13 @@ export const products = [
       ],
       "features": [],
       "links": [
+        {
+          "link": {
+            "name": "EA-1 Filler GHS Safety Data Sheet",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/239D/13064/EA-1+Filler+GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
         {
           "link": {
             "name": "Steri-Flor Fast Patch PDS",
@@ -8396,10 +8844,10 @@ export const products = [
           "market": "Automotive"
         },
         {
-          "market": "Distributor"
+          "market": "Food & Beverage"
         },
         {
-          "market": "Food & Beverage"
+          "market": "Distributor"
         },
         {
           "market": "Multiple Markets"
@@ -8460,6 +8908,13 @@ export const products = [
             "name": "Steri-Flor GP PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/116D/PDS%3A%7BPC%3A116D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_GP_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor GP Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/116D/13028/Steri-Flor-GP-BC-B-GHS.pdf",
+            "@_type": "OTHER"
           }
         },
         {
@@ -8705,10 +9160,10 @@ export const products = [
           "market": "Automotive"
         },
         {
-          "market": "Distributor"
+          "market": "Food & Beverage"
         },
         {
-          "market": "Food & Beverage"
+          "market": "Distributor"
         },
         {
           "market": "Multiple Markets"
@@ -8753,20 +9208,6 @@ export const products = [
         },
         {
           "link": {
-            "name": "Steri-Flor UV Part A SDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12102/Steri-Flor+UV+A+SDS.pdf",
-            "@_type": "OTHER"
-          }
-        },
-        {
-          "link": {
-            "name": "Steri-Flor UV Part B SDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12101/Steri-Flor+UV+B+SDS.pdf",
-            "@_type": "OTHER"
-          }
-        },
-        {
-          "link": {
             "name": "Steri-Flor UV PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/PDS%3A%7BPC%3AF156%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_UV_PDS.pdf",
             "@_type": "PDS"
@@ -8776,6 +9217,20 @@ export const products = [
           "link": {
             "name": "Steri-Flor UV Product Flyer",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12143/Dudick+Steri-Flor+UV+Product+Flyer_12622.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor UV SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/00088927BA49848085258BFF00606DCB/F156A1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Steri-Flor UV SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F156/13029/Steri-Flor-UV-B-SDS.pdf",
             "@_type": "OTHER"
           }
         }
@@ -8826,10 +9281,10 @@ export const products = [
           "market": "Automotive"
         },
         {
-          "market": "Distributor"
+          "market": "Food & Beverage"
         },
         {
-          "market": "Food & Beverage"
+          "market": "Distributor"
         },
         {
           "market": "Multiple Markets"
@@ -8932,10 +9387,10 @@ export const products = [
           "market": "Secondary Containment"
         },
         {
-          "market": "Distributor"
+          "market": "Food & Beverage"
         },
         {
-          "market": "Food & Beverage"
+          "market": "Distributor"
         },
         {
           "market": "Multiple Markets"
@@ -8965,13 +9420,6 @@ export const products = [
         }
       ],
       "links": [
-        {
-          "link": {
-            "name": "Steri-Prime DTO PDS",
-            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F169/12098/Steri-Prime_DTO_PDS_Dudick.pdf",
-            "@_type": "OTHER"
-          }
-        },
         {
           "link": {
             "name": "Steri-Prime DTO PDS",
@@ -9043,10 +9491,10 @@ export const products = [
           "market": "Pulp & Paper"
         },
         {
-          "market": "Distributor"
+          "market": "Food & Beverage"
         },
         {
-          "market": "Food & Beverage"
+          "market": "Distributor"
         },
         {
           "market": "Flooring"
@@ -9300,9 +9748,115 @@ export const products = [
   },
   {
     "product": {
+      "name": "Universal Color Pack",
+      "id": "F101",
+      "family": "",
+      "types": [
+        {
+          "type": "Epoxy Amines"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Misc (grouts"
+        },
+        {
+          "application": " fillers"
+        },
+        {
+          "application": " caulks"
+        },
+        {
+          "application": " tapes"
+        },
+        {
+          "application": " sealers)"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Commercial & Architectural"
+        },
+        {
+          "market": "Food & Beverage"
+        },
+        {
+          "market": "Flooring"
+        },
+        {
+          "market": "Pharmaceutical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Self-leveling"
+        },
+        {
+          "feature": "Ultra low VOC"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": "Good chemical resistance"
+        },
+        {
+          "feature": "Abrasion resistant"
+        },
+        {
+          "feature": "Solvent free"
+        },
+        {
+          "feature": "Versatile use in epoxy flooring systems"
+        },
+        {
+          "feature": "Seamless and hygienic finish"
+        },
+        {
+          "feature": "Low maintenance"
+        },
+        {
+          "feature": "Nonylphenol free"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Carbocrete Universal Color Pack - White SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F101/A253768E913ED7E08525829E006EE195/F101C2NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Carbocrete Universal Color Pack SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/F101/7CF0BC2938A1C354852575990047E57C/F101C1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        }
+      ],
+      "genericType": "High performance self-leveling epoxy floor coating",
+      "designation": " ",
+      "description": "Solvent free, self-leveling epoxy that is extremely versatile.  Different grades of slip resistance can be achieved by the inclusion of graded aggregates between coats.  Excellent receiving coat for flake and quartz epoxy flooring systems.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Vapor Stop",
       "id": "183D",
-      "family": "Dudick",
+      "family": "",
       "types": [],
       "applications": [],
       "markets": [
@@ -9351,6 +9905,27 @@ export const products = [
             "name": "Vapor Stop PDS",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/183D/PDS%3A%7BPC%3A183D%3BMID%3A1%3BLID%3A1%7D/Vapor_Stop_PDS.pdf",
             "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Vapor Stop Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/183D/13031/Vapor-StopVertical-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Vapor Stop Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/183D/13032/Vapor-StopVertical-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Vapor Stop Safety Data Sheet - Part C Aggregate",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/183D/13033/Vapor-Stop-Aggregate-GHS.pdf",
+            "@_type": "OTHER"
           }
         }
       ],

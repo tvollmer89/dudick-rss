@@ -31,11 +31,11 @@
 </description>
 <link>https://tvollmer89.github.io/dudick-xml-feed/</link>
 <generator>RSS for Node and Next.js</generator>
-<lastBuildDate>Sun, 01 Dec 2024 04:28:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Feb 2025 19:41:49 GMT</lastBuildDate>
 <atom:link href="https://tvollmer89.github.io/dudick-xml-feed/feed.xml" rel="self" type="application/rss+xml"/>
-<pubDate>Sun, 01 Dec 2024 04:28:45 GMT</pubDate>
+<pubDate>Mon, 17 Feb 2025 19:41:49 GMT</pubDate>
 <copyright>
-<![CDATA[ Copyright 2024, Theresa Vollmer ]]>
+<![CDATA[ Copyright 2025, Theresa Vollmer ]]>
 </copyright>
 <language>
 <![CDATA[ en-US ]]>
@@ -93,6 +93,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/169D/PDS%3A%7BPC%3A169D%3BMID%3A1%3BLID%3A1%7D/Caulk_100XT_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Caulk 100XT Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/169D/12956/Caulk-100XT-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Caulk 100XT Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/169D/12957/Caulk-100XT-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -137,6 +147,16 @@
 <name>Caulk 149 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/204D/PDS%3A%7BPC%3A204D%3BMID%3A1%3BLID%3A1%7D/Caulk_149_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Caulk 149 Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/204D/12958/Caulk-149-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Caulk 149 Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/204D/12959/Caulk-149-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -188,19 +208,19 @@
 <locale>en_US</locale>
 <links>
 <link>
-<name>Carboseal Flex Joint SDS Part A</name>
+<name>Caulk PJS PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F145/PDS%3A%7BPC%3AF145%3BMID%3A1%3BLID%3A1%7D/Caulk_PJS_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Caulk PJS SDS Part A</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F145/B1B9217429D5CEA285258410006844DA/F145A1NL_2_USANSI.pdf</url>
 <type>MSDS</type>
 </link>
 <link>
-<name>Carboseal Flex Joint SDS Part B</name>
+<name>Caulk PJSCarboseal Flex Joint SDS Part B</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F145/1974801F4AD879708525841000683DD0/F145B1NL_2_USANSI.pdf</url>
 <type>MSDS</type>
-</link>
-<link>
-<name>Caulk PJS PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F145/PDS%3A%7BPC%3AF145%3BMID%3A1%3BLID%3A1%7D/Caulk_PJS_PDS.pdf</url>
-<type>PDS</type>
 </link>
 </links>
 </item>
@@ -213,7 +233,7 @@
 </description>
 <guid isPermaLink="false">Caulk PSC</guid>
 <id>244D</id>
-<family>Specialty</family>
+<family/>
 <types>
 <type>Specialties</type>
 </types>
@@ -254,6 +274,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/244D/PDS%3A%7BPC%3A244D%3BMID%3A1%3BLID%3A1%7D/Caulk_PSC_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Caulk PSC Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/244D/12960/Caulk-PSC-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Caulk PSC Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/244D/12961/Caulk-PSC-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -262,7 +292,7 @@
 </title>
 <guid isPermaLink="false">EA-1 Aggregate</guid>
 <id>126D</id>
-<family>Dudick</family>
+<family/>
 <types>
 <type>Specialties</type>
 </types>
@@ -290,7 +320,7 @@
 <locale>en_US</locale>
 <links>
 <link>
-<name>EA-1 Filler</name>
+<name>EA-1 Aggregate SDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/126D/12633/EA-1+Filler+GHS.pdf</url>
 <type>OTHER</type>
 </link>
@@ -305,7 +335,7 @@
 </description>
 <guid isPermaLink="false">Gelcoat 800</guid>
 <id>246D</id>
-<family>Dudick</family>
+<family/>
 <types> </types>
 <applications>
 <application>Tank Linings</application>
@@ -342,6 +372,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/246D/PDS%3A%7BPC%3A246D%3BMID%3A1%3BLID%3A1%7D/Gelcoat_800_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Gelcoat 800 Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/246D/12964/Gel-Coat-800-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/246D/12965/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -353,7 +393,7 @@
 </description>
 <guid isPermaLink="false">Gelcoat 900</guid>
 <id>270D</id>
-<family>Dudick</family>
+<family/>
 <types> </types>
 <applications>
 <application>Tank Linings</application>
@@ -387,6 +427,16 @@
 <name>Gelcoat 900 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/270D/PDS%3A%7BPC%3A270D%3BMID%3A1%3BLID%3A1%7D/Gelcoat_900_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Gelcoat 900 Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/270D/12967/Gel-Coat-900-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/270D/12966/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -685,6 +735,16 @@
 <cureschedule/>
 <locale>en_US</locale>
 <links>
+<link>
+<name>Polymer Carbide Base Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/288D/12969/Polymer-Carbide-Base-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Carbide Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/288D/12970/Polymer-Carbide-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 <link>
 <name>Polymer Carbide PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/288D/PDS%3A%7BPC%3A288D%3BMID%3A1%3BLID%3A1%7D/Polymer_Carbide_PDS.pdf</url>
@@ -1300,6 +1360,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/255D/PDS%3A%7BPC%3A255D%3BMID%3A1%3BLID%3A1%7D/Polymer_Steel_SG_Ceramic_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Polymer Steel SG Ceramic Safety Data Sheet - Base</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/255D/13058/Polymer+Steel+Ceramic+Base+SDS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Polymer Steel SG Ceramic Safety Data Sheet - Hardener</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/255D/13059/Polymer+Steel+SG+Ceramic+Hardener.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -1351,6 +1421,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/101D/12971/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Primer 27 - Health Product Declaration (HPD)</name>
 <url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=Primer%2027%2FCarboline</url>
 <type>OTHER</type>
@@ -1399,6 +1474,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/271D/12972/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Primer 27C PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/271D/PDS%3A%7BPC%3A271D%3BMID%3A1%3BLID%3A1%7D/Primer_27C_PDS.pdf</url>
 <type>PDS</type>
@@ -1429,8 +1509,8 @@
 <markets>
 <market>Commercial &amp; Architectural</market>
 <market>Electronics</market>
-<market>Distributor</market>
 <market>Food &amp; Beverage</market>
+<market>Distributor</market>
 <market>Multiple Markets</market>
 <market>Other</market>
 </markets>
@@ -1560,8 +1640,8 @@
 <markets>
 <market>Commercial &amp; Architectural</market>
 <market>Electronics</market>
-<market>Distributor</market>
 <market>Food &amp; Beverage</market>
+<market>Distributor</market>
 <market>Multiple Markets</market>
 <market>Other</market>
 </markets>
@@ -1600,59 +1680,6 @@
 <name>Primer 67C SDS Part B</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/250D/12867/Primer-67C-B-GHS.pdf</url>
 <type>OTHER</type>
-</link>
-</links>
-</item>
-<item>
-<title>
-<![CDATA[ Primer 67DTO ]]>
-</title>
-<description>
-<![CDATA[ A high solids epoxy primer for concrete and steel that has previously been exposed to oils, grease, or fats. Specially designed to increase adhesion and reduce the potential for outgassing in high performance containment and linings systems ]]>
-</description>
-<guid isPermaLink="false">Primer 67DTO</guid>
-<id>209D</id>
-<family>Primers</family>
-<types>
-<type>Epoxy Polyamides</type>
-</types>
-<applications>
-<application>Resinous Flooring</application>
-</applications>
-<markets>
-<market>Commercial &amp; Architectural</market>
-<market>Electronics</market>
-<market>Distributor</market>
-<market>Food &amp; Beverage</market>
-<market>Multiple Markets</market>
-<market>Other</market>
-</markets>
-<features>
-<feature>Meets most VOC Requirements</feature>
-<feature>Distinct</feature>
-<feature> Low Odor</feature>
-<feature>User Friendly</feature>
-<feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
-</features>
-<genericType>Epoxy primer</genericType>
-<designation> </designation>
-<productfinish/>
-<productdfts/>
-<solidscontent/>
-<solidsmeasurement/>
-<solidsvalue/>
-<vocvalues/>
-<dtrs/>
-<ratio/>
-<potlife/>
-<potlifecomments/>
-<cureschedule/>
-<locale>en_US</locale>
-<links>
-<link>
-<name>Primer 67DTO PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/209D/PDS%3A%7BPC%3A209D%3BMID%3A1%3BLID%3A1%7D/Primer_67DTO_PDS.pdf</url>
-<type>PDS</type>
 </link>
 </links>
 </item>
@@ -1774,6 +1801,11 @@
 <type>PDS</type>
 </link>
 <link>
+<name>Primer 67SD SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/259D/12870/Primer-67SD-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Primer 67SD SDS Part B</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/259D/12871/Primer-67SD-B-GHS.pdf</url>
 <type>OTHER</type>
@@ -1888,6 +1920,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/284D/PDS%3A%7BPC%3A284D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_105XT_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Protecto-Coat 105XT Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/284D/13056/Protecto-Coat+105XT+Part+A+SDS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 105XT Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/284D/13057/Protecto-Coat+105XT+Part+B+SDS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -1989,6 +2031,16 @@
 <name>Protecto-Coat 325HB PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/216D/PDS%3A%7BPC%3A216D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_325HB_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Coat 325HB Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/216D/13060/Protecto-Coat+325+HB+Part+A+SDS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 325HB Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/216D/13061/Protecto-Coat+325+HB+Part+B+SDS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -2183,9 +2235,19 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/228D/13052/PH-1-Hardener-GHS+%281%29.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 800AR PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/228D/PDS%3A%7BPC%3A228D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_800AR_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Coat 800AR Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/228D/13053/P+Coat+800+AR+SDS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -2237,6 +2299,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/131D/12974/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 1130 SDS Part A</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/131D/12876/P-Coat-800HT-A-GHS.pdf</url>
 <type>OTHER</type>
@@ -2245,6 +2312,11 @@
 <name>Protecto-Coat 800HT PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/131D/PDS%3A%7BPC%3A131D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_800HT_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Coat 800HT Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/131D/12973/P-Coat-800HT-A-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -2286,6 +2358,11 @@
 <cureschedule/>
 <locale>en_US</locale>
 <links>
+<link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/106D/12975/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 <link>
 <name>Protecto-Coat 805 - Health Product Declaration (HPD)</name>
 <url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
@@ -2338,6 +2415,11 @@
 <cureschedule/>
 <locale>en_US</locale>
 <links>
+<link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/107D/12976/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 <link>
 <name>Protecto-Coat 900 - Health Product Declaration (HPD)</name>
 <url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
@@ -2439,6 +2521,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/134D/12977/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 900HT PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/134D/PDS%3A%7BPC%3A134D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_900HT_PDS.pdf</url>
 <type>PDS</type>
@@ -2486,6 +2573,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/109D/12979/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Coat 905 - Health Product Declaration (HPD)</name>
 <url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
 <type>OTHER</type>
@@ -2494,6 +2586,11 @@
 <name>Protecto-Coat 905 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/109D/PDS%3A%7BPC%3A109D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_905_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Coat 905 Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/109D/12978/P-Coat-905-A-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -2636,8 +2733,7 @@
 <id>098D</id>
 <family>Protecto-Crete</family>
 <types>
-<type>Epoxy Novolacs</type>
-<type>Repair Mortars</type>
+<type>Specialties</type>
 </types>
 <applications>
 <application>Resinous Flooring</application>
@@ -2655,7 +2751,7 @@
 <feature>100% Solids</feature>
 </features>
 <genericType>Trowel-Applied Novolac Epoxy Topping and Resurfacer</genericType>
-<designation> </designation>
+<designation>This is a product that Carboline is intending to drop from the product line. Please reach out to your Carboline Sales Representative for a product alternative. </designation>
 <productfinish/>
 <productdfts/>
 <solidscontent/>
@@ -2670,9 +2766,19 @@
 <locale>en_US</locale>
 <links>
 <link>
-<name>Protecto-Crete 140T BC PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/098D/PDS%3A%7BPC%3A098D%3BMID%3A1%3BLID%3A1%7D/Protecto-Crete_140T_BC_PDS.pdf</url>
-<type>PDS</type>
+<name>EA-1 Filler Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/098D/12982/EA-1-Filler-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Crete 140T BC Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/098D/12980/P-Crete-140T-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Crete 140T BC Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/098D/12981/P-Crete-140T-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -2720,6 +2826,16 @@
 <cureschedule/>
 <locale>en_US</locale>
 <links>
+<link>
+<name>Protecto-Crete 140T BC Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/090D/12983/P-Crete-140T-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Crete 140T BC Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/090D/12984/P-Crete-140T-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 <link>
 <name>Protecto-Crete 140T GC PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/090D/PDS%3A%7BPC%3A090D%3BMID%3A1%3BLID%3A1%7D/Protecto-Crete_140T_GC_PDS.pdf</url>
@@ -2915,7 +3031,7 @@
 <id>282D</id>
 <family>Protecto-Glass</family>
 <types>
-<type>Epoxy Novolacs</type>
+<type>Specialties</type>
 </types>
 <applications>
 <application>Concrete Repair</application>
@@ -2934,7 +3050,7 @@
 <feature>Can be broadcast for anti-skid</feature>
 </features>
 <genericType>100% solids, trowel applied, reinforced, novolac epoxy lining</genericType>
-<designation> </designation>
+<designation>This is a product that Carboline is intending to drop from the product line. Please reach out to your Carboline Sales Representative for a product alternative. </designation>
 <productfinish/>
 <productdfts/>
 <solidscontent/>
@@ -2949,9 +3065,24 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>G-1 Filler Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/282D/12987/G-1-Filler-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Glass 160XT PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/282D/PDS%3A%7BPC%3A282D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_160XT_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Glass 160XT Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/282D/12985/P-Glass-160XT-BC-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Glass 160XT Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/282D/12986/P-Glass-160XT-BC-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3000,9 +3131,24 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>G-1 Filler Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/225D/12995/G-1-Filler-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>PH-1 Filler Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/225D/12996/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Glass 860 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/225D/PDS%3A%7BPC%3A225D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_860_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Glass 860 Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/225D/12994/P-Glass-860-BC-A-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3042,9 +3188,24 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>G-1 Filler Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/218D/12998/G-1-Filler-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/218D/12999/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Glass 960 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/218D/PDS%3A%7BPC%3A218D%3BMID%3A1%3BLID%3A1%7D/Protecto-Glass_960_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Glass 960 Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/218D/12997/P-Glass-960-965-BC-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3089,6 +3250,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/233D/PDS%3A%7BPC%3A233D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_100_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Protecto-Line 100 Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/233D/13062/Protecto-Line+100+Part+A+SDS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Line 100 Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/233D/13063/Protecto-Line+100+Part+B+SDS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -3129,9 +3300,24 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>G-1 Filler Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/229D/12990/G-1-Filler-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Line 100XT PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/229D/PDS%3A%7BPC%3A229D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_100XT_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Line 100XT Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/229D/12988/P-Line-100XT-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Line 100XT Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/229D/12989/P-Line-100XT-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3179,9 +3365,24 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>G-1 Filler Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/234D/12992/G-1-Filler-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/234D/12993/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Line 800 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/234D/PDS%3A%7BPC%3A234D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_800_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Line 800 Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/234D/12991/P-Line-800-805-AR.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3220,9 +3421,62 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>G-1 Filler Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/211D/13001/G-1-Filler-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/211D/13002/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Protecto-Line 900 PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/211D/PDS%3A%7BPC%3A211D%3BMID%3A1%3BLID%3A1%7D/Protecto-Line_900_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Protecto-Line 900 Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/211D/13000/P-Line-900-905-AR-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ S-10 Cleaning Solvent ]]>
+</title>
+<guid isPermaLink="false">S-10 Cleaning Solvent</guid>
+<id>227D</id>
+<family/>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features> </features>
+<genericType/>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>S-10 Cleaning Solvent PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/227D/PDS%3A%7BPC%3A227D%3BMID%3A1%3BLID%3A1%7D/S-10_Cleaning_Solvent_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>S-10 Cleaning Solvent Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/227D/13003/S-10-Solvent-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3335,6 +3589,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>PH-1 Hardener Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/118D/13005/PH-1-Hardener-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Scratch-Coat 800 - Health Product Declaration (HPD)</name>
 <url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#k=scratch-coat%20800</url>
 <type>OTHER</type>
@@ -3395,6 +3654,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/266D/PDS%3A%7BPC%3A266D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Gloss_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/266D/13010/Sealer-200WB-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/266D/13011/Sealer-200WB-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -3438,6 +3707,16 @@
 <name>Sealer 200WB Clear Matte PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/268D/PDS%3A%7BPC%3A268D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Matte_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/268D/13008/Sealer-200WB-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/268D/13009/Sealer-200WB-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3483,6 +3762,16 @@
 <name>Sealer 200WB Clear Satin PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/208D/PDS%3A%7BPC%3A208D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Clear_Satin_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/208D/13012/Sealer-200WB-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/208D/13013/Sealer-200WB-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3540,6 +3829,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/232D/PDS%3A%7BPC%3A232D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Gloss_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/232D/13014/Sealer-200WB-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/232D/13015/Sealer-200WB-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -3582,6 +3881,16 @@
 <name>Sealer 200WB Pigmented Matte PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/096D/PDS%3A%7BPC%3A096D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Matte_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/096D/13016/Sealer-200WB-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/096D/13017/Sealer-200WB-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3630,6 +3939,16 @@
 <name>Sealer 200WB Pigmented Satin PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/267D/PDS%3A%7BPC%3A267D%3BMID%3A1%3BLID%3A1%7D/Sealer_200WB_Pigmented_Satin_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/267D/13018/Sealer-200WB-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 200WB Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/267D/13019/Sealer-200WB-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3970,7 +4289,7 @@
 <![CDATA[ Sealer 80 ]]>
 </title>
 <description>
-<![CDATA[ Sealer 80 is an isocyanate free, ultra-durable, fast-cure coating that provides outstanding color and gloss retention. It combines the chemical resistant properties of epoxies with the weathering characteristics of acrylic-polyurethanes giving it a tightly cross-linked film resulting in a finish with outstanding barrier properties against Vaporized Hydrogen Peroxide. This product meets the most stringent VOC regulations for field applied coatings of less than 100 g/L volatile organic content. ]]>
+<![CDATA[ Sealer 80 is an isocyanate free, ultra-durable, fast-cure coating that provides outstanding color and gloss retention. It combines the chemical resistant properties of epoxies with the weathering characteristics of acrylic-polyurethanes giving it a tightly cross-linked film resulting in a finish with outstanding barrier properties against Vaporized Hydrogen Peroxide. ]]>
 </description>
 <guid isPermaLink="false">Sealer 80</guid>
 <id>341D</id>
@@ -4301,70 +4620,6 @@
 <name>Semstone System Selector Guide</name>
 <url>https://carboline.box.com/shared/static/ynliebo2q66lmq438g3duyrv4bkg0ihj.pdf</url>
 <type>OTHER</type>
-</link>
-</links>
-</item>
-<item>
-<title>
-<![CDATA[ Semstone 140 CT ]]>
-</title>
-<description>
-<![CDATA[ Semstone 140 CT is a 100% solids, high performance, epoxy lining system designed for concrete. It is a semi-leveling coating which may be applied as an aggregate filled and/or reinforced coating system. Semstone 140 CT is specially formulated to withstand some of industry’s most aggressive chemicals. ]]>
-</description>
-<guid isPermaLink="false">Semstone 140 CT</guid>
-<id>174P</id>
-<family>Semstone</family>
-<types> </types>
-<applications>
-<application>Secondary Containment</application>
-</applications>
-<markets>
-<market>Petrochemical</market>
-<market>OEM</market>
-</markets>
-<features>
-<feature>Excellent resistance to chemical attack</feature>
-<feature>Excellent abrasion and impact resistance</feature>
-<feature>Exceptional thermal shock resistance</feature>
-<feature>Superior bonding qualities</feature>
-<feature>High cohesive strength</feature>
-<feature>Low permeability</feature>
-<feature>Low odor</feature>
-</features>
-<genericType>100% Solids, high performance epoxy liner</genericType>
-<designation> </designation>
-<productfinish/>
-<productdfts/>
-<solidscontent/>
-<solidsmeasurement/>
-<solidsvalue/>
-<vocvalues/>
-<dtrs/>
-<ratio/>
-<potlife/>
-<potlifecomments/>
-<cureschedule/>
-<locale>en_US</locale>
-<links>
-<link>
-<name>Semstone 140 CT PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/174P/PDS%3A%7BPC%3A174P%3BMID%3A1%3BLID%3A1%7D/Semstone_140_CT_PDS.pdf</url>
-<type>PDS</type>
-</link>
-<link>
-<name>Semstone 140 CT SDS Part A</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/174P/B986FCFAD4845B4C8525705300542E8F/174PA1NL_2_USANSI.pdf</url>
-<type>MSDS</type>
-</link>
-<link>
-<name>Semstone 140 CT SDS Part B</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/174P/210DCADFA1EA42988525705300542E95/174PB1NL_2_USANSI.pdf</url>
-<type>MSDS</type>
-</link>
-<link>
-<name>Semstone Scrim Cloth SDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/174P/79DF18DF42B44A9585257473004D150A/311PS1NL_2_USANSI.pdf</url>
-<type>MSDS</type>
 </link>
 </links>
 </item>
@@ -4963,64 +5218,6 @@
 </item>
 <item>
 <title>
-<![CDATA[ Semstone 884 ]]>
-</title>
-<description>
-<![CDATA[ Semstone 884 is a vinyl ester polymer concrete which incorporates proprietary non-shrink technology into its formulation, making it the first practical vinyl ester polymer concrete for use as a concrete topping. It is recommended for use in concentrated nitric acid service and other strong oxidizers. Semstone 884 is an excellent alternative to acid brick. It is also used as a construction material for pouring pump foundations and small tank foundations. It can be used for pre-casting of sumps and trenches. ]]>
-</description>
-<guid isPermaLink="false">Semstone 884</guid>
-<id>207P</id>
-<family>Semstone</family>
-<types> </types>
-<applications>
-<application>Secondary Containment</application>
-</applications>
-<markets>
-<market>Pulp &amp; Paper</market>
-<market>Petrochemical</market>
-</markets>
-<features>
-<feature>Excellent alternative to acid brick</feature>
-</features>
-<genericType>Non-shrink vinyl ester polymer concrete</genericType>
-<designation>This is a Carboline Specialty Product Minimum order quantities and special pricing will apply in North America. Contact your Carboline Sales Representative for more details.</designation>
-<productfinish/>
-<productdfts/>
-<solidscontent/>
-<solidsmeasurement/>
-<solidsvalue/>
-<vocvalues/>
-<dtrs/>
-<ratio/>
-<potlife/>
-<potlifecomments/>
-<cureschedule/>
-<locale>en_US</locale>
-<links>
-<link>
-<name>Semstone 884 PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207P/PDS%3A%7BPC%3A207P%3BMID%3A1%3BLID%3A1%7D/Semstone_884_PDS.pdf</url>
-<type>PDS</type>
-</link>
-<link>
-<name>Semstone 884 SDS Part A</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207P/ACBECCD56030043B8525705300542F98/207PA1NL_2_USANSI.pdf</url>
-<type>MSDS</type>
-</link>
-<link>
-<name>Semstone 884 SDS Part B</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207P/349AC3670C5737AC8525705300542F9F/207PB1NL_2_USANSI.pdf</url>
-<type>MSDS</type>
-</link>
-<link>
-<name>Semstone 884 SDS Part C</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207P/48FBB8A4EA2AB7348525705300542FA7/207PC1NL_2_USANSI.pdf</url>
-<type>MSDS</type>
-</link>
-</links>
-</item>
-<item>
-<title>
 <![CDATA[ Semstone Fabric 100 ]]>
 </title>
 <description>
@@ -5267,9 +5464,24 @@
 <type>OTHER</type>
 </link>
 <link>
+<name>Shock-Crete HD Filler SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207D/13040/Shock-Crete-HD-Aggregate-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Shock-Crete HD PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/207D/PDS%3A%7BPC%3A207D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_HD_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Shock-Crete Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207D/12117/Shock-Crete+Part+A_SDS+101022.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Shock-Crete Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/207D/12118/Shock-Crete+Part+B_SDS+101022.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -5460,14 +5672,24 @@
 <locale>en_US</locale>
 <links>
 <link>
-<name>Shock-Crete MD Aggregate SDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/115D/12889/Shock-Crete-MD-Aggregate-GHS.pdf</url>
-<type>OTHER</type>
+<name>Shock Crete MD Aggregate SDS Part C</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/115D/8BBE2C55CB18B1F585258BFF00604E09/115DC1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
 </link>
 <link>
 <name>Shock-Crete MD PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/115D/PDS%3A%7BPC%3A115D%3BMID%3A1%3BLID%3A1%7D/Shock-Crete_MD_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Shock-Crete MD Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/115D/13020/Shock-Crete-A-GHS+%281%29.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Shock-Crete MD Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/115D/13021/Shock-Crete-B-GHS+%281%29.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -5877,6 +6099,16 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/146D/12711/1532_Steri_Coat_200_Health+Product+Declaration.pdf</url>
 <type>OTHER</type>
 </link>
+<link>
+<name>Steri-Coat 200 Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/146D/13024/Steri-Coat-200-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Coat 200 Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/146D/13025/Steri-Coat-200-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
 </links>
 </item>
 <item>
@@ -5924,6 +6156,16 @@
 <link>
 <name>Steri-Coat 200 Health Product Declaration (HPD)</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/147D/12712/1532_Steri_Coat_200_Health+Product+Declaration.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Coat 200 Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/147D/13022/Steri-Coat-200-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Coat 200 Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/147D/13023/Steri-Coat-200-B-GHS.pdf</url>
 <type>OTHER</type>
 </link>
 <link>
@@ -6041,6 +6283,79 @@
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/181D/PDS%3A%7BPC%3A181D%3BMID%3A1%3BLID%3A1%7D/Steri-Cove_Gel_PDS.pdf</url>
 <type>PDS</type>
 </link>
+<link>
+<name>Steri-Cove Gel Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/181D/13026/Steri-Cove-Gel-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Cove Gel Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/181D/13027/Steri-Cove-Gel-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Steri-Flor CT ]]>
+</title>
+<description>
+<![CDATA[ Steri-Flor CT is a self-leveling epoxy and binder resin designed for rapid return to service that creates a strongly bonded monolithic coating with moderate chemical resistance and good physical properties. ]]>
+</description>
+<guid isPermaLink="false">Steri-Flor CT</guid>
+<id>084D</id>
+<family>Steri-Flor</family>
+<types> </types>
+<applications>
+<application>Resinous Flooring</application>
+</applications>
+<markets>
+<market>Commercial &amp; Architectural</market>
+<market>Automotive</market>
+<market>Food &amp; Beverage</market>
+<market>Distributor</market>
+<market>Multiple Markets</market>
+<market>Other</market>
+</markets>
+<features>
+<feature>Zero VOCs</feature>
+<feature>Low installation odor</feature>
+<feature>Can be broadcasted for anti-skid surface</feature>
+<feature>Stain resistance with excellent cleanability</feature>
+<feature>Can be reinforced with fiberglass to increase crack bridging properties</feature>
+<feature>USDA compliant</feature>
+<feature>MMA Alternative</feature>
+</features>
+<genericType>Self-leveling, 100% solids, low temp application, fast curing, epoxy floor coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Steri-Flor CT Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/084D/13041/Steri-Flor+CT+A.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Flor CT Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/084D/13042/Steri-Flor+CT+B.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Flor CT PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/084D/PDS%3A%7BPC%3A084D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_CT_PDS.pdf</url>
+<type>PDS</type>
+</link>
 </links>
 </item>
 <item>
@@ -6082,6 +6397,11 @@
 <locale>en_US</locale>
 <links>
 <link>
+<name>EA-1 Filler GHS Safety Data Sheet</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/239D/13064/EA-1+Filler+GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
 <name>Steri-Flor Fast Patch PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/239D/PDS%3A%7BPC%3A239D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_Fast_Patch_PDS.pdf</url>
 <type>PDS</type>
@@ -6117,8 +6437,8 @@
 <markets>
 <market>Commercial &amp; Architectural</market>
 <market>Automotive</market>
-<market>Distributor</market>
 <market>Food &amp; Beverage</market>
+<market>Distributor</market>
 <market>Multiple Markets</market>
 <market>Other</market>
 </markets>
@@ -6163,6 +6483,11 @@
 <name>Steri-Flor GP PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/116D/PDS%3A%7BPC%3A116D%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_GP_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Steri-Flor GP Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/116D/13028/Steri-Flor-GP-BC-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 <link>
 <name>Steri-Flor GP VOC Emissions Certificate</name>
@@ -6321,8 +6646,8 @@
 <markets>
 <market>Commercial &amp; Architectural</market>
 <market>Automotive</market>
-<market>Distributor</market>
 <market>Food &amp; Beverage</market>
+<market>Distributor</market>
 <market>Multiple Markets</market>
 <market>Other</market>
 <market>Pharmaceutical</market>
@@ -6357,16 +6682,6 @@
 <type>OTHER</type>
 </link>
 <link>
-<name>Steri-Flor UV Part A SDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12102/Steri-Flor+UV+A+SDS.pdf</url>
-<type>OTHER</type>
-</link>
-<link>
-<name>Steri-Flor UV Part B SDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12101/Steri-Flor+UV+B+SDS.pdf</url>
-<type>OTHER</type>
-</link>
-<link>
 <name>Steri-Flor UV PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F156/PDS%3A%7BPC%3AF156%3BMID%3A1%3BLID%3A1%7D/Steri-Flor_UV_PDS.pdf</url>
 <type>PDS</type>
@@ -6374,6 +6689,16 @@
 <link>
 <name>Steri-Flor UV Product Flyer</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F156/12143/Dudick+Steri-Flor+UV+Product+Flyer_12622.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Steri-Flor UV SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F156/00088927BA49848085258BFF00606DCB/F156A1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Steri-Flor UV SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F156/13029/Steri-Flor-UV-B-SDS.pdf</url>
 <type>OTHER</type>
 </link>
 </links>
@@ -6399,8 +6724,8 @@
 <market>Commercial &amp; Architectural</market>
 <market>Secondary Containment</market>
 <market>Automotive</market>
-<market>Distributor</market>
 <market>Food &amp; Beverage</market>
+<market>Distributor</market>
 <market>Multiple Markets</market>
 <market>Other</market>
 </markets>
@@ -6474,8 +6799,8 @@
 <markets>
 <market>Commercial &amp; Architectural</market>
 <market>Secondary Containment</market>
-<market>Distributor</market>
 <market>Food &amp; Beverage</market>
+<market>Distributor</market>
 <market>Multiple Markets</market>
 <market>Other</market>
 </markets>
@@ -6502,11 +6827,6 @@
 <cureschedule/>
 <locale>en_US</locale>
 <links>
-<link>
-<name>Steri-Prime DTO PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F169/12098/Steri-Prime_DTO_PDS_Dudick.pdf</url>
-<type>OTHER</type>
-</link>
 <link>
 <name>Steri-Prime DTO PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/F169/PDS%3A%7BPC%3AF169%3BMID%3A1%3BLID%3A1%7D/Steri-Prime_DTO_PDS.pdf</url>
@@ -6546,8 +6866,8 @@
 <markets>
 <market>Commercial &amp; Architectural</market>
 <market>Pulp &amp; Paper</market>
-<market>Distributor</market>
 <market>Food &amp; Beverage</market>
+<market>Distributor</market>
 <market>Flooring</market>
 <market>Pharmaceutical</market>
 </markets>
@@ -6720,6 +7040,71 @@
 </item>
 <item>
 <title>
+<![CDATA[ Universal Color Pack ]]>
+</title>
+<description>
+<![CDATA[ Solvent free, self-leveling epoxy that is extremely versatile. Different grades of slip resistance can be achieved by the inclusion of graded aggregates between coats. Excellent receiving coat for flake and quartz epoxy flooring systems. ]]>
+</description>
+<guid isPermaLink="false">Universal Color Pack</guid>
+<id>F101</id>
+<family/>
+<types>
+<type>Epoxy Amines</type>
+</types>
+<applications>
+<application>Misc (grouts</application>
+<application> fillers</application>
+<application> caulks</application>
+<application> tapes</application>
+<application> sealers)</application>
+</applications>
+<markets>
+<market>Commercial &amp; Architectural</market>
+<market>Food &amp; Beverage</market>
+<market>Flooring</market>
+<market>Pharmaceutical</market>
+</markets>
+<features>
+<feature>Self-leveling</feature>
+<feature>Ultra low VOC</feature>
+<feature>Low odor</feature>
+<feature>Good chemical resistance</feature>
+<feature>Abrasion resistant</feature>
+<feature>Solvent free</feature>
+<feature>Versatile use in epoxy flooring systems</feature>
+<feature>Seamless and hygienic finish</feature>
+<feature>Low maintenance</feature>
+<feature>Nonylphenol free</feature>
+</features>
+<genericType>High performance self-leveling epoxy floor coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Carbocrete Universal Color Pack - White SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F101/A253768E913ED7E08525829E006EE195/F101C2NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Carbocrete Universal Color Pack SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/F101/7CF0BC2938A1C354852575990047E57C/F101C1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Vapor Stop ]]>
 </title>
 <description>
@@ -6727,7 +7112,7 @@
 </description>
 <guid isPermaLink="false">Vapor Stop</guid>
 <id>183D</id>
-<family>Dudick</family>
+<family/>
 <types> </types>
 <applications> </applications>
 <markets>
@@ -6765,6 +7150,21 @@
 <name>Vapor Stop PDS</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/183D/PDS%3A%7BPC%3A183D%3BMID%3A1%3BLID%3A1%7D/Vapor_Stop_PDS.pdf</url>
 <type>PDS</type>
+</link>
+<link>
+<name>Vapor Stop Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/183D/13031/Vapor-StopVertical-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Vapor Stop Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/183D/13032/Vapor-StopVertical-B-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Vapor Stop Safety Data Sheet - Part C Aggregate</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/183D/13033/Vapor-Stop-Aggregate-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
