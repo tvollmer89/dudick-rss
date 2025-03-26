@@ -31,9 +31,9 @@
 </description>
 <link>https://tvollmer89.github.io/dudick-xml-feed/</link>
 <generator>RSS for Node and Next.js</generator>
-<lastBuildDate>Mon, 17 Feb 2025 19:41:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Mar 2025 09:40:04 GMT</lastBuildDate>
 <atom:link href="https://tvollmer89.github.io/dudick-xml-feed/feed.xml" rel="self" type="application/rss+xml"/>
-<pubDate>Mon, 17 Feb 2025 19:41:49 GMT</pubDate>
+<pubDate>Wed, 26 Mar 2025 09:40:04 GMT</pubDate>
 <copyright>
 <![CDATA[ Copyright 2025, Theresa Vollmer ]]>
 </copyright>
@@ -177,9 +177,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -233,7 +233,7 @@
 </description>
 <guid isPermaLink="false">Caulk PSC</guid>
 <id>244D</id>
-<family/>
+<family>Dudick</family>
 <types>
 <type>Specialties</type>
 </types>
@@ -243,9 +243,7 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
-<market>Oil &amp; Gas Midstream</market>
-<market>Flooring</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>State of Florida: Secondary Containment Approval EQ-510</feature>
@@ -292,7 +290,7 @@
 </title>
 <guid isPermaLink="false">EA-1 Aggregate</guid>
 <id>126D</id>
-<family/>
+<family>Dudick</family>
 <types>
 <type>Specialties</type>
 </types>
@@ -301,7 +299,7 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Flooring</market>
+<market>Other</market>
 </markets>
 <features> </features>
 <genericType/>
@@ -335,15 +333,14 @@
 </description>
 <guid isPermaLink="false">Gelcoat 800</guid>
 <id>246D</id>
-<family/>
+<family>Dudick</family>
 <types> </types>
 <applications>
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Storage Tanks</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Exceptional resistance to inorganic and organic acids</feature>
@@ -393,15 +390,14 @@
 </description>
 <guid isPermaLink="false">Gelcoat 900</guid>
 <id>270D</id>
-<family/>
+<family>Dudick</family>
 <types> </types>
 <applications>
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Storage Tanks</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Exceptional resistance to inorganic and organic acids</feature>
@@ -514,7 +510,7 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Electronics</market>
+<market>Semiconductor &amp; EV</market>
 </markets>
 <features>
 <feature>Meets all VOC requirements</feature>
@@ -573,7 +569,7 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Electronics</market>
+<market>Semiconductor &amp; EV</market>
 </markets>
 <features>
 <feature>Industry standard for low cured emissions</feature>
@@ -638,7 +634,9 @@
 <applications>
 <application>Resinous Flooring</application>
 </applications>
-<markets> </markets>
+<markets>
+<market>Chemical Processing</market>
+</markets>
 <features>
 <feature>Dissipative in the range of 1 x 106 to 109 ohms</feature>
 <feature>Meets all VOC requirements</feature>
@@ -707,11 +705,8 @@
 <application>High Abrasion / Impact Coatings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Good overall chemical resistance</feature>
@@ -1036,11 +1031,8 @@
 <application>High Abrasion / Impact Coatings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Rapid cure for service (dry to touch in 1 hour)</feature>
@@ -1108,11 +1100,8 @@
 <application>High Abrasion / Impact Coatings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Good overall chemical resistance</feature>
@@ -1178,11 +1167,8 @@
 <application>High Abrasion / Impact Coatings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Good overall chemical resistance</feature>
@@ -1248,11 +1234,8 @@
 <application>High Abrasion / Impact Coatings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Smooth</feature>
@@ -1319,11 +1302,8 @@
 <application>High Abrasion / Impact Coatings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Smooth</feature>
@@ -1390,12 +1370,9 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Secondary Containment</market>
-<market>Electronics</market>
-<market>Chemical Processing/Refining</market>
-<market>Petrochemical</market>
-<market>Flooring</market>
+<market>Other</market>
+<market>Semiconductor &amp; EV</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Can minimize outgassing on concrete</feature>
@@ -1507,12 +1484,10 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
-<market>Electronics</market>
-<market>Food &amp; Beverage</market>
-<market>Distributor</market>
-<market>Multiple Markets</market>
+<market>Healthcare</market>
+<market>Semiconductor &amp; EV</market>
 <market>Other</market>
+<market>Food &amp; Beverage</market>
 </markets>
 <features>
 <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
@@ -1579,7 +1554,7 @@
 </applications>
 <markets>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
@@ -1638,12 +1613,10 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
-<market>Electronics</market>
-<market>Food &amp; Beverage</market>
-<market>Distributor</market>
-<market>Multiple Markets</market>
+<market>Healthcare</market>
+<market>Semiconductor &amp; EV</market>
 <market>Other</market>
+<market>Food &amp; Beverage</market>
 </markets>
 <features>
 <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
@@ -1760,9 +1733,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Multiple Markets</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Tolerant to moisture vapor transmission (2 / 2)</feature>
@@ -1869,6 +1842,65 @@
 <link>
 <name>Protecto-Coat 100XT SDS Part B</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/103D/12873/P-Coat-100XT-B-new-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Coat 100XT ]]>
+</title>
+<description>
+<![CDATA[ Protecto-Coat 100XT is a 100% solids, flake-filled, high functionality, novolac epoxy coating. The novolac epoxy binder and overlapping flake fillers in Protecto-Coat 100XT provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Coat 100XT</guid>
+<id>311D</id>
+<family>Protecto-Coat</family>
+<types> </types>
+<applications>
+<application>Secondary Containment</application>
+</applications>
+<markets> </markets>
+<features>
+<feature>Broad spectrum chemical resistance</feature>
+<feature>Superior adhesion to metal substrates and concrete</feature>
+<feature>Blush resistant formulation</feature>
+<feature>Meets all VOC Requirements</feature>
+<feature>Can be seeded with Sand or Aluminum Oxide for Anti-Skid</feature>
+</features>
+<genericType>100% solids, novolac epoxy coating</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protect-Coat 100XT - Health Product Declaration (HPD)</name>
+<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 100XT PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311D/PDS%3A%7BPC%3A311D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_100XT_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Protecto-Coat 100XT SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311D/13108/P-Coat-100XT-A-new-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Protecto-Coat 100XT SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311D/13109/P-Coat-100XT-B-new-GHS.pdf</url>
 <type>OTHER</type>
 </link>
 </links>
@@ -2004,8 +2036,7 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
-<market>Storage Tanks</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Meets all VOC Requirements</feature>
@@ -2064,11 +2095,9 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Secondary Containment</market>
+<market>Other</market>
 <market>Food &amp; Beverage</market>
-<market>Petrochemical</market>
-<market>Flooring</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Complies with Greenbook</feature>
@@ -2125,6 +2154,80 @@
 <name>Waffle Slab Flyer</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/339D/12478/Protecto-Coat+500+Flyer_021324.pdf</url>
 <type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Coat 700 ]]>
+</title>
+<description>
+<![CDATA[ Protecto-Coat 700 coating are distinct formulations designed to offer a wide range of high performance, suitable for many different industrial and manufacturing applications. Flake or graphite fillers enhance the protection necessary for specific chemical environments. The coatings are formulated for brush, roller or spray application. ]]>
+</description>
+<guid isPermaLink="false">Protecto-Coat 700</guid>
+<id>104D</id>
+<family>Protecto-Coat</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features>
+<feature>Low Permeability</feature>
+<feature>Conductive Version Available</feature>
+</features>
+<genericType>flake filled, thermosetting polyester coatings</genericType>
+<designation>This is a product that Carboline is intending to drop from the product line. Please reach out to your Carboline Sales Representative for a product alternative. </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Coat 700 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/104D/PDS%3A%7BPC%3A104D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_700_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Protecto-Coat 705 ]]>
+</title>
+<guid isPermaLink="false">Protecto-Coat 705</guid>
+<id>130D</id>
+<family>Protecto-Coat</family>
+<types>
+<type>Specialties</type>
+</types>
+<applications> </applications>
+<markets> </markets>
+<features> </features>
+<genericType/>
+<designation>This is a product that Carboline is intending to drop from the product line. Please reach out to your Carboline Sales Representative for a product alternative. </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Coat 705 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/130D/PDS%3A%7BPC%3A130D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_705_PDS.pdf</url>
+<type>PDS</type>
 </link>
 </links>
 </item>
@@ -2205,10 +2308,8 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
-<market>Chemical Processing/Refining</market>
-<market>Petrochemical</market>
-<market>Storage Tanks</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -2269,10 +2370,8 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
-<market>Chemical Processing/Refining</market>
-<market>Petrochemical</market>
-<market>Storage Tanks</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -2454,8 +2553,7 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
-<market>Storage Tanks</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Fire Retardant</feature>
@@ -2554,7 +2652,6 @@
 <markets> </markets>
 <features>
 <feature>Excellent Chemical Resistance</feature>
-<feature>Conductive Version Available</feature>
 <feature>Low Permeability</feature>
 </features>
 <genericType>Graphite Flake-Filled, Novolac Vinyl Ester Coating</genericType>
@@ -2613,9 +2710,8 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
-<market>Chemical Processing/Refining</market>
-<market>Petrochemical</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Excellent overall chemical resistance</feature>
@@ -2676,9 +2772,8 @@
 <application>High Temperature Coatings</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Chemical Processing/Refining</market>
-<market>Petrochemical</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Resistance to vibration</feature>
@@ -2740,8 +2835,7 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
-<market>Flooring</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Low Odor</feature>
@@ -2800,8 +2894,7 @@
 </applications>
 <markets>
 <market>Food &amp; Beverage</market>
-<market>Multiple Markets</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -2909,9 +3002,8 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Chemical Processing/Refining</market>
+<market>Chemical Processing</market>
 <market>Food &amp; Beverage</market>
-<market>Petrochemical</market>
 </markets>
 <features>
 <feature>Superior chemical resistance</feature>
@@ -2948,6 +3040,39 @@
 </item>
 <item>
 <title>
+<![CDATA[ Protecto-Flex 800 TC ]]>
+</title>
+<guid isPermaLink="false">Protecto-Flex 800 TC</guid>
+<id>223D</id>
+<family>Protecto-Flex</family>
+<types> </types>
+<applications> </applications>
+<markets> </markets>
+<features> </features>
+<genericType/>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Protecto-Flex 800 TC PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/223D/PDS%3A%7BPC%3A223D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flex_800_TC_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Protecto-Flex BC ]]>
 </title>
 <description>
@@ -2963,7 +3088,7 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Bridges surface cracks up to 100 mils in concrete</feature>
@@ -3038,10 +3163,7 @@
 <application>Concrete Coating Systems</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Secondary Containment</market>
-<market>Storage Tanks</market>
-<market>Flooring</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Meets all VOC requirements</feature>
@@ -3103,9 +3225,8 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Storage Tanks</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Exceptional resistance to inorganic and organic acids</feature>
@@ -3338,9 +3459,8 @@
 <application>Tank Linings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Storage Tanks</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Exceptional resistance to inorganic and organic acids</feature>
@@ -3448,7 +3568,7 @@
 </title>
 <guid isPermaLink="false">S-10 Cleaning Solvent</guid>
 <id>227D</id>
-<family/>
+<family>Dudick</family>
 <types> </types>
 <applications> </applications>
 <markets> </markets>
@@ -3482,6 +3602,90 @@
 </item>
 <item>
 <title>
+<![CDATA[ Sanitile 555 VOC ]]>
+</title>
+<description>
+<![CDATA[ A water-based epoxy finish that is easy to apply and has very good chemical resistance. Sanitile 555 VOC has minimal odor and is less than 100 g/L VOC. It has significant improvements in film hardness and toughness over straight acrylic or acrylic-epoxy coatings and is more chemically and physically resistant. It is therefore ideal for more aggressive exposures on walls and structural components than acrylic-modified epoxies. It may also be used for light to moderate duty floors. ]]>
+</description>
+<guid isPermaLink="false">Sanitile 555 VOC</guid>
+<id>S555</id>
+<family>Sanitile</family>
+<types>
+<type>Water Based Products</type>
+</types>
+<applications>
+<application>Wall Coatings</application>
+<application>Steel Decks</application>
+</applications>
+<markets>
+<market>Healthcare</market>
+<market>Other</market>
+<market>Food &amp; Beverage</market>
+<market>Chemical Processing</market>
+</markets>
+<features>
+<feature>Very good chemical resistance</feature>
+<feature>Resists repeated cleaning</feature>
+<feature>Gloss finish for ease of cleaning</feature>
+<feature>Low odor</feature>
+<feature> VOC is &lt; 100 g/L</feature>
+<feature>Fast dry to touch and recoat</feature>
+<feature>Hard</feature>
+<feature> tough</feature>
+<feature> abrasion resistant film</feature>
+<feature>Suitable for use in USDA inspected facilities</feature>
+<feature>Breathable for concrete with high moisture vapor transmission</feature>
+<feature> when used as part of an all waterbased system</feature>
+</features>
+<genericType>Cross-linked water-based epoxy</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sanitile 555 VOC (Sanitile 555) SDS Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/S555/4B15648969A6AED785258033006B065C/0910B1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>Sanitile 555 VOC - Product Flyer</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/S555/10027/Sanitile+555+VOC+ProductFlyer_1116.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sanitile 555 VOC Environmental Product Declaration (EPD)</name>
+<url>https://carboline.box.com/shared/static/g7b7cdtjmr4npr5tkd921hr5q0iugq34.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sanitile 555 VOC PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/S555/PDS%3A%7BPC%3AS555%3BMID%3A1%3BLID%3A1%7D/Sanitile_555_VOC_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Sanitile 555 VOC SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/S555/EFEF058236D5C49E85257FAA00765650/S555A1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
+<name>VOC Emissions Certificate - Sanitile 555 VOC</name>
+<url>https://carboline.box.com/shared/static/dd3y7alw90avhlxbq3s51d5ajppiut2z.pdf</url>
+<type>OTHER</type>
+</link>
+</links>
+</item>
+<item>
+<title>
 <![CDATA[ Scratch-Coat 300 ]]>
 </title>
 <description>
@@ -3498,7 +3702,7 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
@@ -3563,9 +3767,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Secondary Containment</market>
-<market>Chemical Processing/Refining</market>
-<market>Petrochemical</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Vertical and overhead applications</feature>
@@ -3607,6 +3810,70 @@
 <name>Scratch-Coat 800 SDS Part A</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/118D/35C4F9961BAA5CC18525892C00628870/300DA1NL_2_USANSI.pdf</url>
 <type>MSDS</type>
+</link>
+</links>
+</item>
+<item>
+<title>
+<![CDATA[ Sealer 200SD ]]>
+</title>
+<description>
+<![CDATA[ Sealer 200SD is a two component, water borne electrostatic, dissipative, aliphatic urethane floor coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining. ]]>
+</description>
+<guid isPermaLink="false">Sealer 200SD</guid>
+<id>099D</id>
+<family>Sealers</family>
+<types>
+<type>Water Based Products</type>
+</types>
+<applications>
+<application>Resinous Flooring</application>
+</applications>
+<markets>
+<market>Semiconductor &amp; EV</market>
+<market>Other</market>
+<market>Pharmaceutical</market>
+</markets>
+<features>
+<feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
+<feature>Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 Compliance Certificates Available Upon Request</feature>
+<feature>Meets SCAQMD Rule 1113 for VOC content</feature>
+<feature>User friendly application</feature>
+<feature>Field and shop application</feature>
+<feature>Soap &amp; water clean up</feature>
+<feature>Low odor</feature>
+<feature> low VOC’s</feature>
+<feature>Excellent adhesion and chemical &amp; abrasion resistance</feature>
+</features>
+<genericType>Electrostatic dissipative, water borne aliphatic urethane</genericType>
+<designation> </designation>
+<productfinish/>
+<productdfts/>
+<solidscontent/>
+<solidsmeasurement/>
+<solidsvalue/>
+<vocvalues/>
+<dtrs/>
+<ratio/>
+<potlife/>
+<potlifecomments/>
+<cureschedule/>
+<locale>en_US</locale>
+<links>
+<link>
+<name>Sealer 200SD PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/099D/PDS%3A%7BPC%3A099D%3BMID%3A1%3BLID%3A1%7D/Sealer_200SD_PDS.pdf</url>
+<type>PDS</type>
+</link>
+<link>
+<name>Sealer 200SD Safety Data Sheet - Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/099D/13006/Sealer-200WBSD-A-GHS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 200SD Safety Data Sheet - Part B</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/099D/13007/Sealer-200WBSD-B-GHS.pdf</url>
+<type>OTHER</type>
 </link>
 </links>
 </item>
@@ -3969,7 +4236,7 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Electronics</market>
+<market>Semiconductor &amp; EV</market>
 </markets>
 <features>
 <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
@@ -4028,7 +4295,7 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Flooring</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>High Solids</feature>
@@ -4302,10 +4569,9 @@
 <application>Ultra Weatherable Finishes</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Commercial &amp; Architectural</market>
-<market>Food &amp; Beverage</market>
 <market>Other</market>
+<market>Healthcare</market>
+<market>Food &amp; Beverage</market>
 </markets>
 <features>
 <feature>Isocyanate free</feature>
@@ -4328,7 +4594,23 @@
 <potlifecomments/>
 <cureschedule/>
 <locale>en_US</locale>
-<links> </links>
+<links>
+<link>
+<name>Sealer 80 Part A SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/341D/12298/Sealer+80++A+SDS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 80 Part B SDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/341D/12296/Sealer+80+B+SDS.pdf</url>
+<type>OTHER</type>
+</link>
+<link>
+<name>Sealer 80 PDS</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/341D/PDS%3A%7BPC%3A341D%3BMID%3A1%3BLID%3A1%7D/Sealer_80_PDS.pdf</url>
+<type>PDS</type>
+</link>
+</links>
 </item>
 <item>
 <title>
@@ -4422,9 +4704,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -4486,11 +4768,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Pulp &amp; Paper</market>
-<market>Petrochemical</market>
-<market>OEM</market>
-<market>Power - Thermal Fuel</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -4547,10 +4826,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Petrochemical</market>
-<market>OEM</market>
-<market>Power - Thermal Fuel</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Excellent resistance to chemical attack</feature>
@@ -4640,11 +4917,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>OEM</market>
-<market>Power - Thermal Fuel</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Excellent resistance to chemical attack</feature>
@@ -4730,10 +5004,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Excellent resistance to chemical attack</feature>
@@ -4800,8 +5072,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Excellent resistance to chemical attack</feature>
@@ -4882,7 +5154,7 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Petrochemical</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Easy to apply</feature>
@@ -4943,9 +5215,8 @@
 <application>Elastomeric Linings</application>
 </applications>
 <markets>
-<market>Pulp &amp; Paper</market>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Long term abrasion and chemical resistance</feature>
@@ -5008,8 +5279,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Petrochemical</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -5061,7 +5332,7 @@
 <![CDATA[ Semstone 806 ]]>
 </title>
 <description>
-<![CDATA[ Semstone 806 is a 100% solids, low odor, rubberized epoxy. It is used as a chemically resistant membrane for concrete. When reinforced with our flexible fabrics it provides a system which will bridge working cracks as well as expansion joints. When reinforced with Semstone 100 fabric, it can bridge crack expansion joint movement up to 1/2” without cracking. This product is a self-leveling material. However, it maybe used as a high build coating system by the addition of a third component, Semstone Thixotrope D, which is a non-silica Thixotrope. When using reinforcing fabric, Thixotrope D is not required. Concrete slabs with severe cracking problems, as well as all construction and expansion joints, may be treated using Semstone 806 with #100 Fabric. This ideal ideal for use as a secondary containment membrane. ]]>
+<![CDATA[ Semstone 806 is a 100% solids, low odor, rubberized epoxy. It is used as a chemically resistant membrane for concrete. When reinforced with our flexible fabrics it provides a system which will bridge working cracks as well as expansion joints. When reinforced with Semstone 100 fabric, it can bridge crack expansion joint movement up to 1/2” without cracking. This product is a self-leveling material. However, it maybe used as a high build coating system by the addition of a third component, Semstone Thixotrope D, which is a non-silica Thixotrope. When using reinforcing fabric, Thixotrope D is not required. Concrete slabs with severe cracking problems, as well as all construction and expansion joints, may be treated using Semstone 806 with #100 Fabric. This is ideal for use as a secondary containment membrane. ]]>
 </description>
 <guid isPermaLink="false">Semstone 806</guid>
 <id>200P</id>
@@ -5071,8 +5342,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Petrochemical</market>
-<market>OEM</market>
+<market>Chemical Processing</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Flexible</feature>
@@ -5139,10 +5410,8 @@
 <application>Secondary Containment</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Metals &amp; Mining</market>
-<market>Petrochemical</market>
-<market>Power - Thermal Fuel</market>
+<market>Other</market>
+<market>Chemical Processing</market>
 </markets>
 <features>
 <feature>Excellent resistance to chemical attack</feature>
@@ -5229,15 +5498,9 @@
 <types>
 <type>Specialties</type>
 </types>
-<applications>
-<application>Misc (grouts</application>
-<application> fillers</application>
-<application> caulks</application>
-<application> tapes</application>
-<application> sealers)</application>
-</applications>
+<applications> </applications>
 <markets>
-<market>Petrochemical</market>
+<market>Chemical Processing</market>
 </markets>
 <features> </features>
 <genericType/>
@@ -5363,15 +5626,9 @@
 <types>
 <type>Additives</type>
 </types>
-<applications>
-<application>Misc (grouts</application>
-<application> fillers</application>
-<application> caulks</application>
-<application> tapes</application>
-<application> sealers)</application>
-</applications>
+<applications> </applications>
 <markets>
-<market>Petrochemical</market>
+<market>Chemical Processing</market>
 </markets>
 <features> </features>
 <genericType/>
@@ -5418,16 +5675,10 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Secondary Containment</market>
-<market>Pulp &amp; Paper</market>
-<market>Chemical Processing/Refining</market>
-<market>Automotive</market>
-<market>Food &amp; Beverage</market>
-<market>Multiple Markets</market>
-<market>Metals &amp; Mining</market>
 <market>Other</market>
-<market>Power - Thermal Fuel</market>
+<market>Chemical Processing</market>
+<market>Semiconductor &amp; EV</market>
+<market>Food &amp; Beverage</market>
 </markets>
 <features>
 <feature>Unaffected by MVT (moisture vapor transmission)</feature>
@@ -5500,11 +5751,12 @@
 </types>
 <applications>
 <application>Resinous Flooring</application>
+<application/>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -5569,9 +5821,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -5710,9 +5962,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -5783,9 +6035,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -5860,9 +6112,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -5929,10 +6181,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>OEM</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -5988,11 +6239,12 @@
 </types>
 <applications>
 <application>Resinous Flooring</application>
+<application/>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -6310,12 +6562,10 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
-<market>Automotive</market>
-<market>Food &amp; Beverage</market>
-<market>Distributor</market>
-<market>Multiple Markets</market>
+<market>Healthcare</market>
+<market>Semiconductor &amp; EV</market>
 <market>Other</market>
+<market>Food &amp; Beverage</market>
 </markets>
 <features>
 <feature>Zero VOCs</feature>
@@ -6378,7 +6628,7 @@
 </applications>
 <markets>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 </markets>
 <features> </features>
 <genericType>Fast curing, low temp, concrete repair mortar</genericType>
@@ -6435,12 +6685,10 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
-<market>Automotive</market>
-<market>Food &amp; Beverage</market>
-<market>Distributor</market>
-<market>Multiple Markets</market>
+<market>Healthcare</market>
+<market>Semiconductor &amp; EV</market>
 <market>Other</market>
+<market>Food &amp; Beverage</market>
 </markets>
 <features>
 <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>
@@ -6513,10 +6761,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Multiple Markets</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -6582,10 +6829,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Multiple Markets</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -6644,12 +6890,10 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
-<market>Automotive</market>
-<market>Food &amp; Beverage</market>
-<market>Distributor</market>
-<market>Multiple Markets</market>
+<market>Healthcare</market>
+<market>Semiconductor &amp; EV</market>
 <market>Other</market>
+<market>Food &amp; Beverage</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -6720,14 +6964,10 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Commercial &amp; Architectural</market>
-<market>Secondary Containment</market>
-<market>Automotive</market>
-<market>Food &amp; Beverage</market>
-<market>Distributor</market>
-<market>Multiple Markets</market>
 <market>Other</market>
+<market>Healthcare</market>
+<market>Semiconductor &amp; EV</market>
+<market>Food &amp; Beverage</market>
 </markets>
 <features>
 <feature>Meets most VOC Requirements</feature>
@@ -6797,12 +7037,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
-<market>Secondary Containment</market>
-<market>Food &amp; Beverage</market>
-<market>Distributor</market>
-<market>Multiple Markets</market>
+<market>Healthcare</market>
 <market>Other</market>
+<market>Food &amp; Beverage</market>
 </markets>
 <features>
 <feature>Meets most VOC Requirements</feature>
@@ -6864,11 +7101,9 @@
 <application>Resinous Flooring</application>
 </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
-<market>Pulp &amp; Paper</market>
+<market>Healthcare</market>
+<market>Other</market>
 <market>Food &amp; Beverage</market>
-<market>Distributor</market>
-<market>Flooring</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -6935,11 +7170,9 @@
 <application>Wall Coatings</application>
 </applications>
 <markets>
-<market>Water &amp; Wastewater</market>
-<market>Commercial &amp; Architectural</market>
-<market>Pulp &amp; Paper</market>
+<market>Other</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Government/Military</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -7032,6 +7265,11 @@
 <type>OTHER</type>
 </link>
 <link>
+<name>Steri-Seal HC SDS Part A</name>
+<url>https://msds.carboline.com/servlet/FeedFile/1/prod/269D/78F24CFB809E59D085258C4C00560922/269DA1NL_2_USANSI.pdf</url>
+<type>MSDS</type>
+</link>
+<link>
 <name>Steri-Seal HC SDS Part B</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/269D/12896/Steri-Seal-HC-B-GHS.pdf</url>
 <type>OTHER</type>
@@ -7047,21 +7285,15 @@
 </description>
 <guid isPermaLink="false">Universal Color Pack</guid>
 <id>F101</id>
-<family/>
+<family>Dudick</family>
 <types>
 <type>Epoxy Amines</type>
 </types>
-<applications>
-<application>Misc (grouts</application>
-<application> fillers</application>
-<application> caulks</application>
-<application> tapes</application>
-<application> sealers)</application>
-</applications>
+<applications> </applications>
 <markets>
-<market>Commercial &amp; Architectural</market>
+<market>Healthcare</market>
 <market>Food &amp; Beverage</market>
-<market>Flooring</market>
+<market>Other</market>
 <market>Pharmaceutical</market>
 </markets>
 <features>
@@ -7112,11 +7344,16 @@
 </description>
 <guid isPermaLink="false">Vapor Stop</guid>
 <id>183D</id>
-<family/>
+<family>Dudick</family>
 <types> </types>
-<applications> </applications>
+<applications>
+<application>Concrete Repair</application>
+<application>Concrete Coating Systems</application>
+<application>Resinous Flooring</application>
+<application>Secondary Containment</application>
+</applications>
 <markets>
-<market>Flooring</market>
+<market>Other</market>
 </markets>
 <features>
 <feature>Contributes toward satisfying credit for low emitting material under LEED 4.1</feature>

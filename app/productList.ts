@@ -168,13 +168,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -250,7 +250,7 @@ export const products = [
     "product": {
       "name": "Caulk PSC",
       "id": "244D",
-      "family": "",
+      "family": "Dudick",
       "types": [
         {
           "type": "Specialties"
@@ -269,13 +269,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Oil & Gas Midstream"
-        },
-        {
-          "market": "Flooring"
+          "market": "Other"
         }
       ],
       "features": [
@@ -339,7 +333,7 @@ export const products = [
     "product": {
       "name": "EA-1 Aggregate",
       "id": "126D",
-      "family": "",
+      "family": "Dudick",
       "types": [
         {
           "type": "Specialties"
@@ -355,7 +349,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Flooring"
+          "market": "Other"
         }
       ],
       "features": [],
@@ -389,7 +383,7 @@ export const products = [
     "product": {
       "name": "Gelcoat 800",
       "id": "246D",
-      "family": "",
+      "family": "Dudick",
       "types": [],
       "applications": [
         {
@@ -398,13 +392,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Storage Tanks"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -468,7 +459,7 @@ export const products = [
     "product": {
       "name": "Gelcoat 900",
       "id": "270D",
-      "family": "",
+      "family": "Dudick",
       "types": [],
       "applications": [
         {
@@ -477,13 +468,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Storage Tanks"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -630,7 +618,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Electronics"
+          "market": "Semiconductor & EV"
         }
       ],
       "features": [
@@ -710,7 +698,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Electronics"
+          "market": "Semiconductor & EV"
         }
       ],
       "features": [
@@ -801,7 +789,11 @@ export const products = [
           "application": "Resinous Flooring"
         }
       ],
-      "markets": [],
+      "markets": [
+        {
+          "market": "Chemical Processing"
+        }
+      ],
       "features": [
         {
           "feature": "Dissipative in the range of 1 x 106 to 109 ohms"
@@ -896,19 +888,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -1317,19 +1300,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -1428,19 +1402,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -1533,19 +1498,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -1638,19 +1594,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -1746,19 +1693,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -1854,22 +1792,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Secondary Containment"
+          "market": "Semiconductor & EV"
         },
         {
-          "market": "Electronics"
-        },
-        {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "Flooring"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -2009,22 +1938,16 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
-          "market": "Electronics"
-        },
-        {
-          "market": "Food & Beverage"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Multiple Markets"
+          "market": "Semiconductor & EV"
         },
         {
           "market": "Other"
+        },
+        {
+          "market": "Food & Beverage"
         }
       ],
       "features": [
@@ -2120,7 +2043,7 @@ export const products = [
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         }
       ],
       "features": [
@@ -2200,22 +2123,16 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
-          "market": "Electronics"
-        },
-        {
-          "market": "Food & Beverage"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Multiple Markets"
+          "market": "Semiconductor & EV"
         },
         {
           "market": "Other"
+        },
+        {
+          "market": "Food & Beverage"
         }
       ],
       "features": [
@@ -2368,13 +2285,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Multiple Markets"
+          "market": "Other"
         }
       ],
       "features": [
@@ -2504,6 +2421,82 @@ export const products = [
           "link": {
             "name": "Protecto-Coat 100XT SDS Part B",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/103D/12873/P-Coat-100XT-B-new-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "100% solids, novolac epoxy coating",
+      "designation": " ",
+      "description": "Protecto-Coat 100XT is a 100% solids, flake-filled, high functionality, novolac epoxy coating. The novolac epoxy binder and overlapping flake fillers in Protecto-Coat 100XT provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Protecto-Coat 100XT",
+      "id": "311D",
+      "family": "Protecto-Coat",
+      "types": [],
+      "applications": [
+        {
+          "application": "Secondary Containment"
+        }
+      ],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Broad spectrum chemical resistance"
+        },
+        {
+          "feature": "Superior adhesion to metal substrates and concrete"
+        },
+        {
+          "feature": "Blush resistant formulation"
+        },
+        {
+          "feature": "Meets all VOC Requirements"
+        },
+        {
+          "feature": "Can be seeded with Sand or Aluminum Oxide for Anti-Skid"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protect-Coat 100XT - Health Product Declaration (HPD)",
+            "@_url": "https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 100XT PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/311D/PDS%3A%7BPC%3A311D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_100XT_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 100XT SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/311D/13108/P-Coat-100XT-A-new-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Protecto-Coat 100XT SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/311D/13109/P-Coat-100XT-B-new-GHS.pdf",
             "@_type": "OTHER"
           }
         }
@@ -2692,10 +2685,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Storage Tanks"
+          "market": "Other"
         }
       ],
       "features": [
@@ -2775,19 +2765,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
-        },
-        {
-          "market": "Secondary Containment"
+          "market": "Other"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "Flooring"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -2874,6 +2858,87 @@ export const products = [
       "genericType": "Solvent Free Aromatic Polyurethane Hybrid",
       "designation": " ",
       "description": "Plural-component applied coating used as a lining in the technology manufacturing facilities to protect the substrate from traffic and moderate chemical exposure. Provides protection against microbiologically induced corrosion (MIC) and hydrogen sulfide corrosion found in wastewater treatment service.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Protecto-Coat 700",
+      "id": "104D",
+      "family": "Protecto-Coat",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [
+        {
+          "feature": "Low Permeability"
+        },
+        {
+          "feature": "Conductive Version Available"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Coat 700 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/104D/PDS%3A%7BPC%3A104D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_700_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "flake filled, thermosetting polyester coatings",
+      "designation": "This is a product that Carboline is intending to drop from the product line. \n Please reach out to your Carboline Sales Representative for a product alternative. ",
+      "description": "Protecto-Coat 700 coating are distinct formulations\ndesigned to offer a wide range of high performance,\nsuitable for many different industrial and manufacturing\napplications. Flake or graphite fillers enhance the\nprotection necessary for specific chemical environments.\nThe coatings are formulated for brush, roller or spray\napplication.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Protecto-Coat 705",
+      "id": "130D",
+      "family": "Protecto-Coat",
+      "types": [
+        {
+          "type": "Specialties"
+        }
+      ],
+      "applications": [],
+      "markets": [],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Coat 705 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/130D/PDS%3A%7BPC%3A130D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_705_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "",
+      "designation": "This is a product that Carboline is intending to drop from the product line. \n Please reach out to your Carboline Sales Representative for a product alternative. ",
+      "description": "",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -2984,16 +3049,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "Storage Tanks"
+          "market": "Chemical Processing"
         },
         {
           "market": "Pharmaceutical"
@@ -3079,16 +3138,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "Storage Tanks"
+          "market": "Chemical Processing"
         },
         {
           "market": "Pharmaceutical"
@@ -3327,10 +3380,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Storage Tanks"
+          "market": "Other"
         }
       ],
       "features": [
@@ -3453,9 +3503,6 @@ export const products = [
           "feature": "Excellent Chemical Resistance"
         },
         {
-          "feature": "Conductive Version Available"
-        },
-        {
           "feature": "Low Permeability"
         }
       ],
@@ -3529,13 +3576,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -3621,13 +3665,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -3716,10 +3757,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Flooring"
+          "market": "Other"
         }
       ],
       "features": [
@@ -3799,10 +3837,7 @@ export const products = [
           "market": "Food & Beverage"
         },
         {
-          "market": "Multiple Markets"
-        },
-        {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -3944,13 +3979,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Chemical Processing/Refining"
+          "market": "Chemical Processing"
         },
         {
           "market": "Food & Beverage"
-        },
-        {
-          "market": "Petrochemical"
         }
       ],
       "features": [
@@ -4002,6 +4034,41 @@ export const products = [
   },
   {
     "product": {
+      "name": "Protecto-Flex 800 TC",
+      "id": "223D",
+      "family": "Protecto-Flex",
+      "types": [],
+      "applications": [],
+      "markets": [],
+      "features": [],
+      "links": [
+        {
+          "link": {
+            "name": "Protecto-Flex 800 TC PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/223D/PDS%3A%7BPC%3A223D%3BMID%3A1%3BLID%3A1%7D/Protecto-Flex_800_TC_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
+      "genericType": "",
+      "designation": " ",
+      "description": "",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Protecto-Flex BC",
       "id": "154D",
       "family": "Protecto-Flex",
@@ -4017,7 +4084,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
+          "market": "Other"
         }
       ],
       "features": [
@@ -4121,16 +4188,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
-        },
-        {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Storage Tanks"
-        },
-        {
-          "market": "Flooring"
+          "market": "Other"
         }
       ],
       "features": [
@@ -4211,13 +4269,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Storage Tanks"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -4516,13 +4571,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Storage Tanks"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -4660,7 +4712,7 @@ export const products = [
     "product": {
       "name": "S-10 Cleaning Solvent",
       "id": "227D",
-      "family": "",
+      "family": "Dudick",
       "types": [],
       "applications": [],
       "markets": [],
@@ -4700,6 +4752,137 @@ export const products = [
   },
   {
     "product": {
+      "name": "Sanitile 555 VOC",
+      "id": "S555",
+      "family": "Sanitile",
+      "types": [
+        {
+          "type": "Water Based Products"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Wall Coatings"
+        },
+        {
+          "application": "Steel Decks"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Healthcare"
+        },
+        {
+          "market": "Other"
+        },
+        {
+          "market": "Food & Beverage"
+        },
+        {
+          "market": "Chemical Processing"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Very good chemical resistance"
+        },
+        {
+          "feature": "Resists repeated cleaning"
+        },
+        {
+          "feature": "Gloss finish for ease of cleaning"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": " VOC is < 100 g/L"
+        },
+        {
+          "feature": "Fast dry to touch and recoat"
+        },
+        {
+          "feature": "Hard"
+        },
+        {
+          "feature": " tough"
+        },
+        {
+          "feature": " abrasion resistant film"
+        },
+        {
+          "feature": "Suitable for use in USDA inspected facilities"
+        },
+        {
+          "feature": "Breathable for concrete with high moisture vapor transmission"
+        },
+        {
+          "feature": " when used as part of an all waterbased system"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sanitile 555 VOC (Sanitile 555) SDS Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/S555/4B15648969A6AED785258033006B065C/0910B1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Sanitile 555 VOC - Product Flyer",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/S555/10027/Sanitile+555+VOC+ProductFlyer_1116.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sanitile 555 VOC Environmental Product Declaration (EPD)",
+            "@_url": "https://carboline.box.com/shared/static/g7b7cdtjmr4npr5tkd921hr5q0iugq34.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sanitile 555 VOC PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/S555/PDS%3A%7BPC%3AS555%3BMID%3A1%3BLID%3A1%7D/Sanitile_555_VOC_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Sanitile 555 VOC SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/S555/EFEF058236D5C49E85257FAA00765650/S555A1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
+            "name": "VOC Emissions Certificate - Sanitile 555 VOC",
+            "@_url": "https://carboline.box.com/shared/static/dd3y7alw90avhlxbq3s51d5ajppiut2z.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "Cross-linked water-based epoxy",
+      "designation": " ",
+      "description": "A water-based epoxy finish that is easy to apply and has very good chemical resistance. Sanitile 555 VOC has minimal odor and is less than 100 g/L VOC. It has significant improvements in film hardness and toughness over straight acrylic or acrylic-epoxy coatings and is more chemically and physically resistant. It is therefore ideal for more aggressive exposures on walls and structural components than acrylic-modified epoxies. It may also be used for light to moderate duty floors.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
       "name": "Scratch-Coat 300",
       "id": "117D",
       "family": "Scratch Coat",
@@ -4718,7 +4901,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
+          "market": "Other"
         }
       ],
       "features": [
@@ -4808,13 +4991,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Secondary Containment"
+          "market": "Other"
         },
         {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -4864,6 +5044,101 @@ export const products = [
       "genericType": "Vinyl ester patching compound",
       "designation": " ",
       "description": "A vinyl ester based patching compound for filling surface defects and bugholes in concrete substrates. This product uses an epoxy resin and a unique, inert mineral filler to achieve a smooth non-slumping fill material. The system is formulated to improve the integrity and continuity of a prepared substrate, prior to the application of a coating or lining system.",
+      "productfinish": "",
+      "productdfts": "",
+      "solidscontent": "",
+      "solidsmeasurement": "",
+      "solidsvalue": "",
+      "vocvalues": "",
+      "dtrs": "",
+      "ratio": "",
+      "potlife": "",
+      "potlifecomments": "",
+      "cureschedule": "",
+      "locale": "en_US"
+    }
+  },
+  {
+    "product": {
+      "name": "Sealer 200SD",
+      "id": "099D",
+      "family": "Sealers",
+      "types": [
+        {
+          "type": "Water Based Products"
+        }
+      ],
+      "applications": [
+        {
+          "application": "Resinous Flooring"
+        }
+      ],
+      "markets": [
+        {
+          "market": "Semiconductor & EV"
+        },
+        {
+          "market": "Other"
+        },
+        {
+          "market": "Pharmaceutical"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Contributes toward satisfying credit for low emitting material under LEED 4.1"
+        },
+        {
+          "feature": "Meets California Department of Public Health CDPH/EHLB Standard Method Version 1.2 2017 Compliance Certificates Available Upon Request"
+        },
+        {
+          "feature": "Meets SCAQMD Rule 1113 for VOC content"
+        },
+        {
+          "feature": "User friendly application"
+        },
+        {
+          "feature": "Field and shop application"
+        },
+        {
+          "feature": "Soap & water clean up"
+        },
+        {
+          "feature": "Low odor"
+        },
+        {
+          "feature": " low VOC’s"
+        },
+        {
+          "feature": "Excellent adhesion and chemical & abrasion resistance"
+        }
+      ],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 200SD PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/099D/PDS%3A%7BPC%3A099D%3BMID%3A1%3BLID%3A1%7D/Sealer_200SD_PDS.pdf",
+            "@_type": "PDS"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200SD Safety Data Sheet - Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/099D/13006/Sealer-200WBSD-A-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 200SD Safety Data Sheet - Part B",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/099D/13007/Sealer-200WBSD-B-GHS.pdf",
+            "@_type": "OTHER"
+          }
+        }
+      ],
+      "genericType": "Electrostatic dissipative, water borne aliphatic urethane",
+      "designation": " ",
+      "description": "Sealer 200SD is a two component, water borne electrostatic, dissipative, aliphatic urethane floor coating that offers the abrasion resistance and toughness inherent of urethanes. It also provides excellent resistance to UV discoloration, impact and staining.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -5345,7 +5620,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Electronics"
+          "market": "Semiconductor & EV"
         }
       ],
       "features": [
@@ -5427,7 +5702,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Flooring"
+          "market": "Other"
         }
       ],
       "features": [
@@ -5769,16 +6044,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
-        },
-        {
-          "market": "Other"
         }
       ],
       "features": [
@@ -5798,7 +6070,29 @@ export const products = [
           "feature": "Meets IEEE ANSI C57.12.29-2005 Standard For Pad Mounted Equipment"
         }
       ],
-      "links": [],
+      "links": [
+        {
+          "link": {
+            "name": "Sealer 80 Part A SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/341D/12298/Sealer+80++A+SDS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 80 Part B SDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/341D/12296/Sealer+80+B+SDS.pdf",
+            "@_type": "OTHER"
+          }
+        },
+        {
+          "link": {
+            "name": "Sealer 80 PDS",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/341D/PDS%3A%7BPC%3A341D%3BMID%3A1%3BLID%3A1%7D/Sealer_80_PDS.pdf",
+            "@_type": "PDS"
+          }
+        }
+      ],
       "genericType": "Engineered Hybrid Sealer",
       "designation": " ",
       "description": "Sealer 80 is an isocyanate free, ultra-durable, fast-cure coating that provides outstanding color and gloss retention. It combines the chemical resistant properties of epoxies with the weathering characteristics of acrylic-polyurethanes giving it a tightly cross-linked film resulting in a finish with outstanding barrier properties against Vaporized Hydrogen Peroxide.",
@@ -5947,13 +6241,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -6044,19 +6338,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Pulp & Paper"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
-        },
-        {
-          "market": "Power - Thermal Fuel"
+          "market": "Chemical Processing"
         },
         {
           "market": "Pharmaceutical"
@@ -6132,16 +6417,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
-        },
-        {
-          "market": "Power - Thermal Fuel"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -6266,19 +6545,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
-        },
-        {
-          "market": "Power - Thermal Fuel"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -6399,16 +6669,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -6504,10 +6768,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Metals & Mining"
+          "market": "Other"
         },
         {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -6621,7 +6885,7 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -6701,13 +6965,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "OEM"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -6793,10 +7054,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         },
         {
           "market": "Pharmaceutical"
@@ -6879,10 +7140,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         },
         {
-          "market": "OEM"
+          "market": "Other"
         }
       ],
       "features": [
@@ -6938,7 +7199,7 @@ export const products = [
       ],
       "genericType": "Rubberized epoxy membrane",
       "designation": " ",
-      "description": "Semstone 806 is a 100% solids, low odor, rubberized epoxy. It is used as a chemically resistant membrane for concrete. When reinforced with our flexible fabrics it provides a system which will bridge working cracks as well as expansion joints. When reinforced with Semstone 100 fabric, it can bridge crack expansion joint movement up to 1/2” without cracking.\nThis product is a self-leveling material. However, it maybe used as a high build coating system by the addition of a third component, Semstone Thixotrope D, which is a non-silica Thixotrope. When using reinforcing fabric, Thixotrope D  is not required. \nConcrete slabs with severe cracking problems, as well as all construction and expansion joints, may be treated using Semstone 806 with #100 Fabric. This ideal ideal for use as a secondary containment membrane.",
+      "description": "Semstone 806 is a 100% solids, low odor, rubberized epoxy. It is used as a chemically resistant membrane for concrete. When reinforced with our flexible fabrics it provides a system which will bridge working cracks as well as expansion joints. When reinforced with Semstone 100 fabric, it can bridge crack expansion joint movement up to 1/2” without cracking.\nThis product is a self-leveling material. However, it maybe used as a high build coating system by the addition of a third component, Semstone Thixotrope D, which is a non-silica Thixotrope. When using reinforcing fabric, Thixotrope D  is not required. \nConcrete slabs with severe cracking problems, as well as all construction and expansion joints, may be treated using Semstone 806 with #100 Fabric. This is ideal for use as a secondary containment membrane.",
       "productfinish": "",
       "productdfts": "",
       "solidscontent": "",
@@ -6970,16 +7231,10 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Metals & Mining"
-        },
-        {
-          "market": "Petrochemical"
-        },
-        {
-          "market": "Power - Thermal Fuel"
+          "market": "Chemical Processing"
         }
       ],
       "features": [
@@ -7100,26 +7355,10 @@ export const products = [
           "type": "Specialties"
         }
       ],
-      "applications": [
-        {
-          "application": "Misc (grouts"
-        },
-        {
-          "application": " fillers"
-        },
-        {
-          "application": " caulks"
-        },
-        {
-          "application": " tapes"
-        },
-        {
-          "application": " sealers)"
-        }
-      ],
+      "applications": [],
       "markets": [
         {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         }
       ],
       "features": [],
@@ -7255,26 +7494,10 @@ export const products = [
           "type": "Additives"
         }
       ],
-      "applications": [
-        {
-          "application": "Misc (grouts"
-        },
-        {
-          "application": " fillers"
-        },
-        {
-          "application": " caulks"
-        },
-        {
-          "application": " tapes"
-        },
-        {
-          "application": " sealers)"
-        }
-      ],
+      "applications": [],
       "markets": [
         {
-          "market": "Petrochemical"
+          "market": "Chemical Processing"
         }
       ],
       "features": [],
@@ -7328,34 +7551,16 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
-        },
-        {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Pulp & Paper"
-        },
-        {
-          "market": "Chemical Processing/Refining"
-        },
-        {
-          "market": "Automotive"
-        },
-        {
-          "market": "Food & Beverage"
-        },
-        {
-          "market": "Multiple Markets"
-        },
-        {
-          "market": "Metals & Mining"
-        },
-        {
           "market": "Other"
         },
         {
-          "market": "Power - Thermal Fuel"
+          "market": "Chemical Processing"
+        },
+        {
+          "market": "Semiconductor & EV"
+        },
+        {
+          "market": "Food & Beverage"
         }
       ],
       "features": [
@@ -7463,17 +7668,20 @@ export const products = [
       "applications": [
         {
           "application": "Resinous Flooring"
+        },
+        {
+          "application": ""
         }
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -7571,13 +7779,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -7788,13 +7996,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -7902,13 +8110,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -8020,13 +8228,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -8122,16 +8330,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "OEM"
-        },
-        {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -8212,17 +8417,20 @@ export const products = [
       "applications": [
         {
           "application": "Resinous Flooring"
+        },
+        {
+          "application": ""
         }
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -8663,22 +8871,16 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
-          "market": "Automotive"
-        },
-        {
-          "market": "Food & Beverage"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Multiple Markets"
+          "market": "Semiconductor & EV"
         },
         {
           "market": "Other"
+        },
+        {
+          "market": "Food & Beverage"
         }
       ],
       "features": [
@@ -8770,7 +8972,7 @@ export const products = [
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         }
       ],
       "features": [],
@@ -8838,22 +9040,16 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
-          "market": "Automotive"
-        },
-        {
-          "market": "Food & Beverage"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Multiple Markets"
+          "market": "Semiconductor & EV"
         },
         {
           "market": "Other"
+        },
+        {
+          "market": "Food & Beverage"
         }
       ],
       "features": [
@@ -8959,16 +9155,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Multiple Markets"
-        },
-        {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -9063,16 +9256,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Multiple Markets"
-        },
-        {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -9154,22 +9344,16 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
-          "market": "Automotive"
-        },
-        {
-          "market": "Food & Beverage"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Multiple Markets"
+          "market": "Semiconductor & EV"
         },
         {
           "market": "Other"
+        },
+        {
+          "market": "Food & Beverage"
         },
         {
           "market": "Pharmaceutical"
@@ -9269,28 +9453,16 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Automotive"
+          "market": "Semiconductor & EV"
         },
         {
           "market": "Food & Beverage"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Multiple Markets"
-        },
-        {
-          "market": "Other"
         }
       ],
       "features": [
@@ -9381,22 +9553,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
-        },
-        {
-          "market": "Secondary Containment"
-        },
-        {
-          "market": "Food & Beverage"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Multiple Markets"
+          "market": "Healthcare"
         },
         {
           "market": "Other"
+        },
+        {
+          "market": "Food & Beverage"
         }
       ],
       "features": [
@@ -9485,19 +9648,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
-          "market": "Pulp & Paper"
+          "market": "Other"
         },
         {
           "market": "Food & Beverage"
-        },
-        {
-          "market": "Distributor"
-        },
-        {
-          "market": "Flooring"
         },
         {
           "market": "Pharmaceutical"
@@ -9593,19 +9750,13 @@ export const products = [
       ],
       "markets": [
         {
-          "market": "Water & Wastewater"
+          "market": "Other"
         },
         {
-          "market": "Commercial & Architectural"
-        },
-        {
-          "market": "Pulp & Paper"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
-        },
-        {
-          "market": "Government/Military"
         },
         {
           "market": "Pharmaceutical"
@@ -9723,6 +9874,13 @@ export const products = [
         },
         {
           "link": {
+            "name": "Steri-Seal HC SDS Part A",
+            "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/269D/78F24CFB809E59D085258C4C00560922/269DA1NL_2_USANSI.pdf",
+            "@_type": "MSDS"
+          }
+        },
+        {
+          "link": {
             "name": "Steri-Seal HC SDS Part B",
             "@_url": "https://msds.carboline.com/servlet/FeedFile/1/prod/269D/12896/Steri-Seal-HC-B-GHS.pdf",
             "@_type": "OTHER"
@@ -9750,38 +9908,22 @@ export const products = [
     "product": {
       "name": "Universal Color Pack",
       "id": "F101",
-      "family": "",
+      "family": "Dudick",
       "types": [
         {
           "type": "Epoxy Amines"
         }
       ],
-      "applications": [
-        {
-          "application": "Misc (grouts"
-        },
-        {
-          "application": " fillers"
-        },
-        {
-          "application": " caulks"
-        },
-        {
-          "application": " tapes"
-        },
-        {
-          "application": " sealers)"
-        }
-      ],
+      "applications": [],
       "markets": [
         {
-          "market": "Commercial & Architectural"
+          "market": "Healthcare"
         },
         {
           "market": "Food & Beverage"
         },
         {
-          "market": "Flooring"
+          "market": "Other"
         },
         {
           "market": "Pharmaceutical"
@@ -9856,12 +9998,25 @@ export const products = [
     "product": {
       "name": "Vapor Stop",
       "id": "183D",
-      "family": "",
+      "family": "Dudick",
       "types": [],
-      "applications": [],
+      "applications": [
+        {
+          "application": "Concrete Repair"
+        },
+        {
+          "application": "Concrete Coating Systems"
+        },
+        {
+          "application": "Resinous Flooring"
+        },
+        {
+          "application": "Secondary Containment"
+        }
+      ],
       "markets": [
         {
-          "market": "Flooring"
+          "market": "Other"
         }
       ],
       "features": [
