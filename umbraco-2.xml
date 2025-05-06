@@ -31,9 +31,9 @@
 </description>
 <link>https://tvollmer89.github.io/dudick-xml-feed/</link>
 <generator>RSS for Node and Next.js</generator>
-<lastBuildDate>Wed, 26 Mar 2025 09:40:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Apr 2025 12:21:11 GMT</lastBuildDate>
 <atom:link href="https://tvollmer89.github.io/dudick-xml-feed/feed.xml" rel="self" type="application/rss+xml"/>
-<pubDate>Wed, 26 Mar 2025 09:40:04 GMT</pubDate>
+<pubDate>Mon, 28 Apr 2025 12:21:11 GMT</pubDate>
 <copyright>
 <![CDATA[ Copyright 2025, Theresa Vollmer ]]>
 </copyright>
@@ -1842,65 +1842,6 @@
 <link>
 <name>Protecto-Coat 100XT SDS Part B</name>
 <url>https://msds.carboline.com/servlet/FeedFile/1/prod/103D/12873/P-Coat-100XT-B-new-GHS.pdf</url>
-<type>OTHER</type>
-</link>
-</links>
-</item>
-<item>
-<title>
-<![CDATA[ Protecto-Coat 100XT ]]>
-</title>
-<description>
-<![CDATA[ Protecto-Coat 100XT is a 100% solids, flake-filled, high functionality, novolac epoxy coating. The novolac epoxy binder and overlapping flake fillers in Protecto-Coat 100XT provide the low permeability, high film integrity, and excellent chemical resistance required for prolonged substrate protection. ]]>
-</description>
-<guid isPermaLink="false">Protecto-Coat 100XT</guid>
-<id>311D</id>
-<family>Protecto-Coat</family>
-<types> </types>
-<applications>
-<application>Secondary Containment</application>
-</applications>
-<markets> </markets>
-<features>
-<feature>Broad spectrum chemical resistance</feature>
-<feature>Superior adhesion to metal substrates and concrete</feature>
-<feature>Blush resistant formulation</feature>
-<feature>Meets all VOC Requirements</feature>
-<feature>Can be seeded with Sand or Aluminum Oxide for Anti-Skid</feature>
-</features>
-<genericType>100% solids, novolac epoxy coating</genericType>
-<designation> </designation>
-<productfinish/>
-<productdfts/>
-<solidscontent/>
-<solidsmeasurement/>
-<solidsvalue/>
-<vocvalues/>
-<dtrs/>
-<ratio/>
-<potlife/>
-<potlifecomments/>
-<cureschedule/>
-<locale>en_US</locale>
-<links>
-<link>
-<name>Protect-Coat 100XT - Health Product Declaration (HPD)</name>
-<url>https://hpdrepository.hpd-collaborative.org/Pages/Results.aspx#</url>
-<type>OTHER</type>
-</link>
-<link>
-<name>Protecto-Coat 100XT PDS</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311D/PDS%3A%7BPC%3A311D%3BMID%3A1%3BLID%3A1%7D/Protecto-Coat_100XT_PDS.pdf</url>
-<type>PDS</type>
-</link>
-<link>
-<name>Protecto-Coat 100XT SDS Part A</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311D/13108/P-Coat-100XT-A-new-GHS.pdf</url>
-<type>OTHER</type>
-</link>
-<link>
-<name>Protecto-Coat 100XT SDS Part B</name>
-<url>https://msds.carboline.com/servlet/FeedFile/1/prod/311D/13109/P-Coat-100XT-B-new-GHS.pdf</url>
 <type>OTHER</type>
 </link>
 </links>
